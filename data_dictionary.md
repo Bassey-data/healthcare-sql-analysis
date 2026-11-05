@@ -1,4 +1,4 @@
-# Data Dictionary — Healthcare Portfolio Database
+# Data Dictionary: Healthcare Portfolio Database
 
 Synthetic data generated for portfolio/learning purposes only. Not real patient data.
 
