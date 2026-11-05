@@ -20,7 +20,7 @@ FROM (
     GROUP BY first_name, last_name, date_of_birth
     HAVING COUNT(*) > 1
 ) AS duplicated_groups;
--- Decision: reported, not removed. Same name + DOB is strong evidence but not proof.
+
 
 
 -- Billing: amount is text and some values carry a '£'
@@ -77,9 +77,6 @@ ORDER BY diagnosis_code;
 
 
 -- Using views 
--- Every analysis query in files 03-05 reads from these views.
-
-
 -- Patients: standardised gender / insurance, cleaned DOB, age and age band
 CREATE OR REPLACE VIEW v_patients_clean AS
 SELECT patient_id,
