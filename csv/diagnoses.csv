@@ -1,0 +1,4690 @@
+diagnosis_id,appointment_id,diagnosis_code,diagnosis_description
+1,2,R51,Headache
+2,4,I25.1,ATHEROSCLEROTIC HEART DISEASE
+3,5,J06.9,Acute upper respiratory infection
+4,7,I25.1,Atherosclerotic heart disease
+5,9,G43.9,"Migraine, unspecified"
+6,10,F32.9,"Major depressive disorder, unspecified"
+7,11,E78.5,"Hyperlipidaemia, unspecified"
+8,12,M17.9,Osteoarthritis of knee
+9,14,I10,Essential hypertension  
+10,15,M17.9,Osteoarthritis of knee  
+11,16,I10,Essential hypertension
+12,21,F32.9,"Major depressive disorder, unspecified  "
+13,22,L20.9,Atopic dermatitis
+14,23,C50.9,Malignant neoplasm of breast
+15,24,C50.9,Malignant neoplasm of breast
+16,25,N39.0,Urinary tract infection
+17,26,E11,Type 2 diabetes mellitus
+18,28,E78.5,"Hyperlipidaemia, unspecified"
+19,29,M17.9,Osteoarthritis of knee
+20,30,C50.9,Malignant neoplasm of breast
+21,32,M17.9,Osteoarthritis of knee
+22,33,M17.9,Osteoarthritis of knee
+23,35,G43.9,"Migraine, unspecified  "
+24,40,I25.1,Atherosclerotic heart disease
+25,42,E78.5,"Hyperlipidaemia, unspecified"
+26,43,J45.9,"Asthma, unspecified"
+27,44,N39.0,URINARY TRACT INFECTION  
+28,45,M54.5,Low back pain
+29,47,K21.9,Gastro-oesophageal reflux disease
+30,48,J06.9,Acute upper respiratory infection  
+31,49,M17.9,Osteoarthritis of knee
+32,50,M54.5,LOW BACK PAIN
+33,51,F32.9,"Major depressive disorder, unspecified"
+34,52,E11,Type 2 diabetes mellitus
+35,54,M17.9,Osteoarthritis of knee
+36,55,M54.5,Low back pain
+37,57,E78.5,"Hyperlipidaemia, unspecified"
+38,59,M54.5,Low back pain
+39,60,J45.9,"Asthma, unspecified"
+40,61,N39.0,URINARY TRACT INFECTION
+41,62,K21.9,Gastro-oesophageal reflux disease
+42,66,L20.9,Atopic dermatitis
+43,72,G43.9,"Migraine, unspecified"
+44,73,F32.9,"Major depressive disorder, unspecified"
+45,75,F32.9,"Major depressive disorder, unspecified"
+46,77,L20.9,Atopic dermatitis
+47,78,M54.5,Low back pain
+48,81,R51,Headache
+49,82,J45.9,"Asthma, unspecified"
+50,83,M17.9,Osteoarthritis of knee  
+51,85,F32.9,"Major depressive disorder, unspecified  "
+52,88,E11,Type 2 diabetes mellitus
+53,89,R51,Headache
+54,90,J45.9,"Asthma, unspecified"
+55,91,K21.9,Gastro-oesophageal reflux disease  
+56,93,K21.9,Gastro-oesophageal reflux disease
+57,94,M54.5,Low back pain
+58,97,K21.9,Gastro-oesophageal reflux disease
+59,98,C50.9,Malignant neoplasm of breast
+60,99,E78.5,"Hyperlipidaemia, unspecified"
+61,100,L20.9,Atopic dermatitis
+62,101,J45.9,"Asthma, unspecified"
+63,102,I10,Essential hypertension
+64,104,I25.1,Atherosclerotic heart disease
+65,105,I10,Essential hypertension
+66,108,R51,Headache
+67,112,J45.9,"Asthma, unspecified"
+68,114,I25.1,Atherosclerotic heart disease
+69,117,I10,Essential hypertension
+70,119,R51,Headache
+71,120,F32.9,"Major depressive disorder, unspecified  "
+72,121,N39.0,URINARY TRACT INFECTION
+73,122,E78.5,"Hyperlipidaemia, unspecified"
+74,123,E78.5,"Hyperlipidaemia, unspecified"
+75,126,M17.9,OSTEOARTHRITIS OF KNEE
+76,128,E11,Type 2 diabetes mellitus
+77,129,L20.9,Atopic dermatitis
+78,130,E11,Type 2 diabetes mellitus
+79,132,E11,Type 2 diabetes mellitus
+80,134,J06.9,Acute upper respiratory infection
+81,138,I25.1,Atherosclerotic heart disease
+82,141,E78.5,"Hyperlipidaemia, unspecified"
+83,142,C50.9,Malignant neoplasm of breast
+84,144,E78.5,"Hyperlipidaemia, unspecified"
+85,150,J45.9,"Asthma, unspecified"
+86,151,M54.5,Low back pain
+87,152,N39.0,Urinary tract infection
+88,153,N39.0,Urinary tract infection
+89,158,M54.5,Low back pain
+90,159,I25.1,Atherosclerotic heart disease
+91,161,N39.0,Urinary tract infection
+92,162,L20.9,ATOPIC DERMATITIS
+93,165,M54.5,Low back pain
+94,167,M54.5,Low back pain
+95,168,I25.1,Atherosclerotic heart disease
+96,170,F32.9,"Major depressive disorder, unspecified"
+97,171,K21.9,Gastro-oesophageal reflux disease
+98,172,C50.9,Malignant neoplasm of breast
+99,173,L20.9,Atopic dermatitis
+100,174,R51,Headache
+101,177,I25.1,Atherosclerotic heart disease
+102,178,F32.9,"Major depressive disorder, unspecified"
+103,179,N39.0,Urinary tract infection
+104,181,M17.9,Osteoarthritis of knee
+105,182,I25.1,ATHEROSCLEROTIC HEART DISEASE
+106,183,J45.9,"Asthma, unspecified"
+107,184,J45.9,"Asthma, unspecified"
+108,185,M54.5,Low back pain
+109,186,E11,Type 2 diabetes mellitus
+110,187,I25.1,Atherosclerotic heart disease
+111,188,E78.5,"Hyperlipidaemia, unspecified"
+112,189,I10,Essential hypertension
+113,196,M54.5,Low back pain
+114,198,J45.9,"Asthma, unspecified"
+115,200,K21.9,Gastro-oesophageal reflux disease
+116,202,E78.5,"Hyperlipidaemia, unspecified"
+117,203,N39.0,Urinary tract infection
+118,204,C50.9,MALIGNANT NEOPLASM OF BREAST
+119,205,K21.9,Gastro-oesophageal reflux disease  
+120,206,J45.9,"Asthma, unspecified"
+121,207,I25.1,Atherosclerotic heart disease
+122,208,F32.9,"Major depressive disorder, unspecified"
+123,212,M54.5,Low back pain
+124,213,M17.9,Osteoarthritis of knee
+125,214,M54.5,Low back pain
+126,215,L20.9,Atopic dermatitis
+127,218,L20.9,Atopic dermatitis
+128,220,N39.0,Urinary tract infection
+129,221,I10,Essential hypertension
+130,222,I25.1,Atherosclerotic heart disease
+131,225,J06.9,Acute upper respiratory infection
+132,226,N39.0,Urinary tract infection
+133,227,R51,Headache
+134,228,M54.5,Low back pain
+135,230,E78.5,"Hyperlipidaemia, unspecified  "
+136,233,E78.5,"Hyperlipidaemia, unspecified"
+137,235,M17.9,Osteoarthritis of knee
+138,237,I25.1,Atherosclerotic heart disease
+139,239,C50.9,Malignant neoplasm of breast
+140,240,G43.9,"MIGRAINE, UNSPECIFIED"
+141,242,I25.1,Atherosclerotic heart disease  
+142,245,J06.9,Acute upper respiratory infection
+143,246,L20.9,Atopic dermatitis
+144,249,N39.0,Urinary tract infection
+145,250,F32.9,"Major depressive disorder, unspecified  "
+146,254,J06.9,Acute upper respiratory infection
+147,255,M54.5,Low back pain
+148,256,M54.5,Low back pain
+149,258,C50.9,Malignant neoplasm of breast
+150,260,I25.1,Atherosclerotic heart disease
+151,262,I10,Essential hypertension
+152,263,K21.9,Gastro-oesophageal reflux disease
+153,265,F32.9,"MAJOR DEPRESSIVE DISORDER, UNSPECIFIED"
+154,266,K21.9,Gastro-oesophageal reflux disease
+155,267,E78.5,"Hyperlipidaemia, unspecified"
+156,268,I10,Essential hypertension
+157,269,E11,Type 2 diabetes mellitus
+158,273,L20.9,Atopic dermatitis
+159,275,J06.9,Acute upper respiratory infection
+160,277,I25.1,Atherosclerotic heart disease
+161,278,C50.9,Malignant neoplasm of breast
+162,279,J06.9,Acute upper respiratory infection
+163,282,R51,Headache
+164,286,F32.9,"Major depressive disorder, unspecified"
+165,289,F32.9,"Major depressive disorder, unspecified"
+166,290,R51,Headache  
+167,292,J45.9,"Asthma, unspecified"
+168,295,F32.9,"Major depressive disorder, unspecified"
+169,296,I25.1,Atherosclerotic heart disease  
+170,297,I10,Essential hypertension
+171,299,I25.1,ATHEROSCLEROTIC HEART DISEASE
+172,300,I25.1,Atherosclerotic heart disease
+173,301,I25.1,Atherosclerotic heart disease
+174,307,E78.5,"Hyperlipidaemia, unspecified"
+175,308,J45.9,"Asthma, unspecified"
+176,309,M54.5,Low back pain
+177,310,I10,Essential hypertension
+178,311,E78.5,"Hyperlipidaemia, unspecified"
+179,312,F32.9,"Major depressive disorder, unspecified"
+180,313,E78.5,"Hyperlipidaemia, unspecified"
+181,315,J06.9,Acute upper respiratory infection
+182,316,N39.0,Urinary tract infection
+183,323,N39.0,Urinary tract infection
+184,329,G43.9,"Migraine, unspecified"
+185,331,M17.9,Osteoarthritis of knee
+186,332,L20.9,Atopic dermatitis
+187,333,M17.9,Osteoarthritis of knee
+188,335,I10,Essential hypertension
+189,336,F32.9,"Major depressive disorder, unspecified"
+190,337,M54.5,Low back pain
+191,338,C50.9,Malignant neoplasm of breast
+192,341,N39.0,Urinary tract infection
+193,342,J06.9,Acute upper respiratory infection
+194,344,N39.0,Urinary tract infection
+195,346,E78.5,"Hyperlipidaemia, unspecified"
+196,347,E78.5,"HYPERLIPIDAEMIA, UNSPECIFIED"
+197,348,G43.9,"Migraine, unspecified"
+198,349,J06.9,Acute upper respiratory infection
+199,350,N39.0,Urinary tract infection
+200,352,M54.5,Low back pain
+201,357,G43.9,"Migraine, unspecified"
+202,359,F32.9,"Major depressive disorder, unspecified"
+203,362,E78.5,"Hyperlipidaemia, unspecified"
+204,364,N39.0,Urinary tract infection
+205,365,K21.9,Gastro-oesophageal reflux disease
+206,366,N39.0,Urinary tract infection
+207,367,M17.9,Osteoarthritis of knee
+208,369,M17.9,Osteoarthritis of knee
+209,371,E11,Type 2 diabetes mellitus
+210,372,J45.9,"Asthma, unspecified"
+211,375,K21.9,GASTRO-OESOPHAGEAL REFLUX DISEASE
+212,378,E78.5,"Hyperlipidaemia, unspecified"
+213,379,K21.9,Gastro-oesophageal reflux disease
+214,382,E78.5,"Hyperlipidaemia, unspecified"
+215,384,N39.0,Urinary tract infection
+216,385,N39.0,Urinary tract infection
+217,387,C50.9,Malignant neoplasm of breast  
+218,388,E78.5,"HYPERLIPIDAEMIA, UNSPECIFIED"
+219,389,G43.9,"MIGRAINE, UNSPECIFIED"
+220,390,E78.5,"Hyperlipidaemia, unspecified"
+221,392,I25.1,Atherosclerotic heart disease
+222,393,M54.5,Low back pain
+223,394,K21.9,Gastro-oesophageal reflux disease
+224,395,K21.9,Gastro-oesophageal reflux disease
+225,396,C50.9,Malignant neoplasm of breast
+226,398,J06.9,Acute upper respiratory infection
+227,402,F32.9,"Major depressive disorder, unspecified"
+228,406,I25.1,Atherosclerotic heart disease  
+229,407,M54.5,Low back pain
+230,408,F32.9,"Major depressive disorder, unspecified"
+231,411,E78.5,"Hyperlipidaemia, unspecified"
+232,417,G43.9,"Migraine, unspecified"
+233,419,F32.9,"Major depressive disorder, unspecified"
+234,420,I25.1,Atherosclerotic heart disease
+235,421,F32.9,"Major depressive disorder, unspecified"
+236,422,R51,Headache
+237,423,I10,Essential hypertension
+238,424,K21.9,GASTRO-OESOPHAGEAL REFLUX DISEASE
+239,425,G43.9,"Migraine, unspecified"
+240,428,J45.9,"Asthma, unspecified"
+241,430,C50.9,Malignant neoplasm of breast
+242,431,I10,ESSENTIAL HYPERTENSION
+243,435,E11,TYPE 2 DIABETES MELLITUS  
+244,436,M54.5,Low back pain
+245,438,E78.5,"Hyperlipidaemia, unspecified"
+246,441,J45.9,"Asthma, unspecified"
+247,446,G43.9,"Migraine, unspecified"
+248,452,I25.1,Atherosclerotic heart disease  
+249,454,K21.9,Gastro-oesophageal reflux disease
+250,455,M17.9,Osteoarthritis of knee
+251,457,E11,Type 2 diabetes mellitus
+252,458,E78.5,"Hyperlipidaemia, unspecified"
+253,461,M54.5,LOW BACK PAIN
+254,463,E78.5,"Hyperlipidaemia, unspecified"
+255,466,I10,Essential hypertension
+256,468,E78.5,"Hyperlipidaemia, unspecified"
+257,470,N39.0,Urinary tract infection
+258,471,J06.9,Acute upper respiratory infection
+259,472,E11,Type 2 diabetes mellitus
+260,474,E78.5,"Hyperlipidaemia, unspecified"
+261,481,E11,Type 2 diabetes mellitus
+262,484,F32.9,"Major depressive disorder, unspecified"
+263,485,K21.9,Gastro-oesophageal reflux disease
+264,486,R51,Headache
+265,488,N39.0,URINARY TRACT INFECTION
+266,491,M54.5,Low back pain
+267,492,M17.9,Osteoarthritis of knee
+268,494,I10,Essential hypertension
+269,498,F32.9,"Major depressive disorder, unspecified"
+270,501,M54.5,Low back pain
+271,502,K21.9,Gastro-oesophageal reflux disease
+272,503,I25.1,Atherosclerotic heart disease
+273,505,K21.9,Gastro-oesophageal reflux disease
+274,506,C50.9,Malignant neoplasm of breast
+275,508,L20.9,Atopic dermatitis
+276,509,I10,Essential hypertension
+277,510,L20.9,Atopic dermatitis
+278,512,K21.9,GASTRO-OESOPHAGEAL REFLUX DISEASE
+279,513,M54.5,Low back pain  
+280,514,E78.5,"HYPERLIPIDAEMIA, UNSPECIFIED  "
+281,516,L20.9,Atopic dermatitis
+282,517,M54.5,Low back pain
+283,518,I10,Essential hypertension  
+284,521,C50.9,MALIGNANT NEOPLASM OF BREAST
+285,522,F32.9,"Major depressive disorder, unspecified"
+286,523,C50.9,Malignant neoplasm of breast
+287,525,I10,Essential hypertension
+288,526,F32.9,"MAJOR DEPRESSIVE DISORDER, UNSPECIFIED"
+289,530,J06.9,Acute upper respiratory infection
+290,532,J06.9,Acute upper respiratory infection
+291,535,J06.9,Acute upper respiratory infection
+292,536,E78.5,"Hyperlipidaemia, unspecified"
+293,537,F32.9,"Major depressive disorder, unspecified"
+294,538,E11,Type 2 diabetes mellitus
+295,540,E78.5,"Hyperlipidaemia, unspecified"
+296,541,J45.9,"Asthma, unspecified"
+297,544,J45.9,"Asthma, unspecified"
+298,545,C50.9,Malignant neoplasm of breast
+299,547,K21.9,Gastro-oesophageal reflux disease
+300,550,J45.9,"Asthma, unspecified"
+301,553,J06.9,ACUTE UPPER RESPIRATORY INFECTION
+302,555,J06.9,ACUTE UPPER RESPIRATORY INFECTION
+303,558,G43.9,"Migraine, unspecified"
+304,559,J06.9,Acute upper respiratory infection
+305,561,M54.5,Low back pain  
+306,564,E11,Type 2 diabetes mellitus
+307,566,G43.9,"Migraine, unspecified"
+308,570,N39.0,Urinary tract infection
+309,573,G43.9,"Migraine, unspecified"
+310,574,I10,Essential hypertension
+311,578,M17.9,Osteoarthritis of knee
+312,580,R51,Headache
+313,581,C50.9,Malignant neoplasm of breast
+314,585,N39.0,Urinary tract infection
+315,586,G43.9,"Migraine, unspecified"
+316,588,G43.9,"Migraine, unspecified"
+317,589,L20.9,Atopic dermatitis
+318,591,I25.1,Atherosclerotic heart disease
+319,592,F32.9,"Major depressive disorder, unspecified"
+320,593,C50.9,Malignant neoplasm of breast
+321,595,F32.9,"Major depressive disorder, unspecified"
+322,596,C50.9,Malignant neoplasm of breast
+323,597,M54.5,Low back pain
+324,605,J06.9,Acute upper respiratory infection
+325,608,E78.5,"Hyperlipidaemia, unspecified"
+326,609,I25.1,Atherosclerotic heart disease
+327,610,G43.9,"Migraine, unspecified"
+328,612,M54.5,Low back pain
+329,613,N39.0,Urinary tract infection
+330,614,I10,Essential hypertension
+331,615,E11,TYPE 2 DIABETES MELLITUS
+332,616,C50.9,MALIGNANT NEOPLASM OF BREAST
+333,617,N39.0,Urinary tract infection
+334,618,M54.5,Low back pain
+335,619,J45.9,"Asthma, unspecified"
+336,621,I25.1,Atherosclerotic heart disease
+337,622,R51,Headache
+338,624,L20.9,Atopic dermatitis
+339,626,J45.9,"ASTHMA, UNSPECIFIED"
+340,629,N39.0,Urinary tract infection
+341,631,R51,Headache
+342,634,K21.9,Gastro-oesophageal reflux disease
+343,635,N39.0,Urinary tract infection
+344,636,N39.0,Urinary tract infection
+345,637,J06.9,Acute upper respiratory infection
+346,639,N39.0,Urinary tract infection
+347,640,E11,Type 2 diabetes mellitus
+348,641,E78.5,"Hyperlipidaemia, unspecified"
+349,643,F32.9,"Major depressive disorder, unspecified"
+350,644,C50.9,Malignant neoplasm of breast
+351,645,K21.9,Gastro-oesophageal reflux disease
+352,647,F32.9,"Major depressive disorder, unspecified"
+353,648,C50.9,Malignant neoplasm of breast
+354,649,R51,Headache
+355,654,F32.9,"Major depressive disorder, unspecified"
+356,661,E78.5,"Hyperlipidaemia, unspecified"
+357,664,I25.1,Atherosclerotic heart disease
+358,667,E11,Type 2 diabetes mellitus
+359,669,I10,Essential hypertension
+360,673,M17.9,Osteoarthritis of knee
+361,675,N39.0,URINARY TRACT INFECTION
+362,676,M17.9,Osteoarthritis of knee
+363,679,G43.9,"Migraine, unspecified"
+364,680,C50.9,Malignant neoplasm of breast
+365,681,N39.0,Urinary tract infection
+366,682,J45.9,"Asthma, unspecified"
+367,685,K21.9,Gastro-oesophageal reflux disease
+368,686,N39.0,Urinary tract infection
+369,688,J45.9,"Asthma, unspecified"
+370,693,I10,Essential hypertension
+371,694,M54.5,Low back pain
+372,696,I10,Essential hypertension
+373,698,M17.9,Osteoarthritis of knee
+374,699,C50.9,MALIGNANT NEOPLASM OF BREAST
+375,702,L20.9,Atopic dermatitis
+376,706,M17.9,Osteoarthritis of knee
+377,708,L20.9,Atopic dermatitis
+378,713,I10,Essential hypertension  
+379,714,J06.9,Acute upper respiratory infection
+380,716,R51,Headache
+381,717,R51,Headache
+382,721,R51,Headache
+383,722,E78.5,"Hyperlipidaemia, unspecified"
+384,723,C50.9,Malignant neoplasm of breast
+385,724,E78.5,"Hyperlipidaemia, unspecified"
+386,729,M54.5,LOW BACK PAIN
+387,731,N39.0,Urinary tract infection
+388,734,J06.9,ACUTE UPPER RESPIRATORY INFECTION  
+389,735,N39.0,Urinary tract infection
+390,737,J06.9,Acute upper respiratory infection
+391,738,J45.9,"Asthma, unspecified"
+392,739,K21.9,Gastro-oesophageal reflux disease
+393,740,C50.9,MALIGNANT NEOPLASM OF BREAST
+394,743,R51,HEADACHE
+395,744,N39.0,Urinary tract infection
+396,746,E11,Type 2 diabetes mellitus
+397,750,R51,Headache
+398,752,K21.9,Gastro-oesophageal reflux disease
+399,753,E78.5,"Hyperlipidaemia, unspecified"
+400,754,M54.5,Low back pain
+401,756,C50.9,Malignant neoplasm of breast
+402,757,R51,Headache
+403,758,R51,Headache
+404,759,E11,Type 2 diabetes mellitus  
+405,760,E78.5,"Hyperlipidaemia, unspecified"
+406,762,E11,Type 2 diabetes mellitus
+407,763,E11,Type 2 diabetes mellitus
+408,764,I10,Essential hypertension
+409,765,J45.9,"Asthma, unspecified"
+410,766,K21.9,Gastro-oesophageal reflux disease
+411,771,E11,Type 2 diabetes mellitus
+412,772,K21.9,Gastro-oesophageal reflux disease
+413,773,I25.1,Atherosclerotic heart disease
+414,774,C50.9,MALIGNANT NEOPLASM OF BREAST
+415,775,C50.9,Malignant neoplasm of breast
+416,776,M17.9,Osteoarthritis of knee
+417,778,N39.0,Urinary tract infection
+418,779,M17.9,Osteoarthritis of knee
+419,781,I25.1,Atherosclerotic heart disease
+420,782,K21.9,Gastro-oesophageal reflux disease
+421,783,I10,Essential hypertension
+422,785,M17.9,OSTEOARTHRITIS OF KNEE
+423,787,J45.9,"Asthma, unspecified"
+424,796,K21.9,Gastro-oesophageal reflux disease
+425,797,R51,Headache
+426,798,G43.9,"Migraine, unspecified"
+427,799,I10,Essential hypertension
+428,802,J06.9,Acute upper respiratory infection
+429,803,R51,Headache
+430,804,M17.9,Osteoarthritis of knee
+431,806,G43.9,"Migraine, unspecified"
+432,807,R51,Headache
+433,810,J06.9,Acute upper respiratory infection
+434,812,G43.9,"Migraine, unspecified"
+435,813,E11,Type 2 diabetes mellitus
+436,817,R51,Headache
+437,818,J45.9,"Asthma, unspecified"
+438,825,J06.9,Acute upper respiratory infection
+439,826,R51,Headache
+440,827,G43.9,"Migraine, unspecified"
+441,828,M54.5,Low back pain
+442,830,K21.9,Gastro-oesophageal reflux disease
+443,833,I25.1,Atherosclerotic heart disease
+444,834,R51,Headache
+445,835,I10,Essential hypertension
+446,837,G43.9,"Migraine, unspecified"
+447,839,E78.5,"HYPERLIPIDAEMIA, UNSPECIFIED"
+448,840,E78.5,"Hyperlipidaemia, unspecified"
+449,844,K21.9,Gastro-oesophageal reflux disease
+450,846,E78.5,"Hyperlipidaemia, unspecified  "
+451,847,I25.1,Atherosclerotic heart disease
+452,848,N39.0,Urinary tract infection
+453,850,L20.9,Atopic dermatitis
+454,852,F32.9,"Major depressive disorder, unspecified"
+455,855,J06.9,Acute upper respiratory infection  
+456,856,n390,Urinary tract infection
+457,858,L20.9,Atopic dermatitis
+458,859,I10,Essential hypertension
+459,862,C50.9,MALIGNANT NEOPLASM OF BREAST  
+460,863,K21.9,Gastro-oesophageal reflux disease
+461,864,C50.9,Malignant neoplasm of breast
+462,866,F32.9,"Major depressive disorder, unspecified"
+463,869,M17.9,Osteoarthritis of knee
+464,872,R51,Headache
+465,874,I10,ESSENTIAL HYPERTENSION
+466,877,F32.9,"Major depressive disorder, unspecified"
+467,878,C50.9,Malignant neoplasm of breast
+468,880,I25.1,Atherosclerotic heart disease
+469,881,N39.0,Urinary tract infection
+470,885,M17.9,Osteoarthritis of knee
+471,888,I25.1,Atherosclerotic heart disease
+472,889,M54.5,Low back pain
+473,890,E11,Type 2 diabetes mellitus
+474,891,C50.9,Malignant neoplasm of breast
+475,892,J06.9,ACUTE UPPER RESPIRATORY INFECTION
+476,896,E78.5,"Hyperlipidaemia, unspecified"
+477,897,E11,Type 2 diabetes mellitus
+478,899,L20.9,ATOPIC DERMATITIS  
+479,900,N39.0,Urinary tract infection
+480,901,R51,HEADACHE
+481,902,K21.9,Gastro-oesophageal reflux disease
+482,903,G43.9,"Migraine, unspecified"
+483,904,I10,Essential hypertension
+484,906,J45.9,"Asthma, unspecified  "
+485,907,M54.5,Low back pain
+486,913,N39.0,Urinary tract infection
+487,915,C50.9,MALIGNANT NEOPLASM OF BREAST
+488,916,G43.9,"Migraine, unspecified"
+489,920,J06.9,Acute upper respiratory infection
+490,921,N39.0,Urinary tract infection
+491,922,J06.9,Acute upper respiratory infection
+492,926,J06.9,Acute upper respiratory infection
+493,928,M17.9,Osteoarthritis of knee
+494,929,J06.9,Acute upper respiratory infection
+495,939,I10,Essential hypertension
+496,940,G43.9,"Migraine, unspecified"
+497,941,C50.9,Malignant neoplasm of breast
+498,942,C50.9,Malignant neoplasm of breast
+499,945,E11,Type 2 diabetes mellitus
+500,946,K21.9,Gastro-oesophageal reflux disease
+501,947,N39.0,Urinary tract infection
+502,948,K21.9,Gastro-oesophageal reflux disease
+503,949,E11,Type 2 diabetes mellitus
+504,952,J06.9,Acute upper respiratory infection
+505,953,M17.9,Osteoarthritis of knee
+506,954,N39.0,Urinary tract infection
+507,955,I25.1,Atherosclerotic heart disease
+508,957,I25.1,Atherosclerotic heart disease
+509,958,R51,HEADACHE
+510,960,J06.9,Acute upper respiratory infection
+511,961,J06.9,Acute upper respiratory infection
+512,963,E78.5,"Hyperlipidaemia, unspecified"
+513,964,E11,Type 2 diabetes mellitus
+514,965,G43.9,"MIGRAINE, UNSPECIFIED"
+515,967,J45.9,"Asthma, unspecified"
+516,969,E78.5,"Hyperlipidaemia, unspecified"
+517,971,I25.1,Atherosclerotic heart disease
+518,973,L20.9,Atopic dermatitis
+519,975,M17.9,Osteoarthritis of knee
+520,977,M54.5,Low back pain
+521,981,R51,Headache
+522,982,M54.5,LOW BACK PAIN
+523,984,M54.5,LOW BACK PAIN
+524,988,E11,Type 2 diabetes mellitus
+525,989,F32.9,"Major depressive disorder, unspecified"
+526,991,I25.1,Atherosclerotic heart disease
+527,998,K21.9,Gastro-oesophageal reflux disease
+528,999,R51,Headache  
+529,1001,N39.0,Urinary tract infection  
+530,1003,J06.9,Acute upper respiratory infection
+531,1004,M17.9,Osteoarthritis of knee
+532,1007,I25.1,Atherosclerotic heart disease
+533,1008,M54.5,Low back pain
+534,1010,G43.9,"Migraine, unspecified"
+535,1011,L20.9,Atopic dermatitis
+536,1012,M17.9,Osteoarthritis of knee
+537,1013,I25.1,Atherosclerotic heart disease
+538,1014,R51,Headache
+539,1018,J06.9,Acute upper respiratory infection
+540,1019,G43.9,"Migraine, unspecified"
+541,1020,I25.1,Atherosclerotic heart disease
+542,1022,J45.9,"Asthma, unspecified"
+543,1023,K21.9,Gastro-oesophageal reflux disease
+544,1027,C50.9,Malignant neoplasm of breast
+545,1028,M17.9,Osteoarthritis of knee
+546,1030,N39.0,Urinary tract infection
+547,1032,R51,Headache
+548,1033,M17.9,Osteoarthritis of knee
+549,1034,M54.5,Low back pain
+550,1037,J45.9,"Asthma, unspecified"
+551,1039,C50.9,Malignant neoplasm of breast
+552,1040,L20.9,Atopic dermatitis  
+553,1043,L20.9,Atopic dermatitis
+554,1045,K21.9,Gastro-oesophageal reflux disease
+555,1046,I25.1,Atherosclerotic heart disease
+556,1047,K21.9,GASTRO-OESOPHAGEAL REFLUX DISEASE
+557,1048,K21.9,Gastro-oesophageal reflux disease
+558,1049,F32.9,"Major depressive disorder, unspecified"
+559,1053,N39.0,Urinary tract infection
+560,1054,J06.9,Acute upper respiratory infection
+561,1059,L20.9,Atopic dermatitis
+562,1060,E11,Type 2 diabetes mellitus
+563,1062,C50.9,Malignant neoplasm of breast
+564,1064,G43.9,"Migraine, unspecified"
+565,1065,J45.9,"Asthma, unspecified"
+566,1067,E11,Type 2 diabetes mellitus
+567,1068,J45.9,"Asthma, unspecified"
+568,1070,G43.9,"Migraine, unspecified"
+569,1071,I25.1,Atherosclerotic heart disease
+570,1072,R51,Headache
+571,1074,J06.9,Acute upper respiratory infection
+572,1075,C50.9,Malignant neoplasm of breast
+573,1077,M54.5,Low back pain  
+574,1079,R51,Headache
+575,1080,R51,Headache
+576,1083,L20.9,Atopic dermatitis
+577,1084,L20.9,ATOPIC DERMATITIS
+578,1085,M54.5,Low back pain
+579,1086,E11,Type 2 diabetes mellitus
+580,1088,G43.9,"Migraine, unspecified  "
+581,1089,E11,TYPE 2 DIABETES MELLITUS
+582,1090,C50.9,Malignant neoplasm of breast
+583,1095,N39.0,Urinary tract infection
+584,1096,J45.9,"Asthma, unspecified"
+585,1097,J06.9,Acute upper respiratory infection
+586,1100,G43.9,"MIGRAINE, UNSPECIFIED"
+587,1101,I25.1,Atherosclerotic heart disease
+588,1107,J45.9,"Asthma, unspecified  "
+589,1108,L20.9,Atopic dermatitis
+590,1110,I25.1,Atherosclerotic heart disease  
+591,1111,E78.5,"Hyperlipidaemia, unspecified"
+592,1112,G43.9,"MIGRAINE, UNSPECIFIED"
+593,1114,L20.9,Atopic dermatitis
+594,1116,E11,Type 2 diabetes mellitus
+595,1120,J06.9,Acute upper respiratory infection
+596,1121,I25.1,Atherosclerotic heart disease
+597,1122,J06.9,Acute upper respiratory infection
+598,1124,J06.9,Acute upper respiratory infection  
+599,1127,K21.9,Gastro-oesophageal reflux disease
+600,1129,I10,Essential hypertension
+601,1130,L20.9,Atopic dermatitis
+602,1131,K21.9,Gastro-oesophageal reflux disease
+603,1133,F32.9,"Major depressive disorder, unspecified  "
+604,1134,M17.9,Osteoarthritis of knee
+605,1137,G43.9,"Migraine, unspecified"
+606,1139,J45.9,"Asthma, unspecified"
+607,1141,K21.9,Gastro-oesophageal reflux disease
+608,1144,J45.9,"Asthma, unspecified"
+609,1145,E11,Type 2 diabetes mellitus
+610,1146,K21.9,Gastro-oesophageal reflux disease
+611,1147,J06.9,Acute upper respiratory infection
+612,1148,L20.9,Atopic dermatitis
+613,1150,E78.5,"Hyperlipidaemia, unspecified"
+614,1151,E78.5,"Hyperlipidaemia, unspecified"
+615,1155,L20.9,Atopic dermatitis
+616,1156,I25.1,Atherosclerotic heart disease
+617,1157,M54.5,Low back pain
+618,1160,C50.9,Malignant neoplasm of breast
+619,1162,J06.9,ACUTE UPPER RESPIRATORY INFECTION
+620,1167,I10,ESSENTIAL HYPERTENSION
+621,1169,G43.9,"Migraine, unspecified"
+622,1171,J06.9,ACUTE UPPER RESPIRATORY INFECTION  
+623,1173,K21.9,Gastro-oesophageal reflux disease
+624,1174,R51,Headache
+625,1176,M54.5,Low back pain
+626,1177,C50.9,Malignant neoplasm of breast
+627,1179,F32.9,"Major depressive disorder, unspecified"
+628,1182,M54.5,Low back pain
+629,1183,C50.9,Malignant neoplasm of breast
+630,1184,G43.9,"Migraine, unspecified"
+631,1187,E11,Type 2 diabetes mellitus
+632,1188,E11,Type 2 diabetes mellitus
+633,1192,C50.9,Malignant neoplasm of breast
+634,1193,R51,Headache
+635,1196,M54.5,Low back pain
+636,1197,J45.9,"Asthma, unspecified"
+637,1200,C50.9,Malignant neoplasm of breast
+638,1204,M17.9,Osteoarthritis of knee
+639,1205,E78.5,"Hyperlipidaemia, unspecified"
+640,1207,K21.9,Gastro-oesophageal reflux disease
+641,1208,J45.9,"Asthma, unspecified"
+642,1209,E78.5,"Hyperlipidaemia, unspecified"
+643,1217,M54.5,Low back pain
+644,1220,K21.9,Gastro-oesophageal reflux disease
+645,1221,I25.1,Atherosclerotic heart disease
+646,1222,F32.9,"Major depressive disorder, unspecified"
+647,1223,G43.9,"Migraine, unspecified"
+648,1224,K21.9,Gastro-oesophageal reflux disease
+649,1226,I10,Essential hypertension
+650,1230,M54.5,Low back pain
+651,1231,J45.9,"Asthma, unspecified"
+652,1232,I10,Essential hypertension  
+653,1234,I10,Essential hypertension
+654,1235,M17.9,Osteoarthritis of knee
+655,1236,E78.5,"Hyperlipidaemia, unspecified"
+656,1238,G43.9,"Migraine, unspecified"
+657,1239,G43.9,"Migraine, unspecified"
+658,1241,J06.9,Acute upper respiratory infection
+659,1247,G43.9,"Migraine, unspecified"
+660,1249,R51,Headache
+661,1250,M54.5,Low back pain
+662,1251,I10,Essential hypertension
+663,1253,I25.1,Atherosclerotic heart disease  
+664,1255,L20.9,Atopic dermatitis
+665,1258,F32.9,"Major depressive disorder, unspecified  "
+666,1260,F32.9,"Major depressive disorder, unspecified"
+667,1261,K21.9,Gastro-oesophageal reflux disease
+668,1262,K21.9,Gastro-oesophageal reflux disease
+669,1265,K21.9,Gastro-oesophageal reflux disease
+670,1266,J45.9,"Asthma, unspecified"
+671,1267,J45.9,"Asthma, unspecified  "
+672,1270,K21.9,Gastro-oesophageal reflux disease
+673,1271,F32.9,"Major depressive disorder, unspecified"
+674,1277,F32.9,"MAJOR DEPRESSIVE DISORDER, UNSPECIFIED"
+675,1280,I25.1,Atherosclerotic heart disease
+676,1281,F32.9,"Major depressive disorder, unspecified"
+677,1282,I10,Essential hypertension
+678,1285,M17.9,Osteoarthritis of knee
+679,1289,I10,Essential hypertension
+680,1290,M54.5,Low back pain
+681,1292,F32.9,"Major depressive disorder, unspecified"
+682,1295,I25.1,Atherosclerotic heart disease
+683,1296,F32.9,"Major depressive disorder, unspecified"
+684,1297,K21.9,Gastro-oesophageal reflux disease
+685,1298,N39.0,URINARY TRACT INFECTION
+686,1301,I25.1,Atherosclerotic heart disease
+687,1303,M54.5,LOW BACK PAIN
+688,1304,K21.9,Gastro-oesophageal reflux disease
+689,1305,R51,Headache
+690,1307,I25.1,Atherosclerotic heart disease  
+691,1309,N39.0,Urinary tract infection  
+692,1310,F32.9,"Major depressive disorder, unspecified"
+693,1312,K21.9,Gastro-oesophageal reflux disease
+694,1314,E11,Type 2 diabetes mellitus
+695,1316,I25.1,Atherosclerotic heart disease
+696,1318,M54.5,Low back pain
+697,1319,K21.9,Gastro-oesophageal reflux disease
+698,1320,E78.5,"HYPERLIPIDAEMIA, UNSPECIFIED  "
+699,1323,F32.9,"Major depressive disorder, unspecified"
+700,1324,N39.0,Urinary tract infection
+701,1326,G43.9,"MIGRAINE, UNSPECIFIED"
+702,1328,J45.9,"Asthma, unspecified"
+703,1332,E78.5,"Hyperlipidaemia, unspecified  "
+704,1334,N39.0,Urinary tract infection
+705,1337,R51,Headache
+706,1341,C50.9,Malignant neoplasm of breast
+707,1342,I10,Essential hypertension
+708,1343,J06.9,Acute upper respiratory infection
+709,1346,J06.9,Acute upper respiratory infection
+710,1349,K21.9,Gastro-oesophageal reflux disease
+711,1351,G43.9,"Migraine, unspecified"
+712,1354,I10,Essential hypertension
+713,1357,N39.0,Urinary tract infection
+714,1359,L20.9,Atopic dermatitis
+715,1364,I25.1,Atherosclerotic heart disease
+716,1365,K21.9,Gastro-oesophageal reflux disease
+717,1366,J06.9,Acute upper respiratory infection
+718,1368,E78.5,"Hyperlipidaemia, unspecified"
+719,1369,J45.9,"Asthma, unspecified"
+720,1370,I10,Essential hypertension
+721,1373,E78.5,"HYPERLIPIDAEMIA, UNSPECIFIED"
+722,1379,R51,Headache
+723,1382,M17.9,OSTEOARTHRITIS OF KNEE
+724,1383,M54.5,Low back pain
+725,1386,J45.9,"Asthma, unspecified"
+726,1389,M54.5,Low back pain
+727,1390,F32.9,"MAJOR DEPRESSIVE DISORDER, UNSPECIFIED"
+728,1394,L20.9,Atopic dermatitis
+729,1397,N39.0,URINARY TRACT INFECTION
+730,1399,M17.9,Osteoarthritis of knee
+731,1401,E78.5,"Hyperlipidaemia, unspecified"
+732,1403,N39.0,Urinary tract infection
+733,1404,K21.9,Gastro-oesophageal reflux disease
+734,1408,G43.9,"Migraine, unspecified"
+735,1409,M54.5,Low back pain
+736,1410,M54.5,LOW BACK PAIN
+737,1412,I25.1,Atherosclerotic heart disease
+738,1415,J45.9,"Asthma, unspecified"
+739,1417,K21.9,Gastro-oesophageal reflux disease
+740,1418,C50.9,Malignant neoplasm of breast
+741,1420,N39.0,Urinary tract infection
+742,1422,I25.1,Atherosclerotic heart disease
+743,1423,I10,Essential hypertension
+744,1426,I25.1,Atherosclerotic heart disease
+745,1427,M54.5,Low back pain
+746,1431,M17.9,Osteoarthritis of knee
+747,1432,K21.9,Gastro-oesophageal reflux disease
+748,1436,F32.9,"MAJOR DEPRESSIVE DISORDER, UNSPECIFIED"
+749,1440,M54.5,Low back pain
+750,1441,M54.5,Low back pain
+751,1442,M17.9,Osteoarthritis of knee
+752,1443,K21.9,Gastro-oesophageal reflux disease
+753,1445,M17.9,Osteoarthritis of knee
+754,1446,K21.9,Gastro-oesophageal reflux disease  
+755,1447,L20.9,Atopic dermatitis
+756,1448,F32.9,"Major depressive disorder, unspecified"
+757,1450,C50.9,Malignant neoplasm of breast
+758,1452,I10,ESSENTIAL HYPERTENSION
+759,1454,C50.9,Malignant neoplasm of breast  
+760,1455,J06.9,Acute upper respiratory infection
+761,1456,C50.9,Malignant neoplasm of breast
+762,1459,I25.1,Atherosclerotic heart disease
+763,1460,M17.9,Osteoarthritis of knee
+764,1462,I25.1,Atherosclerotic heart disease
+765,1464,L20.9,Atopic dermatitis
+766,1466,N39.0,Urinary tract infection  
+767,1467,M17.9,Osteoarthritis of knee  
+768,1468,N39.0,Urinary tract infection
+769,1469,E78.5,"Hyperlipidaemia, unspecified"
+770,1472,J45.9,"Asthma, unspecified"
+771,1473,I10,Essential hypertension
+772,1474,F32.9,"Major depressive disorder, unspecified"
+773,1478,C50.9,Malignant neoplasm of breast
+774,1480,L20.9,Atopic dermatitis
+775,1481,E78.5,"Hyperlipidaemia, unspecified"
+776,1482,L20.9,Atopic dermatitis
+777,1484,I10,Essential hypertension
+778,1485,J45.9,"Asthma, unspecified"
+779,1488,K21.9,Gastro-oesophageal reflux disease
+780,1490,E78.5,"Hyperlipidaemia, unspecified"
+781,1491,E11,Type 2 diabetes mellitus
+782,1492,J06.9,Acute upper respiratory infection
+783,1493,K21.9,Gastro-oesophageal reflux disease
+784,1495,E11,Type 2 diabetes mellitus
+785,1496,I25.1,Atherosclerotic heart disease
+786,1500,C50.9,Malignant neoplasm of breast
+787,1501,I10,ESSENTIAL HYPERTENSION
+788,1503,E11,Type 2 diabetes mellitus
+789,1505,I25.1,Atherosclerotic heart disease
+790,1506,C50.9,Malignant neoplasm of breast
+791,1511,I10,Essential hypertension  
+792,1512,M54.5,Low back pain  
+793,1516,C50.9,Malignant neoplasm of breast
+794,1517,C50.9,Malignant neoplasm of breast
+795,1519,I10,Essential hypertension
+796,1520,M17.9,Osteoarthritis of knee
+797,1521,K21.9,Gastro-oesophageal reflux disease
+798,1523,E11,Type 2 diabetes mellitus
+799,1524,M54.5,Low back pain
+800,1525,I25.1,Atherosclerotic heart disease  
+801,1526,N39.0,Urinary tract infection
+802,1527,K21.9,Gastro-oesophageal reflux disease
+803,1528,C50.9,Malignant neoplasm of breast
+804,1531,G43.9,"Migraine, unspecified"
+805,1532,N39.0,Urinary tract infection
+806,1533,L20.9,Atopic dermatitis
+807,1534,I25.1,Atherosclerotic heart disease
+808,1535,K21.9,Gastro-oesophageal reflux disease
+809,1537,N39.0,Urinary tract infection
+810,1538,R51,HEADACHE
+811,1541,C50.9,Malignant neoplasm of breast
+812,1542,J45.9,"Asthma, unspecified"
+813,1543,R51,Headache  
+814,1545,E11,Type 2 diabetes mellitus
+815,1546,E11,Type 2 diabetes mellitus
+816,1548,E78.5,"HYPERLIPIDAEMIA, UNSPECIFIED"
+817,1549,I25.1,Atherosclerotic heart disease
+818,1551,C50.9,Malignant neoplasm of breast  
+819,1554,F32.9,"Major depressive disorder, unspecified"
+820,1562,K21.9,Gastro-oesophageal reflux disease  
+821,1564,M54.5,Low back pain
+822,1566,L20.9,Atopic dermatitis
+823,1567,R51,HEADACHE
+824,1568,E78.5,"Hyperlipidaemia, unspecified"
+825,1571,I25.1,ATHEROSCLEROTIC HEART DISEASE
+826,1572,L20.9,Atopic dermatitis
+827,1573,K21.9,Gastro-oesophageal reflux disease
+828,1574,I25.1,Atherosclerotic heart disease
+829,1576,K21.9,Gastro-oesophageal reflux disease
+830,1579,L20.9,Atopic dermatitis
+831,1581,C50.9,Malignant neoplasm of breast  
+832,1583,M54.5,Low back pain
+833,1585,M17.9,Osteoarthritis of knee
+834,1586,I25.1,ATHEROSCLEROTIC HEART DISEASE  
+835,1587,G43.9,"Migraine, unspecified"
+836,1591,I10,Essential hypertension
+837,1592,E78.5,"Hyperlipidaemia, unspecified"
+838,1593,M17.9,Osteoarthritis of knee
+839,1597,L20.9,Atopic dermatitis
+840,1600,E11,Type 2 diabetes mellitus
+841,1601,J06.9,Acute upper respiratory infection
+842,1602,J45.9,"ASTHMA, UNSPECIFIED"
+843,1606,G43.9,"Migraine, unspecified"
+844,1608,R51,Headache
+845,1612,J06.9,Acute upper respiratory infection  
+846,1618,E78.5,"Hyperlipidaemia, unspecified"
+847,1619,F32.9,"Major depressive disorder, unspecified"
+848,1622,J06.9,Acute upper respiratory infection
+849,1623,n390,Urinary tract infection
+850,1624,G43.9,"Migraine, unspecified"
+851,1625,L20.9,Atopic dermatitis  
+852,1628,E11,Type 2 diabetes mellitus
+853,1634,G43.9,"Migraine, unspecified"
+854,1636,M54.5,Low back pain  
+855,1638,R51,Headache
+856,1639,F32.9,"Major depressive disorder, unspecified"
+857,1640,F32.9,"Major depressive disorder, unspecified"
+858,1641,E78.5,"Hyperlipidaemia, unspecified"
+859,1643,E11,Type 2 diabetes mellitus
+860,1648,I10,Essential hypertension
+861,1652,L20.9,Atopic dermatitis
+862,1656,M17.9,Osteoarthritis of knee
+863,1660,M54.5,Low back pain
+864,1661,E78.5,"Hyperlipidaemia, unspecified"
+865,1663,J45.9,"Asthma, unspecified"
+866,1667,R51,Headache
+867,1669,G43.9,"Migraine, unspecified"
+868,1670,F32.9,"Major depressive disorder, unspecified"
+869,1671,N39.0,Urinary tract infection  
+870,1673,E78.5,"Hyperlipidaemia, unspecified"
+871,1675,C50.9,Malignant neoplasm of breast
+872,1676,E78.5,"HYPERLIPIDAEMIA, UNSPECIFIED"
+873,1677,I10,Essential hypertension  
+874,1679,M54.5,Low back pain
+875,1682,K21.9,Gastro-oesophageal reflux disease
+876,1683,G43.9,"Migraine, unspecified"
+877,1685,I10,Essential hypertension
+878,1686,M54.5,Low back pain
+879,1688,J06.9,Acute upper respiratory infection
+880,1689,R51,Headache
+881,1690,E78.5,"Hyperlipidaemia, unspecified"
+882,1693,E78.5,"Hyperlipidaemia, unspecified"
+883,1698,I10,ESSENTIAL HYPERTENSION
+884,1699,F32.9,"Major depressive disorder, unspecified"
+885,1701,J06.9,Acute upper respiratory infection
+886,1702,I10,Essential hypertension
+887,1703,J06.9,Acute upper respiratory infection
+888,1704,L20.9,Atopic dermatitis
+889,1705,F32.9,"Major depressive disorder, unspecified"
+890,1708,J45.9,"Asthma, unspecified"
+891,1711,E11,Type 2 diabetes mellitus
+892,1712,L20.9,Atopic dermatitis
+893,1713,E11,TYPE 2 DIABETES MELLITUS
+894,1715,M54.5,Low back pain
+895,1716,K21.9,Gastro-oesophageal reflux disease  
+896,1717,L20.9,Atopic dermatitis
+897,1719,F32.9,"Major depressive disorder, unspecified"
+898,1720,N39.0,Urinary tract infection
+899,1722,J06.9,Acute upper respiratory infection
+900,1724,M17.9,Osteoarthritis of knee
+901,1727,F32.9,"MAJOR DEPRESSIVE DISORDER, UNSPECIFIED"
+902,1728,C50.9,Malignant neoplasm of breast
+903,1729,G43.9,"Migraine, unspecified"
+904,1730,N39.0,Urinary tract infection
+905,1731,I25.1,ATHEROSCLEROTIC HEART DISEASE  
+906,1733,N39.0,Urinary tract infection
+907,1737,I25.1,ATHEROSCLEROTIC HEART DISEASE
+908,1739,E78.5,"Hyperlipidaemia, unspecified"
+909,1741,L20.9,Atopic dermatitis
+910,1742,M54.5,Low back pain
+911,1744,G43.9,"Migraine, unspecified"
+912,1746,E78.5,"Hyperlipidaemia, unspecified"
+913,1752,K21.9,Gastro-oesophageal reflux disease
+914,1754,N39.0,Urinary tract infection
+915,1755,I10,Essential hypertension
+916,1760,M17.9,Osteoarthritis of knee
+917,1761,E11,Type 2 diabetes mellitus
+918,1766,G43.9,"Migraine, unspecified"
+919,1768,E78.5,"Hyperlipidaemia, unspecified"
+920,1770,L20.9,Atopic dermatitis
+921,1771,M54.5,Low back pain
+922,1772,M17.9,Osteoarthritis of knee
+923,1773,K21.9,GASTRO-OESOPHAGEAL REFLUX DISEASE
+924,1774,L20.9,Atopic dermatitis
+925,1776,F32.9,"Major depressive disorder, unspecified"
+926,1777,J06.9,Acute upper respiratory infection
+927,1781,E78.5,"Hyperlipidaemia, unspecified"
+928,1786,E11,Type 2 diabetes mellitus  
+929,1787,E78.5,"Hyperlipidaemia, unspecified"
+930,1788,L20.9,Atopic dermatitis
+931,1789,E11,Type 2 diabetes mellitus
+932,1791,L20.9,ATOPIC DERMATITIS
+933,1793,N39.0,Urinary tract infection
+934,1794,J45.9,"Asthma, unspecified"
+935,1797,M54.5,Low back pain
+936,1798,G43.9,"Migraine, unspecified"
+937,1799,G43.9,"Migraine, unspecified"
+938,1801,K21.9,Gastro-oesophageal reflux disease
+939,1808,L20.9,Atopic dermatitis
+940,1809,C50.9,Malignant neoplasm of breast
+941,1812,J45.9,"Asthma, unspecified"
+942,1815,L20.9,ATOPIC DERMATITIS
+943,1817,J45.9,"Asthma, unspecified"
+944,1819,J45.9,"ASTHMA, UNSPECIFIED"
+945,1822,J45.9,"Asthma, unspecified"
+946,1823,M17.9,OSTEOARTHRITIS OF KNEE
+947,1824,L20.9,Atopic dermatitis
+948,1825,E78.5,"Hyperlipidaemia, unspecified"
+949,1827,E78.5,"HYPERLIPIDAEMIA, UNSPECIFIED"
+950,1828,C50.9,Malignant neoplasm of breast
+951,1829,C50.9,Malignant neoplasm of breast
+952,1830,J06.9,ACUTE UPPER RESPIRATORY INFECTION
+953,1831,E78.5,"Hyperlipidaemia, unspecified"
+954,1832,M17.9,Osteoarthritis of knee
+955,1833,G43.9,"Migraine, unspecified"
+956,1834,F32.9,"Major depressive disorder, unspecified"
+957,1835,N39.0,Urinary tract infection
+958,1838,J06.9,Acute upper respiratory infection
+959,1839,N39.0,Urinary tract infection
+960,1840,M54.5,Low back pain
+961,1841,N39.0,Urinary tract infection
+962,1842,G43.9,"Migraine, unspecified  "
+963,1846,F32.9,"Major depressive disorder, unspecified"
+964,1847,R51,Headache
+965,1848,G43.9,"Migraine, unspecified"
+966,1849,I25.1,Atherosclerotic heart disease
+967,1850,E78.5,"Hyperlipidaemia, unspecified"
+968,1852,g439,"Migraine, unspecified"
+969,1855,R51,Headache
+970,1858,E11,Type 2 diabetes mellitus
+971,1859,J06.9,Acute upper respiratory infection
+972,1860,E11,Type 2 diabetes mellitus
+973,1861,J06.9,Acute upper respiratory infection
+974,1862,E78.5,"Hyperlipidaemia, unspecified"
+975,1863,E11,Type 2 diabetes mellitus
+976,1865,K21.9,Gastro-oesophageal reflux disease
+977,1866,M54.5,LOW BACK PAIN
+978,1867,C50.9,Malignant neoplasm of breast
+979,1868,C50.9,Malignant neoplasm of breast
+980,1869,R51,Headache
+981,1872,E11,Type 2 diabetes mellitus
+982,1873,M54.5,Low back pain
+983,1875,N39.0,Urinary tract infection  
+984,1878,M17.9,Osteoarthritis of knee
+985,1879,M54.5,Low back pain
+986,1880,J45.9,"Asthma, unspecified"
+987,1883,M54.5,Low back pain
+988,1886,K21.9,Gastro-oesophageal reflux disease
+989,1888,E11,Type 2 diabetes mellitus
+990,1889,N39.0,Urinary tract infection
+991,1890,J45.9,"Asthma, unspecified"
+992,1893,G43.9,"Migraine, unspecified"
+993,1894,I25.1,Atherosclerotic heart disease
+994,1895,E78.5,"Hyperlipidaemia, unspecified"
+995,1897,J06.9,Acute upper respiratory infection
+996,1898,J45.9,"Asthma, unspecified"
+997,1901,N39.0,URINARY TRACT INFECTION
+998,1903,R51,Headache
+999,1904,I25.1,Atherosclerotic heart disease
+1000,1906,M17.9,Osteoarthritis of knee
+1001,1908,R51,Headache
+1002,1910,M17.9,Osteoarthritis of knee
+1003,1911,L20.9,Atopic dermatitis
+1004,1912,E11,Type 2 diabetes mellitus
+1005,1913,E78.5,"Hyperlipidaemia, unspecified"
+1006,1916,K21.9,Gastro-oesophageal reflux disease
+1007,1918,K21.9,Gastro-oesophageal reflux disease
+1008,1920,I10,Essential hypertension  
+1009,1923,I25.1,Atherosclerotic heart disease
+1010,1925,E78.5,"Hyperlipidaemia, unspecified"
+1011,1929,E78.5,"Hyperlipidaemia, unspecified  "
+1012,1930,R51,HEADACHE
+1013,1931,M54.5,Low back pain
+1014,1932,C50.9,Malignant neoplasm of breast
+1015,1933,J06.9,Acute upper respiratory infection
+1016,1934,F32.9,"Major depressive disorder, unspecified"
+1017,1935,J06.9,Acute upper respiratory infection
+1018,1937,M17.9,Osteoarthritis of knee
+1019,1941,E78.5,"Hyperlipidaemia, unspecified"
+1020,1942,I10,ESSENTIAL HYPERTENSION
+1021,1948,G43.9,"Migraine, unspecified"
+1022,1952,N39.0,Urinary tract infection
+1023,1953,J06.9,Acute upper respiratory infection
+1024,1955,N39.0,Urinary tract infection  
+1025,1956,N39.0,Urinary tract infection
+1026,1957,F32.9,"Major depressive disorder, unspecified"
+1027,1958,N39.0,URINARY TRACT INFECTION
+1028,1959,E78.5,"Hyperlipidaemia, unspecified"
+1029,1960,G43.9,"Migraine, unspecified"
+1030,1961,J45.9,"Asthma, unspecified"
+1031,1966,I25.1,Atherosclerotic heart disease
+1032,1967,I25.1,Atherosclerotic heart disease
+1033,1969,F32.9,"Major depressive disorder, unspecified"
+1034,1971,E11,Type 2 diabetes mellitus
+1035,1972,F32.9,"Major depressive disorder, unspecified"
+1036,1973,M17.9,Osteoarthritis of knee
+1037,1974,F32.9,"Major depressive disorder, unspecified"
+1038,1976,L20.9,Atopic dermatitis
+1039,1977,C50.9,MALIGNANT NEOPLASM OF BREAST
+1040,1978,I25.1,Atherosclerotic heart disease
+1041,1979,M17.9,Osteoarthritis of knee
+1042,1981,J06.9,ACUTE UPPER RESPIRATORY INFECTION
+1043,1982,N39.0,URINARY TRACT INFECTION
+1044,1986,E11,Type 2 diabetes mellitus
+1045,1989,M54.5,Low back pain  
+1046,1992,J45.9,"ASTHMA, UNSPECIFIED  "
+1047,1993,J06.9,Acute upper respiratory infection
+1048,1994,L20.9,Atopic dermatitis
+1049,1995,E78.5,"Hyperlipidaemia, unspecified"
+1050,1997,F32.9,"Major depressive disorder, unspecified"
+1051,1998,N39.0,Urinary tract infection
+1052,2011,M17.9,Osteoarthritis of knee
+1053,2013,J45.9,"Asthma, unspecified"
+1054,2014,J06.9,Acute upper respiratory infection
+1055,2018,J45.9,"Asthma, unspecified"
+1056,2020,J06.9,Acute upper respiratory infection  
+1057,2021,F32.9,"Major depressive disorder, unspecified"
+1058,2024,R51,Headache
+1059,2025,L20.9,Atopic dermatitis
+1060,2026,N39.0,Urinary tract infection
+1061,2028,J45.9,"Asthma, unspecified"
+1062,2029,N39.0,Urinary tract infection
+1063,2030,E78.5,"Hyperlipidaemia, unspecified"
+1064,2032,M17.9,Osteoarthritis of knee
+1065,2034,J06.9,Acute upper respiratory infection
+1066,2035,G43.9,"Migraine, unspecified"
+1067,2038,M54.5,Low back pain
+1068,2040,E78.5,"Hyperlipidaemia, unspecified"
+1069,2042,K21.9,Gastro-oesophageal reflux disease
+1070,2044,E78.5,"Hyperlipidaemia, unspecified"
+1071,2046,J06.9,Acute upper respiratory infection  
+1072,2052,M54.5,Low back pain
+1073,2053,G43.9,"Migraine, unspecified"
+1074,2055,N39.0,Urinary tract infection
+1075,2057,L20.9,Atopic dermatitis
+1076,2058,N39.0,Urinary tract infection
+1077,2059,L20.9,Atopic dermatitis
+1078,2062,I10,Essential hypertension
+1079,2063,M17.9,Osteoarthritis of knee
+1080,2064,E78.5,"Hyperlipidaemia, unspecified"
+1081,2065,J06.9,Acute upper respiratory infection
+1082,2066,J06.9,ACUTE UPPER RESPIRATORY INFECTION
+1083,2067,J45.9,"Asthma, unspecified"
+1084,2068,M17.9,OSTEOARTHRITIS OF KNEE
+1085,2070,E78.5,"Hyperlipidaemia, unspecified"
+1086,2071,E78.5,"Hyperlipidaemia, unspecified"
+1087,2074,L20.9,ATOPIC DERMATITIS
+1088,2075,I25.1,ATHEROSCLEROTIC HEART DISEASE
+1089,2077,M17.9,Osteoarthritis of knee
+1090,2078,L20.9,Atopic dermatitis  
+1091,2081,E78.5,"Hyperlipidaemia, unspecified  "
+1092,2082,C50.9,Malignant neoplasm of breast  
+1093,2088,N39.0,Urinary tract infection
+1094,2089,I10,Essential hypertension
+1095,2092,L20.9,Atopic dermatitis
+1096,2093,K21.9,Gastro-oesophageal reflux disease
+1097,2094,N39.0,Urinary tract infection
+1098,2095,I10,Essential hypertension
+1099,2097,C50.9,Malignant neoplasm of breast  
+1100,2102,M17.9,Osteoarthritis of knee
+1101,2103,R51,Headache
+1102,2105,J45.9,"Asthma, unspecified"
+1103,2108,K21.9,Gastro-oesophageal reflux disease
+1104,2109,J06.9,Acute upper respiratory infection
+1105,2110,J45.9,"ASTHMA, UNSPECIFIED"
+1106,2111,R51,Headache
+1107,2114,N39.0,URINARY TRACT INFECTION  
+1108,2119,F32.9,"Major depressive disorder, unspecified"
+1109,2121,M54.5,Low back pain
+1110,2126,C50.9,Malignant neoplasm of breast
+1111,2127,L20.9,Atopic dermatitis
+1112,2130,J45.9,"Asthma, unspecified"
+1113,2131,L20.9,Atopic dermatitis
+1114,2133,M17.9,Osteoarthritis of knee
+1115,2134,L20.9,Atopic dermatitis
+1116,2135,C50.9,Malignant neoplasm of breast  
+1117,2137,I10,Essential hypertension
+1118,2140,F32.9,"Major depressive disorder, unspecified"
+1119,2143,I10,Essential hypertension
+1120,2146,N39.0,URINARY TRACT INFECTION  
+1121,2149,G43.9,"Migraine, unspecified"
+1122,2152,N39.0,URINARY TRACT INFECTION
+1123,2153,N39.0,Urinary tract infection
+1124,2154,G43.9,"Migraine, unspecified"
+1125,2156,K21.9,Gastro-oesophageal reflux disease
+1126,2159,I25.1,Atherosclerotic heart disease
+1127,2160,I10,ESSENTIAL HYPERTENSION
+1128,2162,J06.9,Acute upper respiratory infection
+1129,2164,K21.9,Gastro-oesophageal reflux disease
+1130,2165,E11,Type 2 diabetes mellitus
+1131,2168,F32.9,"Major depressive disorder, unspecified"
+1132,2171,I25.1,ATHEROSCLEROTIC HEART DISEASE
+1133,2173,N39.0,Urinary tract infection
+1134,2176,I25.1,Atherosclerotic heart disease
+1135,2177,J06.9,Acute upper respiratory infection
+1136,2178,I25.1,Atherosclerotic heart disease
+1137,2180,M17.9,Osteoarthritis of knee  
+1138,2181,E78.5,"Hyperlipidaemia, unspecified  "
+1139,2188,L20.9,Atopic dermatitis  
+1140,2189,E78.5,"Hyperlipidaemia, unspecified"
+1141,2193,G43.9,"Migraine, unspecified"
+1142,2195,G43.9,"Migraine, unspecified"
+1143,2196,E11,Type 2 diabetes mellitus
+1144,2198,M17.9,OSTEOARTHRITIS OF KNEE
+1145,2200,C50.9,Malignant neoplasm of breast
+1146,2201,E11,Type 2 diabetes mellitus  
+1147,2202,C50.9,Malignant neoplasm of breast
+1148,2203,F32.9,"Major depressive disorder, unspecified"
+1149,2206,M17.9,Osteoarthritis of knee
+1150,2207,E11,Type 2 diabetes mellitus
+1151,2208,E11,Type 2 diabetes mellitus
+1152,2209,I10,Essential hypertension  
+1153,2211,L20.9,Atopic dermatitis
+1154,2212,F32.9,"Major depressive disorder, unspecified  "
+1155,2213,C50.9,Malignant neoplasm of breast
+1156,2215,J45.9,"Asthma, unspecified"
+1157,2216,I10,Essential hypertension
+1158,2218,F32.9,"Major depressive disorder, unspecified"
+1159,2219,F32.9,"Major depressive disorder, unspecified  "
+1160,2220,L20.9,Atopic dermatitis
+1161,2221,C50.9,MALIGNANT NEOPLASM OF BREAST
+1162,2227,R51,Headache
+1163,2230,R51,Headache
+1164,2231,L20.9,Atopic dermatitis
+1165,2232,G43.9,"Migraine, unspecified"
+1166,2234,K21.9,Gastro-oesophageal reflux disease
+1167,2235,N39.0,Urinary tract infection
+1168,2238,K21.9,Gastro-oesophageal reflux disease
+1169,2239,E78.5,"Hyperlipidaemia, unspecified"
+1170,2240,L20.9,Atopic dermatitis
+1171,2241,N39.0,Urinary tract infection
+1172,2247,J45.9,"Asthma, unspecified"
+1173,2248,J45.9,"Asthma, unspecified"
+1174,2249,R51,Headache
+1175,2252,R51,Headache
+1176,2253,L20.9,Atopic dermatitis
+1177,2255,G43.9,"Migraine, unspecified"
+1178,2256,M54.5,Low back pain
+1179,2259,M17.9,Osteoarthritis of knee
+1180,2260,R51,Headache
+1181,2262,E11,Type 2 diabetes mellitus
+1182,2266,M54.5,Low back pain
+1183,2271,M17.9,Osteoarthritis of knee
+1184,2274,J45.9,"Asthma, unspecified"
+1185,2275,I25.1,Atherosclerotic heart disease  
+1186,2276,M54.5,Low back pain
+1187,2278,L20.9,ATOPIC DERMATITIS
+1188,2279,L20.9,ATOPIC DERMATITIS
+1189,2281,J45.9,"Asthma, unspecified"
+1190,2282,I25.1,ATHEROSCLEROTIC HEART DISEASE
+1191,2284,E11,Type 2 diabetes mellitus
+1192,2285,L20.9,Atopic dermatitis
+1193,2286,G43.9,"Migraine, unspecified"
+1194,2288,I25.1,Atherosclerotic heart disease
+1195,2292,I25.1,Atherosclerotic heart disease
+1196,2294,L20.9,Atopic dermatitis
+1197,2296,I25.1,Atherosclerotic heart disease
+1198,2299,J06.9,Acute upper respiratory infection
+1199,2300,K21.9,Gastro-oesophageal reflux disease  
+1200,2305,G43.9,"Migraine, unspecified"
+1201,2306,J06.9,Acute upper respiratory infection  
+1202,2307,C50.9,Malignant neoplasm of breast
+1203,2312,N39.0,Urinary tract infection
+1204,2313,F32.9,"Major depressive disorder, unspecified"
+1205,2318,L20.9,Atopic dermatitis
+1206,2319,J45.9,"Asthma, unspecified"
+1207,2320,J06.9,Acute upper respiratory infection
+1208,2322,K21.9,Gastro-oesophageal reflux disease
+1209,2324,N39.0,Urinary tract infection
+1210,2325,K21.9,Gastro-oesophageal reflux disease
+1211,2326,M17.9,Osteoarthritis of knee  
+1212,2328,M54.5,Low back pain
+1213,2329,N39.0,URINARY TRACT INFECTION
+1214,2334,N39.0,Urinary tract infection
+1215,2335,G43.9,"Migraine, unspecified"
+1216,2340,J06.9,Acute upper respiratory infection
+1217,2342,G43.9,"Migraine, unspecified"
+1218,2345,E11,Type 2 diabetes mellitus
+1219,2347,J45.9,"Asthma, unspecified  "
+1220,2349,C50.9,Malignant neoplasm of breast
+1221,2350,M54.5,Low back pain
+1222,2351,l209,Atopic dermatitis
+1223,2354,F32.9,"Major depressive disorder, unspecified"
+1224,2355,K21.9,Gastro-oesophageal reflux disease
+1225,2358,G43.9,"Migraine, unspecified  "
+1226,2361,N39.0,URINARY TRACT INFECTION  
+1227,2364,M54.5,Low back pain
+1228,2372,L20.9,Atopic dermatitis
+1229,2373,C50.9,Malignant neoplasm of breast
+1230,2375,G43.9,"Migraine, unspecified"
+1231,2376,E11,Type 2 diabetes mellitus
+1232,2378,G43.9,"Migraine, unspecified"
+1233,2381,I10,Essential hypertension
+1234,2383,N39.0,Urinary tract infection
+1235,2384,G43.9,"MIGRAINE, UNSPECIFIED"
+1236,2387,L20.9,Atopic dermatitis
+1237,2388,J45.9,"Asthma, unspecified"
+1238,2389,K21.9,Gastro-oesophageal reflux disease
+1239,2390,L20.9,Atopic dermatitis
+1240,2393,F32.9,"Major depressive disorder, unspecified"
+1241,2395,I10,Essential hypertension
+1242,2396,G43.9,"Migraine, unspecified"
+1243,2397,I25.1,Atherosclerotic heart disease  
+1244,2401,C50.9,MALIGNANT NEOPLASM OF BREAST
+1245,2402,R51,HEADACHE
+1246,2403,F32.9,"Major depressive disorder, unspecified"
+1247,2405,C50.9,Malignant neoplasm of breast
+1248,2406,C50.9,Malignant neoplasm of breast
+1249,2409,E78.5,"Hyperlipidaemia, unspecified"
+1250,2412,I10,Essential hypertension
+1251,2416,R51,Headache  
+1252,2420,M54.5,Low back pain  
+1253,2424,L20.9,Atopic dermatitis
+1254,2425,I25.1,Atherosclerotic heart disease
+1255,2427,M17.9,Osteoarthritis of knee
+1256,2428,I25.1,Atherosclerotic heart disease
+1257,2430,N39.0,Urinary tract infection
+1258,2431,G43.9,"Migraine, unspecified"
+1259,2432,I10,Essential hypertension
+1260,2433,K21.9,Gastro-oesophageal reflux disease
+1261,2434,J45.9,"Asthma, unspecified  "
+1262,2437,N39.0,Urinary tract infection
+1263,2438,I25.1,Atherosclerotic heart disease
+1264,2439,F32.9,"Major depressive disorder, unspecified"
+1265,2441,J06.9,Acute upper respiratory infection
+1266,2442,N39.0,Urinary tract infection
+1267,2443,J06.9,Acute upper respiratory infection
+1268,2444,E11,Type 2 diabetes mellitus  
+1269,2447,M17.9,Osteoarthritis of knee
+1270,2450,J06.9,Acute upper respiratory infection  
+1271,2451,I25.1,Atherosclerotic heart disease
+1272,2452,N39.0,Urinary tract infection
+1273,2453,L20.9,Atopic dermatitis
+1274,2455,I25.1,ATHEROSCLEROTIC HEART DISEASE
+1275,2456,G43.9,"Migraine, unspecified"
+1276,2457,J06.9,Acute upper respiratory infection
+1277,2459,J45.9,"Asthma, unspecified"
+1278,2460,E78.5,"Hyperlipidaemia, unspecified"
+1279,2461,I25.1,Atherosclerotic heart disease
+1280,2462,M54.5,Low back pain
+1281,2463,E78.5,"Hyperlipidaemia, unspecified  "
+1282,2464,N39.0,Urinary tract infection
+1283,2465,R51,Headache
+1284,2466,J45.9,"ASTHMA, UNSPECIFIED"
+1285,2468,E11,Type 2 diabetes mellitus
+1286,2469,I25.1,Atherosclerotic heart disease
+1287,2470,J45.9,"Asthma, unspecified"
+1288,2475,K21.9,Gastro-oesophageal reflux disease
+1289,2476,I25.1,Atherosclerotic heart disease
+1290,2482,I10,Essential hypertension
+1291,2483,K21.9,Gastro-oesophageal reflux disease
+1292,2484,M54.5,Low back pain
+1293,2485,G43.9,"Migraine, unspecified  "
+1294,2488,M17.9,Osteoarthritis of knee
+1295,2489,M54.5,Low back pain
+1296,2491,M17.9,Osteoarthritis of knee
+1297,2492,J45.9,"Asthma, unspecified"
+1298,2494,E78.5,"Hyperlipidaemia, unspecified"
+1299,2498,G43.9,"Migraine, unspecified"
+1300,2501,E78.5,"Hyperlipidaemia, unspecified  "
+1301,2503,G43.9,"MIGRAINE, UNSPECIFIED"
+1302,2505,J45.9,"Asthma, unspecified"
+1303,2506,J45.9,"Asthma, unspecified"
+1304,2508,F32.9,"MAJOR DEPRESSIVE DISORDER, UNSPECIFIED"
+1305,2511,L20.9,Atopic dermatitis
+1306,2513,C50.9,Malignant neoplasm of breast
+1307,2515,R51,HEADACHE
+1308,2519,E78.5,"Hyperlipidaemia, unspecified"
+1309,2520,G43.9,"Migraine, unspecified"
+1310,2522,J06.9,Acute upper respiratory infection
+1311,2523,J45.9,"Asthma, unspecified"
+1312,2528,M54.5,Low back pain
+1313,2529,G43.9,"Migraine, unspecified"
+1314,2530,E11,Type 2 diabetes mellitus
+1315,2531,K21.9,Gastro-oesophageal reflux disease
+1316,2532,F32.9,"Major depressive disorder, unspecified"
+1317,2533,C50.9,Malignant neoplasm of breast
+1318,2534,M17.9,Osteoarthritis of knee
+1319,2535,I25.1,Atherosclerotic heart disease
+1320,2536,J45.9,"ASTHMA, UNSPECIFIED"
+1321,2539,I25.1,Atherosclerotic heart disease
+1322,2541,F32.9,"Major depressive disorder, unspecified"
+1323,2542,I25.1,Atherosclerotic heart disease
+1324,2549,I25.1,Atherosclerotic heart disease
+1325,2550,M54.5,Low back pain
+1326,2551,K21.9,Gastro-oesophageal reflux disease
+1327,2552,G43.9,"Migraine, unspecified  "
+1328,2555,E11,Type 2 diabetes mellitus
+1329,2558,E11,Type 2 diabetes mellitus  
+1330,2559,E11,Type 2 diabetes mellitus
+1331,2561,G43.9,"Migraine, unspecified"
+1332,2562,E78.5,"HYPERLIPIDAEMIA, UNSPECIFIED"
+1333,2564,I25.1,Atherosclerotic heart disease
+1334,2566,M54.5,LOW BACK PAIN
+1335,2568,L20.9,Atopic dermatitis
+1336,2570,C50.9,Malignant neoplasm of breast
+1337,2572,K21.9,Gastro-oesophageal reflux disease
+1338,2573,R51,Headache
+1339,2574,E78.5,"Hyperlipidaemia, unspecified"
+1340,2577,I25.1,Atherosclerotic heart disease
+1341,2579,G43.9,"Migraine, unspecified"
+1342,2580,M54.5,Low back pain
+1343,2583,N39.0,Urinary tract infection
+1344,2584,J06.9,Acute upper respiratory infection
+1345,2585,J45.9,"Asthma, unspecified"
+1346,2587,F32.9,"Major depressive disorder, unspecified"
+1347,2590,E11,TYPE 2 DIABETES MELLITUS
+1348,2592,R51,Headache
+1349,2595,J45.9,"Asthma, unspecified"
+1350,2596,N39.0,Urinary tract infection
+1351,2599,C50.9,Malignant neoplasm of breast
+1352,2603,C50.9,Malignant neoplasm of breast  
+1353,2604,N39.0,Urinary tract infection
+1354,2609,M17.9,Osteoarthritis of knee
+1355,2610,G43.9,"Migraine, unspecified"
+1356,2613,K21.9,Gastro-oesophageal reflux disease
+1357,2616,F32.9,"Major depressive disorder, unspecified"
+1358,2617,E78.5,"Hyperlipidaemia, unspecified"
+1359,2620,C50.9,Malignant neoplasm of breast
+1360,2623,E11,Type 2 diabetes mellitus
+1361,2625,E11,Type 2 diabetes mellitus
+1362,2627,I10,Essential hypertension
+1363,2634,I25.1,Atherosclerotic heart disease
+1364,2636,R51,Headache
+1365,2639,J45.9,"Asthma, unspecified"
+1366,2644,F32.9,"Major depressive disorder, unspecified"
+1367,2646,E78.5,"Hyperlipidaemia, unspecified"
+1368,2648,N39.0,Urinary tract infection  
+1369,2652,E78.5,"Hyperlipidaemia, unspecified"
+1370,2654,R51,Headache  
+1371,2658,J45.9,"Asthma, unspecified"
+1372,2660,L20.9,Atopic dermatitis
+1373,2663,R51,Headache
+1374,2664,F32.9,"Major depressive disorder, unspecified"
+1375,2669,L20.9,Atopic dermatitis
+1376,2670,M17.9,Osteoarthritis of knee  
+1377,2671,N39.0,Urinary tract infection
+1378,2673,I10,Essential hypertension
+1379,2680,E78.5,"Hyperlipidaemia, unspecified"
+1380,2681,F32.9,"Major depressive disorder, unspecified"
+1381,2683,G43.9,"Migraine, unspecified"
+1382,2684,M17.9,Osteoarthritis of knee
+1383,2686,N39.0,Urinary tract infection
+1384,2687,I25.1,Atherosclerotic heart disease
+1385,2688,L20.9,Atopic dermatitis
+1386,2690,L20.9,Atopic dermatitis
+1387,2691,J06.9,Acute upper respiratory infection
+1388,2693,I10,Essential hypertension  
+1389,2694,J45.9,"Asthma, unspecified"
+1390,2695,N39.0,Urinary tract infection
+1391,2696,E78.5,"Hyperlipidaemia, unspecified"
+1392,2697,E11,TYPE 2 DIABETES MELLITUS
+1393,2699,M54.5,Low back pain
+1394,2701,M54.5,Low back pain
+1395,2703,L20.9,Atopic dermatitis
+1396,2706,J06.9,Acute upper respiratory infection  
+1397,2707,I25.1,Atherosclerotic heart disease
+1398,2708,G43.9,"Migraine, unspecified"
+1399,2712,N39.0,Urinary tract infection  
+1400,2716,G43.9,"Migraine, unspecified"
+1401,2718,E11,Type 2 diabetes mellitus
+1402,2719,I10,ESSENTIAL HYPERTENSION
+1403,2720,E11,TYPE 2 DIABETES MELLITUS
+1404,2722,I25.1,Atherosclerotic heart disease
+1405,2723,G43.9,"Migraine, unspecified"
+1406,2724,M17.9,Osteoarthritis of knee
+1407,2725,N39.0,Urinary tract infection
+1408,2727,E78.5,"Hyperlipidaemia, unspecified"
+1409,2729,G43.9,"Migraine, unspecified"
+1410,2730,M17.9,Osteoarthritis of knee  
+1411,2731,K21.9,Gastro-oesophageal reflux disease
+1412,2733,G43.9,"Migraine, unspecified"
+1413,2734,I25.1,Atherosclerotic heart disease
+1414,2739,F32.9,"Major depressive disorder, unspecified"
+1415,2741,N39.0,Urinary tract infection
+1416,2747,I10,Essential hypertension
+1417,2748,L20.9,Atopic dermatitis
+1418,2750,R51,Headache
+1419,2751,F32.9,"Major depressive disorder, unspecified"
+1420,2752,I25.1,Atherosclerotic heart disease
+1421,2753,J45.9,"ASTHMA, UNSPECIFIED"
+1422,2755,J06.9,Acute upper respiratory infection
+1423,2756,K21.9,Gastro-oesophageal reflux disease
+1424,2757,G43.9,"Migraine, unspecified"
+1425,2760,K21.9,Gastro-oesophageal reflux disease
+1426,2766,J45.9,"Asthma, unspecified"
+1427,2767,R51,Headache
+1428,2768,G43.9,"Migraine, unspecified"
+1429,2769,E11,Type 2 diabetes mellitus
+1430,2771,E78.5,"Hyperlipidaemia, unspecified"
+1431,2772,L20.9,Atopic dermatitis
+1432,2773,E11,Type 2 diabetes mellitus
+1433,2779,M54.5,Low back pain
+1434,2782,M54.5,Low back pain
+1435,2783,M54.5,Low back pain
+1436,2784,F32.9,"Major depressive disorder, unspecified"
+1437,2785,J45.9,"ASTHMA, UNSPECIFIED"
+1438,2789,M17.9,Osteoarthritis of knee
+1439,2790,J06.9,ACUTE UPPER RESPIRATORY INFECTION
+1440,2791,K21.9,Gastro-oesophageal reflux disease
+1441,2793,M54.5,Low back pain
+1442,2795,E78.5,"Hyperlipidaemia, unspecified"
+1443,2802,F32.9,"Major depressive disorder, unspecified"
+1444,2803,J45.9,"Asthma, unspecified"
+1445,2804,J06.9,Acute upper respiratory infection
+1446,2805,J06.9,ACUTE UPPER RESPIRATORY INFECTION
+1447,2807,M17.9,Osteoarthritis of knee
+1448,2810,M54.5,LOW BACK PAIN
+1449,2811,M54.5,LOW BACK PAIN
+1450,2812,C50.9,Malignant neoplasm of breast
+1451,2813,C50.9,Malignant neoplasm of breast  
+1452,2814,K21.9,Gastro-oesophageal reflux disease
+1453,2815,G43.9,"Migraine, unspecified"
+1454,2821,K21.9,Gastro-oesophageal reflux disease
+1455,2822,C50.9,MALIGNANT NEOPLASM OF BREAST  
+1456,2824,J45.9,"Asthma, unspecified"
+1457,2825,J06.9,Acute upper respiratory infection
+1458,2826,E11,Type 2 diabetes mellitus
+1459,2827,J45.9,"Asthma, unspecified  "
+1460,2829,N39.0,Urinary tract infection
+1461,2831,M54.5,Low back pain
+1462,2834,E11,Type 2 diabetes mellitus
+1463,2835,J06.9,Acute upper respiratory infection
+1464,2836,G43.9,"Migraine, unspecified"
+1465,2837,J06.9,ACUTE UPPER RESPIRATORY INFECTION
+1466,2840,C50.9,Malignant neoplasm of breast
+1467,2841,C50.9,Malignant neoplasm of breast
+1468,2842,J45.9,"ASTHMA, UNSPECIFIED"
+1469,2844,J45.9,"ASTHMA, UNSPECIFIED"
+1470,2845,L20.9,Atopic dermatitis
+1471,2847,F32.9,"Major depressive disorder, unspecified"
+1472,2849,G43.9,"Migraine, unspecified"
+1473,2852,C50.9,Malignant neoplasm of breast
+1474,2853,E11,Type 2 diabetes mellitus
+1475,2854,N39.0,Urinary tract infection
+1476,2856,J45.9,"Asthma, unspecified"
+1477,2857,J45.9,"Asthma, unspecified"
+1478,2860,G43.9,"MIGRAINE, UNSPECIFIED"
+1479,2864,C50.9,Malignant neoplasm of breast
+1480,2865,E78.5,"Hyperlipidaemia, unspecified"
+1481,2867,N39.0,Urinary tract infection  
+1482,2868,F32.9,"Major depressive disorder, unspecified  "
+1483,2870,M54.5,Low back pain
+1484,2871,M17.9,Osteoarthritis of knee  
+1485,2872,J45.9,"Asthma, unspecified"
+1486,2873,E11,Type 2 diabetes mellitus
+1487,2874,E78.5,"Hyperlipidaemia, unspecified"
+1488,2876,F32.9,"Major depressive disorder, unspecified"
+1489,2879,E78.5,"Hyperlipidaemia, unspecified"
+1490,2882,E78.5,"Hyperlipidaemia, unspecified"
+1491,2884,J06.9,Acute upper respiratory infection
+1492,2886,I25.1,ATHEROSCLEROTIC HEART DISEASE  
+1493,2887,F32.9,"Major depressive disorder, unspecified"
+1494,2889,M54.5,Low back pain
+1495,2893,F32.9,"Major depressive disorder, unspecified"
+1496,2895,G43.9,"Migraine, unspecified"
+1497,2899,E78.5,"Hyperlipidaemia, unspecified"
+1498,2901,F32.9,"Major depressive disorder, unspecified"
+1499,2902,R51,Headache
+1500,2903,R51,Headache
+1501,2905,L20.9,Atopic dermatitis
+1502,2906,J45.9,"Asthma, unspecified"
+1503,2907,F32.9,"MAJOR DEPRESSIVE DISORDER, UNSPECIFIED"
+1504,2909,R51,Headache
+1505,2910,F32.9,"Major depressive disorder, unspecified"
+1506,2911,E11,Type 2 diabetes mellitus
+1507,2912,C50.9,Malignant neoplasm of breast
+1508,2915,N39.0,Urinary tract infection
+1509,2916,I10,Essential hypertension  
+1510,2920,M17.9,OSTEOARTHRITIS OF KNEE
+1511,2921,K21.9,GASTRO-OESOPHAGEAL REFLUX DISEASE
+1512,2923,M54.5,Low back pain  
+1513,2924,J06.9,Acute upper respiratory infection
+1514,2925,F32.9,"Major depressive disorder, unspecified"
+1515,2926,E11,Type 2 diabetes mellitus
+1516,2927,E11,Type 2 diabetes mellitus
+1517,2928,J45.9,"Asthma, unspecified"
+1518,2929,F32.9,"Major depressive disorder, unspecified"
+1519,2930,N39.0,Urinary tract infection
+1520,2931,C50.9,Malignant neoplasm of breast
+1521,2932,F32.9,"Major depressive disorder, unspecified"
+1522,2933,C50.9,Malignant neoplasm of breast
+1523,2934,I25.1,Atherosclerotic heart disease
+1524,2936,I10,Essential hypertension
+1525,2938,C50.9,Malignant neoplasm of breast
+1526,2939,F32.9,"Major depressive disorder, unspecified"
+1527,2940,R51,Headache
+1528,2941,J06.9,Acute upper respiratory infection
+1529,2942,N39.0,URINARY TRACT INFECTION
+1530,2946,J06.9,Acute upper respiratory infection
+1531,2950,K21.9,Gastro-oesophageal reflux disease
+1532,2952,N39.0,Urinary tract infection
+1533,2953,R51,Headache
+1534,2955,M54.5,Low back pain
+1535,2958,G43.9,"Migraine, unspecified"
+1536,2961,E78.5,"Hyperlipidaemia, unspecified"
+1537,2962,N39.0,URINARY TRACT INFECTION
+1538,2963,R51,Headache
+1539,2965,J06.9,Acute upper respiratory infection
+1540,2966,M54.5,LOW BACK PAIN
+1541,2967,J06.9,Acute upper respiratory infection
+1542,2972,E78.5,"Hyperlipidaemia, unspecified"
+1543,2973,C50.9,Malignant neoplasm of breast
+1544,2976,I10,Essential hypertension
+1545,2977,M17.9,Osteoarthritis of knee
+1546,2979,G43.9,"Migraine, unspecified"
+1547,2984,M54.5,Low back pain
+1548,2986,E78.5,"Hyperlipidaemia, unspecified"
+1549,2988,E11,Type 2 diabetes mellitus
+1550,2989,M54.5,Low back pain
+1551,2991,R51,Headache
+1552,2992,N39.0,Urinary tract infection
+1553,2994,E78.5,"Hyperlipidaemia, unspecified"
+1554,2995,E11,Type 2 diabetes mellitus
+1555,2999,J06.9,Acute upper respiratory infection
+1556,3002,M54.5,Low back pain
+1557,3004,M17.9,Osteoarthritis of knee
+1558,3005,E78.5,"Hyperlipidaemia, unspecified"
+1559,3006,C50.9,Malignant neoplasm of breast  
+1560,3008,G43.9,"Migraine, unspecified  "
+1561,3011,G43.9,"Migraine, unspecified"
+1562,3012,R51,Headache
+1563,3015,M54.5,Low back pain
+1564,3016,R51,Headache
+1565,3017,M54.5,Low back pain
+1566,3020,N39.0,URINARY TRACT INFECTION
+1567,3022,R51,Headache
+1568,3023,R51,Headache
+1569,3024,L20.9,Atopic dermatitis  
+1570,3028,I25.1,Atherosclerotic heart disease
+1571,3029,J45.9,"Asthma, unspecified"
+1572,3034,C50.9,Malignant neoplasm of breast
+1573,3039,N39.0,Urinary tract infection
+1574,3040,E78.5,"Hyperlipidaemia, unspecified"
+1575,3041,C50.9,Malignant neoplasm of breast
+1576,3043,I25.1,Atherosclerotic heart disease
+1577,3045,L20.9,Atopic dermatitis
+1578,3047,K21.9,Gastro-oesophageal reflux disease
+1579,3049,M17.9,OSTEOARTHRITIS OF KNEE  
+1580,3050,F32.9,"Major depressive disorder, unspecified"
+1581,3051,N39.0,Urinary tract infection  
+1582,3053,I10,Essential hypertension
+1583,3055,L20.9,Atopic dermatitis
+1584,3058,E11,Type 2 diabetes mellitus
+1585,3063,M54.5,Low back pain
+1586,3064,L20.9,Atopic dermatitis
+1587,3065,G43.9,"Migraine, unspecified"
+1588,3066,C50.9,Malignant neoplasm of breast
+1589,3069,L20.9,Atopic dermatitis
+1590,3070,M54.5,Low back pain
+1591,3071,E78.5,"Hyperlipidaemia, unspecified"
+1592,3073,M17.9,Osteoarthritis of knee
+1593,3075,K21.9,Gastro-oesophageal reflux disease
+1594,3076,K21.9,Gastro-oesophageal reflux disease
+1595,3078,K21.9,Gastro-oesophageal reflux disease
+1596,3079,M17.9,OSTEOARTHRITIS OF KNEE
+1597,3082,K21.9,Gastro-oesophageal reflux disease
+1598,3083,I25.1,Atherosclerotic heart disease
+1599,3084,E78.5,"Hyperlipidaemia, unspecified"
+1600,3085,I10,Essential hypertension
+1601,3088,G43.9,"Migraine, unspecified"
+1602,3090,L20.9,Atopic dermatitis
+1603,3091,R51,Headache
+1604,3095,J06.9,Acute upper respiratory infection
+1605,3099,J06.9,Acute upper respiratory infection
+1606,3101,L20.9,Atopic dermatitis
+1607,3102,I10,Essential hypertension
+1608,3103,I10,Essential hypertension
+1609,3104,M17.9,Osteoarthritis of knee
+1610,3108,R51,Headache
+1611,3109,K21.9,GASTRO-OESOPHAGEAL REFLUX DISEASE
+1612,3114,G43.9,"Migraine, unspecified"
+1613,3118,K21.9,Gastro-oesophageal reflux disease
+1614,3119,K21.9,Gastro-oesophageal reflux disease
+1615,3121,J06.9,Acute upper respiratory infection
+1616,3125,G43.9,"Migraine, unspecified  "
+1617,3127,G43.9,"MIGRAINE, UNSPECIFIED  "
+1618,3128,R51,Headache
+1619,3129,E78.5,"Hyperlipidaemia, unspecified"
+1620,3132,I10,Essential hypertension
+1621,3135,J45.9,"ASTHMA, UNSPECIFIED"
+1622,3136,M54.5,Low back pain
+1623,3137,E78.5,"Hyperlipidaemia, unspecified"
+1624,3138,N39.0,Urinary tract infection
+1625,3140,R51,Headache
+1626,3143,G43.9,"Migraine, unspecified"
+1627,3146,F32.9,"MAJOR DEPRESSIVE DISORDER, UNSPECIFIED"
+1628,3147,R51,Headache
+1629,3148,E78.5,"HYPERLIPIDAEMIA, UNSPECIFIED"
+1630,3155,M17.9,Osteoarthritis of knee
+1631,3156,C50.9,Malignant neoplasm of breast
+1632,3157,R51,Headache
+1633,3158,G43.9,"Migraine, unspecified  "
+1634,3161,I10,Essential hypertension
+1635,3162,G43.9,"Migraine, unspecified"
+1636,3163,J45.9,"Asthma, unspecified  "
+1637,3164,C50.9,Malignant neoplasm of breast
+1638,3165,E78.5,"Hyperlipidaemia, unspecified"
+1639,3167,G43.9,"Migraine, unspecified"
+1640,3171,J06.9,Acute upper respiratory infection
+1641,3172,C50.9,MALIGNANT NEOPLASM OF BREAST
+1642,3173,J06.9,ACUTE UPPER RESPIRATORY INFECTION
+1643,3175,I10,Essential hypertension
+1644,3176,J06.9,Acute upper respiratory infection
+1645,3177,K21.9,Gastro-oesophageal reflux disease
+1646,3180,I10,Essential hypertension
+1647,3181,I25.1,Atherosclerotic heart disease
+1648,3183,R51,Headache
+1649,3184,G43.9,"Migraine, unspecified"
+1650,3185,I10,Essential hypertension
+1651,3189,F32.9,"Major depressive disorder, unspecified  "
+1652,3190,M17.9,Osteoarthritis of knee
+1653,3191,K21.9,Gastro-oesophageal reflux disease
+1654,3194,J45.9,"Asthma, unspecified"
+1655,3195,J45.9,"Asthma, unspecified"
+1656,3196,L20.9,Atopic dermatitis
+1657,3197,E78.5,"Hyperlipidaemia, unspecified"
+1658,3201,E78.5,"Hyperlipidaemia, unspecified"
+1659,3203,J45.9,"ASTHMA, UNSPECIFIED"
+1660,3204,M54.5,Low back pain
+1661,3205,C50.9,Malignant neoplasm of breast
+1662,3207,F32.9,"Major depressive disorder, unspecified"
+1663,3208,J45.9,"Asthma, unspecified"
+1664,3209,I25.1,Atherosclerotic heart disease
+1665,3210,J06.9,Acute upper respiratory infection
+1666,3211,R51,Headache
+1667,3212,R51,Headache
+1668,3216,K21.9,Gastro-oesophageal reflux disease
+1669,3218,I25.1,Atherosclerotic heart disease
+1670,3220,J06.9,Acute upper respiratory infection
+1671,3221,K21.9,Gastro-oesophageal reflux disease  
+1672,3222,F32.9,"Major depressive disorder, unspecified"
+1673,3223,E11,Type 2 diabetes mellitus
+1674,3226,J45.9,"ASTHMA, UNSPECIFIED"
+1675,3227,F32.9,"Major depressive disorder, unspecified  "
+1676,3231,E78.5,"Hyperlipidaemia, unspecified"
+1677,3233,I25.1,Atherosclerotic heart disease
+1678,3234,N39.0,Urinary tract infection
+1679,3236,K21.9,Gastro-oesophageal reflux disease
+1680,3237,J45.9,"Asthma, unspecified"
+1681,3238,E11,Type 2 diabetes mellitus
+1682,3243,I10,Essential hypertension
+1683,3244,C50.9,Malignant neoplasm of breast
+1684,3246,M54.5,Low back pain  
+1685,3248,I25.1,Atherosclerotic heart disease
+1686,3249,J45.9,"ASTHMA, UNSPECIFIED"
+1687,3253,C50.9,Malignant neoplasm of breast
+1688,3254,M17.9,Osteoarthritis of knee
+1689,3255,K21.9,Gastro-oesophageal reflux disease  
+1690,3256,I10,Essential hypertension
+1691,3259,N39.0,Urinary tract infection
+1692,3260,I10,Essential hypertension
+1693,3261,J45.9,"Asthma, unspecified"
+1694,3262,C50.9,Malignant neoplasm of breast  
+1695,3263,G43.9,"Migraine, unspecified"
+1696,3265,J45.9,"Asthma, unspecified"
+1697,3267,J45.9,"Asthma, unspecified"
+1698,3269,J06.9,Acute upper respiratory infection
+1699,3272,K21.9,Gastro-oesophageal reflux disease
+1700,3275,E78.5,"Hyperlipidaemia, unspecified"
+1701,3276,C50.9,Malignant neoplasm of breast
+1702,3279,R51,Headache
+1703,3280,M17.9,Osteoarthritis of knee
+1704,3282,G43.9,"Migraine, unspecified"
+1705,3283,N39.0,Urinary tract infection
+1706,3284,F32.9,"Major depressive disorder, unspecified"
+1707,3285,R51,Headache
+1708,3286,M17.9,Osteoarthritis of knee
+1709,3290,J06.9,Acute upper respiratory infection
+1710,3293,G43.9,"Migraine, unspecified"
+1711,3294,C50.9,Malignant neoplasm of breast
+1712,3295,F32.9,"Major depressive disorder, unspecified"
+1713,3299,E78.5,"Hyperlipidaemia, unspecified"
+1714,3300,I10,ESSENTIAL HYPERTENSION  
+1715,3303,E78.5,"HYPERLIPIDAEMIA, UNSPECIFIED"
+1716,3305,K21.9,Gastro-oesophageal reflux disease
+1717,3309,J06.9,Acute upper respiratory infection
+1718,3311,J06.9,Acute upper respiratory infection
+1719,3314,G43.9,"MIGRAINE, UNSPECIFIED"
+1720,3315,I10,Essential hypertension
+1721,3316,J45.9,"Asthma, unspecified"
+1722,3320,K21.9,Gastro-oesophageal reflux disease
+1723,3321,F32.9,"Major depressive disorder, unspecified"
+1724,3322,M17.9,OSTEOARTHRITIS OF KNEE
+1725,3323,G43.9,"Migraine, unspecified"
+1726,3324,R51,Headache
+1727,3325,E11,Type 2 diabetes mellitus
+1728,3330,R51,Headache
+1729,3331,C50.9,Malignant neoplasm of breast
+1730,3333,N39.0,Urinary tract infection
+1731,3334,I10,Essential hypertension
+1732,3339,F32.9,"Major depressive disorder, unspecified"
+1733,3341,K21.9,Gastro-oesophageal reflux disease
+1734,3342,M54.5,Low back pain
+1735,3343,M54.5,Low back pain
+1736,3344,E11,Type 2 diabetes mellitus
+1737,3347,C50.9,Malignant neoplasm of breast
+1738,3350,I25.1,Atherosclerotic heart disease
+1739,3351,C50.9,Malignant neoplasm of breast
+1740,3353,C50.9,Malignant neoplasm of breast
+1741,3354,E11,TYPE 2 DIABETES MELLITUS
+1742,3355,I25.1,Atherosclerotic heart disease  
+1743,3358,F32.9,"Major depressive disorder, unspecified"
+1744,3359,F32.9,"Major depressive disorder, unspecified"
+1745,3362,M54.5,Low back pain
+1746,3363,R51,HEADACHE
+1747,3364,E11,Type 2 diabetes mellitus
+1748,3367,E11,Type 2 diabetes mellitus
+1749,3368,J45.9,"Asthma, unspecified  "
+1750,3369,F32.9,"Major depressive disorder, unspecified"
+1751,3371,J45.9,"Asthma, unspecified"
+1752,3372,E78.5,"Hyperlipidaemia, unspecified"
+1753,3374,J45.9,"Asthma, unspecified"
+1754,3375,I10,ESSENTIAL HYPERTENSION
+1755,3377,L20.9,Atopic dermatitis
+1756,3378,N39.0,Urinary tract infection
+1757,3379,E11,Type 2 diabetes mellitus
+1758,3383,M17.9,Osteoarthritis of knee
+1759,3385,M17.9,Osteoarthritis of knee
+1760,3388,C50.9,Malignant neoplasm of breast
+1761,3389,R51,HEADACHE
+1762,3390,E11,Type 2 diabetes mellitus
+1763,3391,C50.9,Malignant neoplasm of breast
+1764,3392,M17.9,Osteoarthritis of knee
+1765,3394,J06.9,Acute upper respiratory infection
+1766,3396,J45.9,"ASTHMA, UNSPECIFIED"
+1767,3398,R51,Headache
+1768,3399,C50.9,Malignant neoplasm of breast
+1769,3400,C50.9,Malignant neoplasm of breast
+1770,3406,J45.9,"Asthma, unspecified"
+1771,3409,M54.5,Low back pain
+1772,3410,C50.9,Malignant neoplasm of breast
+1773,3411,C50.9,MALIGNANT NEOPLASM OF BREAST
+1774,3413,G43.9,"MIGRAINE, UNSPECIFIED"
+1775,3414,I25.1,Atherosclerotic heart disease
+1776,3415,N39.0,Urinary tract infection
+1777,3416,L20.9,Atopic dermatitis
+1778,3418,K21.9,Gastro-oesophageal reflux disease
+1779,3421,R51,Headache
+1780,3422,J45.9,"Asthma, unspecified"
+1781,3423,F32.9,"Major depressive disorder, unspecified"
+1782,3429,K21.9,Gastro-oesophageal reflux disease
+1783,3430,E78.5,"Hyperlipidaemia, unspecified"
+1784,3432,I25.1,Atherosclerotic heart disease
+1785,3433,G43.9,"Migraine, unspecified"
+1786,3434,I10,Essential hypertension
+1787,3435,C50.9,Malignant neoplasm of breast
+1788,3437,I25.1,Atherosclerotic heart disease
+1789,3438,I25.1,Atherosclerotic heart disease
+1790,3440,I10,Essential hypertension
+1791,3443,N39.0,Urinary tract infection
+1792,3447,K21.9,Gastro-oesophageal reflux disease
+1793,3448,R51,Headache
+1794,3449,C50.9,Malignant neoplasm of breast
+1795,3450,C50.9,Malignant neoplasm of breast
+1796,3451,N39.0,Urinary tract infection
+1797,3453,M54.5,Low back pain
+1798,3461,I25.1,Atherosclerotic heart disease
+1799,3462,R51,Headache
+1800,3463,E11,Type 2 diabetes mellitus  
+1801,3467,R51,Headache
+1802,3468,I10,Essential hypertension
+1803,3469,E78.5,"Hyperlipidaemia, unspecified"
+1804,3470,M17.9,Osteoarthritis of knee  
+1805,3471,M17.9,Osteoarthritis of knee
+1806,3473,I10,Essential hypertension
+1807,3474,N39.0,Urinary tract infection
+1808,3475,E78.5,"Hyperlipidaemia, unspecified  "
+1809,3476,N39.0,Urinary tract infection
+1810,3480,R51,Headache  
+1811,3481,J45.9,"Asthma, unspecified"
+1812,3482,G43.9,"Migraine, unspecified"
+1813,3483,E78.5,"Hyperlipidaemia, unspecified"
+1814,3484,L20.9,ATOPIC DERMATITIS
+1815,3485,R51,Headache  
+1816,3488,J45.9,"Asthma, unspecified"
+1817,3489,I10,Essential hypertension
+1818,3490,M54.5,Low back pain
+1819,3491,M17.9,Osteoarthritis of knee
+1820,3493,L20.9,Atopic dermatitis
+1821,3495,G43.9,"Migraine, unspecified"
+1822,3496,F32.9,"Major depressive disorder, unspecified"
+1823,3497,I10,Essential hypertension
+1824,3498,C50.9,Malignant neoplasm of breast
+1825,3499,I25.1,Atherosclerotic heart disease
+1826,3500,J45.9,"ASTHMA, UNSPECIFIED"
+1827,3504,I10,Essential hypertension
+1828,3505,C50.9,Malignant neoplasm of breast
+1829,3508,E78.5,"Hyperlipidaemia, unspecified"
+1830,3509,E11,Type 2 diabetes mellitus
+1831,3511,I10,Essential hypertension
+1832,3515,M17.9,Osteoarthritis of knee
+1833,3517,C50.9,Malignant neoplasm of breast
+1834,3521,G43.9,"MIGRAINE, UNSPECIFIED"
+1835,3522,E78.5,"Hyperlipidaemia, unspecified"
+1836,3523,M17.9,Osteoarthritis of knee
+1837,3525,R51,Headache
+1838,3526,J06.9,ACUTE UPPER RESPIRATORY INFECTION
+1839,3527,K21.9,Gastro-oesophageal reflux disease
+1840,3530,L20.9,Atopic dermatitis
+1841,3531,C50.9,Malignant neoplasm of breast
+1842,3533,R51,Headache
+1843,3534,E11,Type 2 diabetes mellitus
+1844,3537,F32.9,"Major depressive disorder, unspecified"
+1845,3539,M17.9,Osteoarthritis of knee
+1846,3540,J45.9,"Asthma, unspecified"
+1847,3544,R51,Headache
+1848,3546,M17.9,Osteoarthritis of knee
+1849,3549,E78.5,"Hyperlipidaemia, unspecified"
+1850,3551,J06.9,Acute upper respiratory infection
+1851,3553,E11,Type 2 diabetes mellitus
+1852,3554,I10,Essential hypertension
+1853,3555,M17.9,Osteoarthritis of knee
+1854,3557,L20.9,Atopic dermatitis
+1855,3559,E78.5,"Hyperlipidaemia, unspecified"
+1856,3562,L20.9,Atopic dermatitis
+1857,3567,M54.5,Low back pain
+1858,3571,J45.9,"Asthma, unspecified"
+1859,3572,E11,Type 2 diabetes mellitus
+1860,3573,L20.9,Atopic dermatitis
+1861,3576,G43.9,"Migraine, unspecified"
+1862,3577,L20.9,Atopic dermatitis
+1863,3578,I25.1,Atherosclerotic heart disease
+1864,3582,C50.9,Malignant neoplasm of breast
+1865,3584,J06.9,Acute upper respiratory infection
+1866,3585,E78.5,"Hyperlipidaemia, unspecified"
+1867,3586,M17.9,Osteoarthritis of knee
+1868,3589,K21.9,Gastro-oesophageal reflux disease
+1869,3591,G43.9,"MIGRAINE, UNSPECIFIED"
+1870,3592,L20.9,Atopic dermatitis
+1871,3597,F32.9,"Major depressive disorder, unspecified"
+1872,3600,E11,Type 2 diabetes mellitus
+1873,3601,R51,Headache
+1874,3602,K21.9,Gastro-oesophageal reflux disease
+1875,3603,F32.9,"Major depressive disorder, unspecified"
+1876,3606,M54.5,Low back pain
+1877,3608,I25.1,Atherosclerotic heart disease
+1878,3610,J45.9,"Asthma, unspecified"
+1879,3612,C50.9,Malignant neoplasm of breast  
+1880,3616,K21.9,Gastro-oesophageal reflux disease
+1881,3617,N39.0,Urinary tract infection
+1882,3618,C50.9,Malignant neoplasm of breast
+1883,3619,F32.9,"Major depressive disorder, unspecified"
+1884,3620,I25.1,Atherosclerotic heart disease
+1885,3621,M54.5,Low back pain
+1886,3622,E78.5,"Hyperlipidaemia, unspecified"
+1887,3623,M54.5,Low back pain
+1888,3624,N39.0,Urinary tract infection
+1889,3625,C50.9,Malignant neoplasm of breast
+1890,3634,K21.9,Gastro-oesophageal reflux disease
+1891,3635,E11,Type 2 diabetes mellitus
+1892,3637,E78.5,"Hyperlipidaemia, unspecified"
+1893,3642,R51,Headache
+1894,3643,L20.9,Atopic dermatitis
+1895,3645,J45.9,"Asthma, unspecified  "
+1896,3647,G43.9,"Migraine, unspecified"
+1897,3649,N39.0,Urinary tract infection
+1898,3654,R51,Headache
+1899,3655,J06.9,Acute upper respiratory infection
+1900,3658,I25.1,Atherosclerotic heart disease
+1901,3659,E11,Type 2 diabetes mellitus  
+1902,3660,R51,Headache
+1903,3663,E11,Type 2 diabetes mellitus
+1904,3666,G43.9,"Migraine, unspecified"
+1905,3667,N39.0,Urinary tract infection
+1906,3675,I10,ESSENTIAL HYPERTENSION
+1907,3679,J45.9,"Asthma, unspecified"
+1908,3680,M54.5,Low back pain
+1909,3682,J06.9,Acute upper respiratory infection
+1910,3683,J45.9,"Asthma, unspecified"
+1911,3685,R51,Headache
+1912,3687,K21.9,Gastro-oesophageal reflux disease
+1913,3690,J06.9,Acute upper respiratory infection
+1914,3691,I25.1,Atherosclerotic heart disease
+1915,3694,J06.9,Acute upper respiratory infection
+1916,3695,G43.9,"Migraine, unspecified"
+1917,3696,M17.9,Osteoarthritis of knee
+1918,3697,J45.9,"Asthma, unspecified"
+1919,3702,F32.9,"Major depressive disorder, unspecified"
+1920,3703,E11,Type 2 diabetes mellitus
+1921,3704,K21.9,Gastro-oesophageal reflux disease
+1922,3706,M17.9,Osteoarthritis of knee
+1923,3708,K21.9,Gastro-oesophageal reflux disease
+1924,3709,M17.9,Osteoarthritis of knee
+1925,3710,G43.9,"Migraine, unspecified"
+1926,3711,J06.9,Acute upper respiratory infection
+1927,3714,M54.5,Low back pain
+1928,3716,M54.5,Low back pain
+1929,3717,M17.9,Osteoarthritis of knee
+1930,3719,J45.9,"Asthma, unspecified"
+1931,3721,J06.9,Acute upper respiratory infection
+1932,3725,M17.9,OSTEOARTHRITIS OF KNEE
+1933,3726,I10,Essential hypertension
+1934,3728,F32.9,"Major depressive disorder, unspecified"
+1935,3730,E78.5,"Hyperlipidaemia, unspecified"
+1936,3731,K21.9,Gastro-oesophageal reflux disease
+1937,3732,M54.5,Low back pain
+1938,3734,M54.5,Low back pain
+1939,3737,E78.5,"HYPERLIPIDAEMIA, UNSPECIFIED"
+1940,3740,I25.1,Atherosclerotic heart disease
+1941,3743,N39.0,Urinary tract infection
+1942,3746,M54.5,Low back pain  
+1943,3748,M54.5,Low back pain
+1944,3750,L20.9,Atopic dermatitis
+1945,3751,L20.9,Atopic dermatitis  
+1946,3753,E78.5,"Hyperlipidaemia, unspecified"
+1947,3754,E11,TYPE 2 DIABETES MELLITUS
+1948,3755,F32.9,"Major depressive disorder, unspecified"
+1949,3757,M17.9,Osteoarthritis of knee
+1950,3758,E11,Type 2 diabetes mellitus
+1951,3759,I25.1,Atherosclerotic heart disease
+1952,3760,M54.5,Low back pain
+1953,3761,K21.9,Gastro-oesophageal reflux disease
+1954,3763,J06.9,Acute upper respiratory infection
+1955,3765,L20.9,ATOPIC DERMATITIS
+1956,3769,L20.9,Atopic dermatitis
+1957,3771,F32.9,"Major depressive disorder, unspecified  "
+1958,3775,C50.9,Malignant neoplasm of breast
+1959,3777,I10,Essential hypertension
+1960,3778,L20.9,Atopic dermatitis
+1961,3780,N39.0,Urinary tract infection
+1962,3781,I25.1,Atherosclerotic heart disease
+1963,3782,I25.1,Atherosclerotic heart disease
+1964,3784,L20.9,Atopic dermatitis
+1965,3785,N39.0,Urinary tract infection  
+1966,3789,C50.9,MALIGNANT NEOPLASM OF BREAST
+1967,3792,C50.9,Malignant neoplasm of breast
+1968,3796,I25.1,Atherosclerotic heart disease
+1969,3797,F32.9,"Major depressive disorder, unspecified  "
+1970,3799,F32.9,"Major depressive disorder, unspecified"
+1971,3800,J06.9,Acute upper respiratory infection
+1972,3801,R51,Headache
+1973,3803,J06.9,Acute upper respiratory infection
+1974,3804,M54.5,LOW BACK PAIN
+1975,3805,C50.9,MALIGNANT NEOPLASM OF BREAST
+1976,3806,N39.0,Urinary tract infection
+1977,3807,I25.1,Atherosclerotic heart disease
+1978,3810,I10,ESSENTIAL HYPERTENSION
+1979,3811,E78.5,"Hyperlipidaemia, unspecified"
+1980,3814,E11,Type 2 diabetes mellitus
+1981,3815,M17.9,Osteoarthritis of knee
+1982,3818,G43.9,"Migraine, unspecified"
+1983,3819,K21.9,GASTRO-OESOPHAGEAL REFLUX DISEASE
+1984,3820,M17.9,Osteoarthritis of knee
+1985,3823,F32.9,"Major depressive disorder, unspecified"
+1986,3825,N39.0,URINARY TRACT INFECTION
+1987,3830,J06.9,Acute upper respiratory infection
+1988,3831,E11,Type 2 diabetes mellitus
+1989,3832,M17.9,Osteoarthritis of knee
+1990,3835,G43.9,"Migraine, unspecified"
+1991,3839,I25.1,ATHEROSCLEROTIC HEART DISEASE
+1992,3842,J45.9,"Asthma, unspecified"
+1993,3843,E11,Type 2 diabetes mellitus
+1994,3844,F32.9,"Major depressive disorder, unspecified"
+1995,3847,E78.5,"Hyperlipidaemia, unspecified"
+1996,3850,E78.5,"Hyperlipidaemia, unspecified"
+1997,3851,M54.5,Low back pain
+1998,3852,E11,Type 2 diabetes mellitus
+1999,3853,M54.5,Low back pain
+2000,3854,M54.5,Low back pain
+2001,3856,J06.9,Acute upper respiratory infection
+2002,3858,R51,Headache
+2003,3860,R51,Headache
+2004,3862,M17.9,Osteoarthritis of knee
+2005,3864,I10,Essential hypertension
+2006,3866,J45.9,"Asthma, unspecified"
+2007,3868,I10,Essential hypertension
+2008,3871,J45.9,"Asthma, unspecified"
+2009,3872,K21.9,Gastro-oesophageal reflux disease
+2010,3876,C50.9,Malignant neoplasm of breast
+2011,3880,M17.9,Osteoarthritis of knee
+2012,3881,M17.9,Osteoarthritis of knee
+2013,3882,E78.5,"Hyperlipidaemia, unspecified"
+2014,3883,E78.5,"Hyperlipidaemia, unspecified  "
+2015,3887,I25.1,Atherosclerotic heart disease
+2016,3888,R51,Headache
+2017,3890,E78.5,"Hyperlipidaemia, unspecified"
+2018,3893,J45.9,"Asthma, unspecified"
+2019,3894,E11,Type 2 diabetes mellitus
+2020,3895,M17.9,OSTEOARTHRITIS OF KNEE
+2021,3896,G43.9,"Migraine, unspecified"
+2022,3897,C50.9,Malignant neoplasm of breast
+2023,3898,M54.5,Low back pain
+2024,3901,M54.5,Low back pain
+2025,3902,F32.9,"Major depressive disorder, unspecified"
+2026,3903,L20.9,Atopic dermatitis
+2027,3906,M17.9,Osteoarthritis of knee
+2028,3907,E78.5,"Hyperlipidaemia, unspecified"
+2029,3908,I10,Essential hypertension
+2030,3910,E11,Type 2 diabetes mellitus
+2031,3911,I10,Essential hypertension
+2032,3912,E78.5,"Hyperlipidaemia, unspecified"
+2033,3914,J45.9,"Asthma, unspecified"
+2034,3915,G43.9,"Migraine, unspecified"
+2035,3917,J45.9,"Asthma, unspecified"
+2036,3918,K21.9,Gastro-oesophageal reflux disease
+2037,3920,E11,Type 2 diabetes mellitus
+2038,3921,J06.9,Acute upper respiratory infection
+2039,3923,E78.5,"Hyperlipidaemia, unspecified"
+2040,3925,E11,Type 2 diabetes mellitus
+2041,3930,N39.0,Urinary tract infection
+2042,3931,E78.5,"Hyperlipidaemia, unspecified"
+2043,3933,N39.0,URINARY TRACT INFECTION
+2044,3934,F32.9,"Major depressive disorder, unspecified"
+2045,3935,E78.5,"Hyperlipidaemia, unspecified"
+2046,3936,L20.9,Atopic dermatitis
+2047,3937,F32.9,"Major depressive disorder, unspecified"
+2048,3939,I25.1,Atherosclerotic heart disease
+2049,3941,E78.5,"Hyperlipidaemia, unspecified  "
+2050,3942,I10,Essential hypertension
+2051,3943,R51,HEADACHE
+2052,3949,F32.9,"Major depressive disorder, unspecified"
+2053,3950,C50.9,Malignant neoplasm of breast
+2054,3952,F32.9,"Major depressive disorder, unspecified"
+2055,3956,I25.1,ATHEROSCLEROTIC HEART DISEASE
+2056,3957,I10,Essential hypertension
+2057,3959,I10,Essential hypertension  
+2058,3963,E78.5,"Hyperlipidaemia, unspecified"
+2059,3964,L20.9,Atopic dermatitis
+2060,3966,F32.9,"Major depressive disorder, unspecified"
+2061,3967,R51,Headache
+2062,3968,M17.9,Osteoarthritis of knee
+2063,3969,N39.0,Urinary tract infection
+2064,3970,M54.5,Low back pain
+2065,3971,J45.9,"Asthma, unspecified"
+2066,3974,E78.5,"Hyperlipidaemia, unspecified"
+2067,3975,M54.5,Low back pain
+2068,3979,G43.9,"Migraine, unspecified"
+2069,3981,J06.9,ACUTE UPPER RESPIRATORY INFECTION
+2070,3983,G43.9,"Migraine, unspecified"
+2071,3984,I25.1,Atherosclerotic heart disease
+2072,3985,L20.9,Atopic dermatitis
+2073,3990,E11,Type 2 diabetes mellitus
+2074,3992,I10,Essential hypertension
+2075,3994,L20.9,Atopic dermatitis  
+2076,3995,N39.0,Urinary tract infection
+2077,3996,M17.9,Osteoarthritis of knee
+2078,3997,G43.9,"Migraine, unspecified"
+2079,3998,I25.1,Atherosclerotic heart disease
+2080,4002,L20.9,Atopic dermatitis
+2081,4003,E11,Type 2 diabetes mellitus
+2082,4006,F32.9,"Major depressive disorder, unspecified"
+2083,4008,E78.5,"Hyperlipidaemia, unspecified"
+2084,4010,K21.9,Gastro-oesophageal reflux disease
+2085,4013,N39.0,Urinary tract infection
+2086,4014,M17.9,OSTEOARTHRITIS OF KNEE
+2087,4020,K21.9,Gastro-oesophageal reflux disease
+2088,4021,I10,Essential hypertension
+2089,4022,G43.9,"Migraine, unspecified"
+2090,4026,F32.9,"Major depressive disorder, unspecified"
+2091,4027,N39.0,Urinary tract infection
+2092,4033,F32.9,"Major depressive disorder, unspecified"
+2093,4034,M54.5,Low back pain
+2094,4035,M54.5,LOW BACK PAIN  
+2095,4036,I25.1,Atherosclerotic heart disease
+2096,4039,C50.9,Malignant neoplasm of breast
+2097,4040,m545,LOW BACK PAIN
+2098,4044,F32.9,"Major depressive disorder, unspecified"
+2099,4046,J45.9,"Asthma, unspecified"
+2100,4047,M54.5,Low back pain
+2101,4052,G43.9,"MIGRAINE, UNSPECIFIED"
+2102,4053,I25.1,Atherosclerotic heart disease
+2103,4055,K21.9,Gastro-oesophageal reflux disease
+2104,4056,M54.5,Low back pain
+2105,4058,K21.9,Gastro-oesophageal reflux disease
+2106,4061,J06.9,Acute upper respiratory infection
+2107,4062,M17.9,Osteoarthritis of knee
+2108,4065,M54.5,Low back pain
+2109,4066,R51,Headache
+2110,4067,L20.9,Atopic dermatitis
+2111,4071,R51,Headache
+2112,4074,R51,Headache
+2113,4075,R51,Headache
+2114,4076,K21.9,Gastro-oesophageal reflux disease
+2115,4081,R51,Headache
+2116,4082,J06.9,Acute upper respiratory infection
+2117,4084,I25.1,Atherosclerotic heart disease
+2118,4086,N39.0,Urinary tract infection
+2119,4087,I10,Essential hypertension
+2120,4088,G43.9,"Migraine, unspecified"
+2121,4091,M54.5,Low back pain
+2122,4093,N39.0,Urinary tract infection
+2123,4094,F32.9,"Major depressive disorder, unspecified"
+2124,4097,I25.1,Atherosclerotic heart disease
+2125,4098,I25.1,Atherosclerotic heart disease
+2126,4099,E78.5,"Hyperlipidaemia, unspecified"
+2127,4105,C50.9,Malignant neoplasm of breast
+2128,4107,I25.1,Atherosclerotic heart disease
+2129,4113,E78.5,"Hyperlipidaemia, unspecified"
+2130,4114,E78.5,"Hyperlipidaemia, unspecified"
+2131,4115,E11,Type 2 diabetes mellitus
+2132,4116,F32.9,"MAJOR DEPRESSIVE DISORDER, UNSPECIFIED"
+2133,4117,M54.5,Low back pain
+2134,4119,I10,Essential hypertension
+2135,4120,N39.0,Urinary tract infection
+2136,4123,R51,Headache
+2137,4127,I10,Essential hypertension
+2138,4128,I10,Essential hypertension
+2139,4129,M17.9,Osteoarthritis of knee
+2140,4130,J06.9,Acute upper respiratory infection
+2141,4132,F32.9,"Major depressive disorder, unspecified"
+2142,4133,L20.9,Atopic dermatitis
+2143,4135,K21.9,Gastro-oesophageal reflux disease
+2144,4137,R51,Headache
+2145,4138,G43.9,"Migraine, unspecified"
+2146,4139,M54.5,Low back pain
+2147,4140,E11,Type 2 diabetes mellitus
+2148,4142,I25.1,ATHEROSCLEROTIC HEART DISEASE
+2149,4145,C50.9,Malignant neoplasm of breast
+2150,4147,F32.9,"Major depressive disorder, unspecified"
+2151,4148,C50.9,Malignant neoplasm of breast
+2152,4151,J06.9,Acute upper respiratory infection
+2153,4152,J45.9,"Asthma, unspecified"
+2154,4153,L20.9,Atopic dermatitis
+2155,4154,M17.9,Osteoarthritis of knee
+2156,4155,K21.9,Gastro-oesophageal reflux disease
+2157,4157,E11,TYPE 2 DIABETES MELLITUS  
+2158,4160,N39.0,URINARY TRACT INFECTION
+2159,4161,N39.0,Urinary tract infection
+2160,4163,K21.9,Gastro-oesophageal reflux disease
+2161,4164,J06.9,Acute upper respiratory infection
+2162,4166,I10,Essential hypertension
+2163,4167,L20.9,Atopic dermatitis
+2164,4168,L20.9,Atopic dermatitis  
+2165,4171,E11,Type 2 diabetes mellitus
+2166,4172,I25.1,Atherosclerotic heart disease
+2167,4175,R51,Headache
+2168,4176,M17.9,Osteoarthritis of knee
+2169,4177,J45.9,"ASTHMA, UNSPECIFIED"
+2170,4178,K21.9,Gastro-oesophageal reflux disease
+2171,4179,J45.9,"Asthma, unspecified"
+2172,4180,L20.9,Atopic dermatitis
+2173,4181,F32.9,"Major depressive disorder, unspecified"
+2174,4189,N39.0,Urinary tract infection
+2175,4191,L20.9,Atopic dermatitis
+2176,4194,E11,Type 2 diabetes mellitus
+2177,4195,N39.0,Urinary tract infection
+2178,4196,M17.9,Osteoarthritis of knee  
+2179,4199,R51,Headache
+2180,4200,I25.1,Atherosclerotic heart disease
+2181,4202,I25.1,Atherosclerotic heart disease
+2182,4205,L20.9,Atopic dermatitis
+2183,4206,L20.9,Atopic dermatitis
+2184,4210,C50.9,Malignant neoplasm of breast
+2185,4211,M54.5,Low back pain  
+2186,4212,C50.9,Malignant neoplasm of breast
+2187,4214,E78.5,"Hyperlipidaemia, unspecified"
+2188,4216,N39.0,Urinary tract infection
+2189,4217,I10,Essential hypertension
+2190,4220,C50.9,MALIGNANT NEOPLASM OF BREAST
+2191,4221,N39.0,Urinary tract infection
+2192,4225,M17.9,Osteoarthritis of knee  
+2193,4229,F32.9,"Major depressive disorder, unspecified"
+2194,4230,E78.5,"Hyperlipidaemia, unspecified"
+2195,4233,I10,Essential hypertension
+2196,4238,L20.9,Atopic dermatitis
+2197,4242,I10,Essential hypertension  
+2198,4243,L20.9,Atopic dermatitis  
+2199,4247,E78.5,"Hyperlipidaemia, unspecified"
+2200,4249,E78.5,"Hyperlipidaemia, unspecified"
+2201,4251,G43.9,"Migraine, unspecified"
+2202,4252,C50.9,Malignant neoplasm of breast
+2203,4254,J45.9,"Asthma, unspecified"
+2204,4260,J06.9,Acute upper respiratory infection
+2205,4261,R51,HEADACHE
+2206,4262,E11,Type 2 diabetes mellitus
+2207,4264,J06.9,Acute upper respiratory infection
+2208,4265,M54.5,LOW BACK PAIN
+2209,4266,G43.9,"Migraine, unspecified"
+2210,4267,E78.5,"Hyperlipidaemia, unspecified"
+2211,4269,L20.9,Atopic dermatitis
+2212,4270,L20.9,Atopic dermatitis
+2213,4272,J06.9,Acute upper respiratory infection
+2214,4275,R51,Headache
+2215,4277,C50.9,Malignant neoplasm of breast
+2216,4278,C50.9,Malignant neoplasm of breast
+2217,4280,G43.9,"Migraine, unspecified"
+2218,4281,E78.5,"Hyperlipidaemia, unspecified"
+2219,4284,G43.9,"Migraine, unspecified"
+2220,4285,I25.1,Atherosclerotic heart disease
+2221,4289,M17.9,Osteoarthritis of knee
+2222,4290,J06.9,Acute upper respiratory infection
+2223,4291,M17.9,Osteoarthritis of knee
+2224,4292,R51,Headache
+2225,4296,J45.9,"Asthma, unspecified"
+2226,4297,I25.1,Atherosclerotic heart disease
+2227,4300,I25.1,ATHEROSCLEROTIC HEART DISEASE
+2228,4302,M17.9,Osteoarthritis of knee
+2229,4303,I25.1,Atherosclerotic heart disease
+2230,4304,G43.9,"Migraine, unspecified  "
+2231,4305,G43.9,"Migraine, unspecified"
+2232,4306,N39.0,Urinary tract infection
+2233,4307,N39.0,Urinary tract infection
+2234,4308,I25.1,ATHEROSCLEROTIC HEART DISEASE
+2235,4309,R51,Headache
+2236,4310,C50.9,Malignant neoplasm of breast
+2237,4314,K21.9,Gastro-oesophageal reflux disease
+2238,4315,J06.9,Acute upper respiratory infection
+2239,4316,M17.9,Osteoarthritis of knee
+2240,4317,E78.5,"Hyperlipidaemia, unspecified"
+2241,4318,M54.5,Low back pain
+2242,4320,M17.9,Osteoarthritis of knee
+2243,4324,G43.9,"MIGRAINE, UNSPECIFIED"
+2244,4326,J06.9,Acute upper respiratory infection
+2245,4327,G43.9,"Migraine, unspecified"
+2246,4328,F32.9,"Major depressive disorder, unspecified"
+2247,4329,J06.9,Acute upper respiratory infection
+2248,4330,E11,Type 2 diabetes mellitus  
+2249,4331,I10,Essential hypertension
+2250,4333,N39.0,Urinary tract infection
+2251,4338,G43.9,"Migraine, unspecified"
+2252,4339,J06.9,ACUTE UPPER RESPIRATORY INFECTION  
+2253,4340,N39.0,Urinary tract infection  
+2254,4342,J06.9,Acute upper respiratory infection
+2255,4343,M17.9,Osteoarthritis of knee
+2256,4344,N39.0,Urinary tract infection
+2257,4345,F32.9,"Major depressive disorder, unspecified  "
+2258,4346,E78.5,"HYPERLIPIDAEMIA, UNSPECIFIED"
+2259,4347,M54.5,LOW BACK PAIN
+2260,4350,J45.9,"Asthma, unspecified"
+2261,4351,G43.9,"Migraine, unspecified"
+2262,4352,M54.5,Low back pain
+2263,4353,F32.9,"Major depressive disorder, unspecified"
+2264,4355,I10,Essential hypertension
+2265,4356,E11,Type 2 diabetes mellitus
+2266,4357,G43.9,"Migraine, unspecified"
+2267,4362,N39.0,Urinary tract infection
+2268,4365,G43.9,"Migraine, unspecified"
+2269,4366,F32.9,"Major depressive disorder, unspecified"
+2270,4367,J45.9,"Asthma, unspecified"
+2271,4369,J06.9,Acute upper respiratory infection
+2272,4370,E78.5,"Hyperlipidaemia, unspecified"
+2273,4371,L20.9,Atopic dermatitis
+2274,4372,J06.9,Acute upper respiratory infection
+2275,4374,L20.9,Atopic dermatitis
+2276,4375,M54.5,Low back pain
+2277,4377,I25.1,Atherosclerotic heart disease
+2278,4378,I25.1,Atherosclerotic heart disease
+2279,4379,C50.9,Malignant neoplasm of breast
+2280,4380,K21.9,Gastro-oesophageal reflux disease
+2281,4383,K21.9,Gastro-oesophageal reflux disease
+2282,4384,M54.5,Low back pain
+2283,4385,J06.9,Acute upper respiratory infection
+2284,4386,J45.9,"Asthma, unspecified"
+2285,4388,K21.9,GASTRO-OESOPHAGEAL REFLUX DISEASE
+2286,4391,J06.9,Acute upper respiratory infection
+2287,4393,E78.5,"Hyperlipidaemia, unspecified"
+2288,4395,L20.9,Atopic dermatitis
+2289,4396,J06.9,Acute upper respiratory infection
+2290,4397,C50.9,Malignant neoplasm of breast
+2291,4400,I10,Essential hypertension
+2292,4402,R51,Headache
+2293,4405,R51,Headache
+2294,4406,G43.9,"Migraine, unspecified"
+2295,4408,G43.9,"Migraine, unspecified"
+2296,4410,K21.9,Gastro-oesophageal reflux disease
+2297,4413,K21.9,Gastro-oesophageal reflux disease
+2298,4418,I25.1,Atherosclerotic heart disease
+2299,4423,M17.9,Osteoarthritis of knee
+2300,4424,I10,Essential hypertension
+2301,4425,K21.9,Gastro-oesophageal reflux disease
+2302,4426,G43.9,"Migraine, unspecified"
+2303,4428,E78.5,"Hyperlipidaemia, unspecified"
+2304,4431,N39.0,Urinary tract infection
+2305,4432,L20.9,Atopic dermatitis
+2306,4433,F32.9,"Major depressive disorder, unspecified"
+2307,4436,L20.9,Atopic dermatitis
+2308,4439,I10,Essential hypertension
+2309,4442,M54.5,Low back pain
+2310,4445,N39.0,Urinary tract infection
+2311,4449,C50.9,Malignant neoplasm of breast
+2312,4450,N39.0,Urinary tract infection
+2313,4455,L20.9,Atopic dermatitis
+2314,4458,E78.5,"Hyperlipidaemia, unspecified"
+2315,4459,F32.9,"Major depressive disorder, unspecified"
+2316,4460,E11,Type 2 diabetes mellitus
+2317,4462,M17.9,Osteoarthritis of knee
+2318,4464,I25.1,Atherosclerotic heart disease
+2319,4465,N39.0,Urinary tract infection
+2320,4466,M17.9,Osteoarthritis of knee
+2321,4471,K21.9,Gastro-oesophageal reflux disease
+2322,4472,E78.5,"Hyperlipidaemia, unspecified"
+2323,4474,L20.9,Atopic dermatitis
+2324,4475,I25.1,Atherosclerotic heart disease
+2325,4476,K21.9,Gastro-oesophageal reflux disease
+2326,4478,R51,Headache
+2327,4481,M17.9,Osteoarthritis of knee
+2328,4483,I10,Essential hypertension
+2329,4484,K21.9,Gastro-oesophageal reflux disease
+2330,4486,M54.5,Low back pain
+2331,4488,N39.0,Urinary tract infection
+2332,4489,L20.9,Atopic dermatitis
+2333,4491,E78.5,"HYPERLIPIDAEMIA, UNSPECIFIED"
+2334,4493,N39.0,URINARY TRACT INFECTION
+2335,4494,K21.9,Gastro-oesophageal reflux disease  
+2336,4495,R51,Headache
+2337,4496,L20.9,Atopic dermatitis
+2338,4497,N39.0,Urinary tract infection
+2339,4500,R51,Headache
+2340,4504,L20.9,Atopic dermatitis
+2341,4506,E11,Type 2 diabetes mellitus
+2342,4508,E78.5,"Hyperlipidaemia, unspecified"
+2343,4511,R51,Headache
+2344,4512,M17.9,Osteoarthritis of knee
+2345,4513,M54.5,Low back pain
+2346,4514,F32.9,"Major depressive disorder, unspecified"
+2347,4515,K21.9,Gastro-oesophageal reflux disease
+2348,4516,J45.9,"Asthma, unspecified"
+2349,4518,L20.9,Atopic dermatitis
+2350,4519,I10,Essential hypertension
+2351,4520,I25.1,Atherosclerotic heart disease
+2352,4521,J45.9,"Asthma, unspecified"
+2353,4522,J06.9,Acute upper respiratory infection
+2354,4523,G43.9,"Migraine, unspecified"
+2355,4525,K21.9,Gastro-oesophageal reflux disease
+2356,4526,I25.1,Atherosclerotic heart disease
+2357,4527,R51,Headache
+2358,4529,C50.9,Malignant neoplasm of breast
+2359,4532,N39.0,Urinary tract infection
+2360,4533,E11,Type 2 diabetes mellitus
+2361,4534,C50.9,Malignant neoplasm of breast
+2362,4536,I10,Essential hypertension
+2363,4538,F32.9,"Major depressive disorder, unspecified  "
+2364,4539,I10,ESSENTIAL HYPERTENSION
+2365,4544,K21.9,Gastro-oesophageal reflux disease
+2366,4545,G43.9,"Migraine, unspecified"
+2367,4546,M54.5,Low back pain
+2368,4547,C50.9,Malignant neoplasm of breast
+2369,4548,K21.9,Gastro-oesophageal reflux disease
+2370,4549,I25.1,Atherosclerotic heart disease  
+2371,4551,K21.9,Gastro-oesophageal reflux disease
+2372,4554,K21.9,Gastro-oesophageal reflux disease
+2373,4556,N39.0,Urinary tract infection
+2374,4557,E11,TYPE 2 DIABETES MELLITUS
+2375,4560,G43.9,"Migraine, unspecified"
+2376,4563,E11,Type 2 diabetes mellitus
+2377,4564,K21.9,Gastro-oesophageal reflux disease
+2378,4568,J45.9,"Asthma, unspecified  "
+2379,4569,J45.9,"Asthma, unspecified"
+2380,4570,M17.9,Osteoarthritis of knee
+2381,4574,E11,TYPE 2 DIABETES MELLITUS
+2382,4578,R51,Headache
+2383,4579,N39.0,URINARY TRACT INFECTION
+2384,4581,J06.9,ACUTE UPPER RESPIRATORY INFECTION
+2385,4582,M17.9,Osteoarthritis of knee
+2386,4584,F32.9,"Major depressive disorder, unspecified"
+2387,4585,R51,Headache  
+2388,4587,N39.0,Urinary tract infection
+2389,4591,I10,Essential hypertension  
+2390,4592,J45.9,"Asthma, unspecified"
+2391,4593,J45.9,"Asthma, unspecified"
+2392,4598,M17.9,Osteoarthritis of knee
+2393,4599,G43.9,"Migraine, unspecified"
+2394,4600,J06.9,Acute upper respiratory infection
+2395,4601,K21.9,Gastro-oesophageal reflux disease
+2396,4602,N39.0,URINARY TRACT INFECTION
+2397,4603,L20.9,Atopic dermatitis  
+2398,4605,M54.5,Low back pain
+2399,4607,M17.9,Osteoarthritis of knee
+2400,4608,G43.9,"Migraine, unspecified"
+2401,4609,L20.9,Atopic dermatitis  
+2402,4610,I25.1,Atherosclerotic heart disease
+2403,4612,G43.9,"Migraine, unspecified"
+2404,4613,K21.9,Gastro-oesophageal reflux disease
+2405,4614,I25.1,Atherosclerotic heart disease
+2406,4617,J45.9,"ASTHMA, UNSPECIFIED"
+2407,4619,I10,ESSENTIAL HYPERTENSION
+2408,4620,K21.9,Gastro-oesophageal reflux disease
+2409,4623,R51,Headache
+2410,4624,I10,Essential hypertension
+2411,4628,J45.9,"Asthma, unspecified"
+2412,4629,R51,Headache
+2413,4630,M54.5,LOW BACK PAIN
+2414,4634,J06.9,Acute upper respiratory infection
+2415,4636,K21.9,Gastro-oesophageal reflux disease
+2416,4642,L20.9,Atopic dermatitis
+2417,4643,E11,TYPE 2 DIABETES MELLITUS
+2418,4645,I25.1,Atherosclerotic heart disease
+2419,4646,I25.1,Atherosclerotic heart disease
+2420,4649,L20.9,Atopic dermatitis
+2421,4650,C50.9,Malignant neoplasm of breast
+2422,4651,N39.0,Urinary tract infection
+2423,4653,E78.5,"Hyperlipidaemia, unspecified"
+2424,4654,K21.9,GASTRO-OESOPHAGEAL REFLUX DISEASE
+2425,4656,J45.9,"Asthma, unspecified"
+2426,4657,G43.9,"MIGRAINE, UNSPECIFIED"
+2427,4659,K21.9,Gastro-oesophageal reflux disease
+2428,4661,M17.9,Osteoarthritis of knee
+2429,4662,R51,Headache  
+2430,4667,M54.5,Low back pain
+2431,4669,J45.9,"Asthma, unspecified"
+2432,4670,I25.1,Atherosclerotic heart disease
+2433,4671,E11,Type 2 diabetes mellitus
+2434,4673,L20.9,Atopic dermatitis
+2435,4675,L20.9,Atopic dermatitis
+2436,4676,C50.9,Malignant neoplasm of breast  
+2437,4677,E78.5,"HYPERLIPIDAEMIA, UNSPECIFIED"
+2438,4679,M54.5,Low back pain
+2439,4684,J06.9,Acute upper respiratory infection  
+2440,4685,F32.9,"MAJOR DEPRESSIVE DISORDER, UNSPECIFIED"
+2441,4687,M17.9,Osteoarthritis of knee
+2442,4688,E11,Type 2 diabetes mellitus
+2443,4689,F32.9,"Major depressive disorder, unspecified"
+2444,4690,M54.5,Low back pain
+2445,4691,I10,Essential hypertension
+2446,4692,I10,Essential hypertension
+2447,4693,J06.9,Acute upper respiratory infection
+2448,4697,M17.9,Osteoarthritis of knee
+2449,4699,M54.5,Low back pain
+2450,4700,J06.9,Acute upper respiratory infection
+2451,4701,M17.9,Osteoarthritis of knee
+2452,4702,L20.9,Atopic dermatitis
+2453,4703,I25.1,Atherosclerotic heart disease
+2454,4705,E11,Type 2 diabetes mellitus
+2455,4706,J06.9,Acute upper respiratory infection
+2456,4707,I25.1,Atherosclerotic heart disease
+2457,4709,I10,Essential hypertension
+2458,4713,J45.9,"Asthma, unspecified"
+2459,4714,F32.9,"Major depressive disorder, unspecified"
+2460,4715,F32.9,"Major depressive disorder, unspecified"
+2461,4716,N39.0,Urinary tract infection
+2462,4717,I10,ESSENTIAL HYPERTENSION
+2463,4719,R51,HEADACHE  
+2464,4722,M54.5,LOW BACK PAIN
+2465,4725,K21.9,Gastro-oesophageal reflux disease
+2466,4727,R51,Headache
+2467,4728,R51,Headache
+2468,4732,L20.9,Atopic dermatitis
+2469,4733,M54.5,Low back pain
+2470,4734,E78.5,"Hyperlipidaemia, unspecified  "
+2471,4737,I25.1,Atherosclerotic heart disease
+2472,4739,F32.9,"Major depressive disorder, unspecified"
+2473,4745,J45.9,"Asthma, unspecified  "
+2474,4747,I25.1,ATHEROSCLEROTIC HEART DISEASE  
+2475,4754,L20.9,ATOPIC DERMATITIS
+2476,4756,I25.1,ATHEROSCLEROTIC HEART DISEASE
+2477,4757,M17.9,Osteoarthritis of knee
+2478,4761,C50.9,Malignant neoplasm of breast
+2479,4766,M54.5,Low back pain  
+2480,4767,J45.9,"Asthma, unspecified"
+2481,4768,M54.5,Low back pain
+2482,4772,J45.9,"Asthma, unspecified"
+2483,4773,M54.5,Low back pain
+2484,4776,F32.9,"Major depressive disorder, unspecified"
+2485,4777,I25.1,Atherosclerotic heart disease
+2486,4780,M54.5,Low back pain
+2487,4781,R51,Headache
+2488,4782,C50.9,Malignant neoplasm of breast
+2489,4784,N39.0,Urinary tract infection
+2490,4785,K21.9,Gastro-oesophageal reflux disease
+2491,4786,C50.9,Malignant neoplasm of breast
+2492,4787,E78.5,"Hyperlipidaemia, unspecified"
+2493,4788,M54.5,Low back pain
+2494,4790,L20.9,Atopic dermatitis
+2495,4791,E11,Type 2 diabetes mellitus
+2496,4792,L20.9,Atopic dermatitis
+2497,4793,M54.5,Low back pain
+2498,4794,M17.9,OSTEOARTHRITIS OF KNEE
+2499,4795,M17.9,Osteoarthritis of knee
+2500,4799,J06.9,Acute upper respiratory infection
+2501,4800,E11,Type 2 diabetes mellitus
+2502,4802,C50.9,Malignant neoplasm of breast
+2503,4803,N39.0,Urinary tract infection
+2504,4804,E78.5,"Hyperlipidaemia, unspecified"
+2505,4807,L20.9,Atopic dermatitis
+2506,4810,K21.9,Gastro-oesophageal reflux disease
+2507,4811,J45.9,"Asthma, unspecified  "
+2508,4813,N39.0,Urinary tract infection
+2509,4814,R51,Headache  
+2510,4815,M17.9,Osteoarthritis of knee
+2511,4817,K21.9,Gastro-oesophageal reflux disease
+2512,4818,J45.9,"Asthma, unspecified"
+2513,4819,M54.5,Low back pain
+2514,4820,E11,Type 2 diabetes mellitus
+2515,4821,J06.9,Acute upper respiratory infection
+2516,4823,N39.0,Urinary tract infection
+2517,4824,M17.9,Osteoarthritis of knee
+2518,4826,L20.9,Atopic dermatitis  
+2519,4828,J45.9,"Asthma, unspecified"
+2520,4829,E78.5,"Hyperlipidaemia, unspecified"
+2521,4832,C50.9,Malignant neoplasm of breast
+2522,4835,R51,Headache
+2523,4836,F32.9,"Major depressive disorder, unspecified"
+2524,4838,F32.9,"Major depressive disorder, unspecified"
+2525,4841,E78.5,"Hyperlipidaemia, unspecified"
+2526,4843,M54.5,Low back pain
+2527,4844,N39.0,Urinary tract infection
+2528,4847,N39.0,Urinary tract infection
+2529,4850,I25.1,Atherosclerotic heart disease
+2530,4851,J06.9,Acute upper respiratory infection
+2531,4852,L20.9,Atopic dermatitis
+2532,4853,F32.9,"MAJOR DEPRESSIVE DISORDER, UNSPECIFIED"
+2533,4854,K21.9,Gastro-oesophageal reflux disease
+2534,4857,M54.5,Low back pain
+2535,4858,R51,Headache
+2536,4859,M54.5,Low back pain
+2537,4863,C50.9,Malignant neoplasm of breast
+2538,4865,R51,Headache
+2539,4866,E11,Type 2 diabetes mellitus
+2540,4867,J06.9,Acute upper respiratory infection
+2541,4868,I10,Essential hypertension
+2542,4870,I25.1,Atherosclerotic heart disease
+2543,4876,F32.9,"Major depressive disorder, unspecified"
+2544,4877,J45.9,"Asthma, unspecified"
+2545,4878,C50.9,Malignant neoplasm of breast
+2546,4880,R51,Headache
+2547,4881,I10,Essential hypertension
+2548,4882,I10,Essential hypertension
+2549,4884,F32.9,"Major depressive disorder, unspecified"
+2550,4885,I10,Essential hypertension
+2551,4886,R51,Headache
+2552,4887,J06.9,ACUTE UPPER RESPIRATORY INFECTION
+2553,4888,J06.9,Acute upper respiratory infection  
+2554,4889,F32.9,"Major depressive disorder, unspecified  "
+2555,4894,R51,Headache
+2556,4895,I10,Essential hypertension
+2557,4897,L20.9,Atopic dermatitis
+2558,4898,N39.0,Urinary tract infection
+2559,4899,R51,Headache
+2560,4902,N39.0,Urinary tract infection
+2561,4904,M54.5,Low back pain
+2562,4906,I10,Essential hypertension
+2563,4908,E11,Type 2 diabetes mellitus
+2564,4910,E11,Type 2 diabetes mellitus
+2565,4913,E78.5,"Hyperlipidaemia, unspecified"
+2566,4917,E11,Type 2 diabetes mellitus
+2567,4919,R51,Headache
+2568,4921,J45.9,"Asthma, unspecified"
+2569,4922,K21.9,Gastro-oesophageal reflux disease
+2570,4925,J45.9,"Asthma, unspecified"
+2571,4928,E11,Type 2 diabetes mellitus
+2572,4929,L20.9,Atopic dermatitis  
+2573,4932,M54.5,Low back pain  
+2574,4933,M17.9,Osteoarthritis of knee
+2575,4934,R51,Headache
+2576,4935,E11,Type 2 diabetes mellitus
+2577,4936,I25.1,Atherosclerotic heart disease
+2578,4937,I25.1,Atherosclerotic heart disease
+2579,4938,J06.9,Acute upper respiratory infection
+2580,4942,N39.0,Urinary tract infection
+2581,4944,J45.9,"Asthma, unspecified"
+2582,4945,E11,Type 2 diabetes mellitus
+2583,4946,C50.9,Malignant neoplasm of breast
+2584,4948,J45.9,"Asthma, unspecified"
+2585,4953,K21.9,Gastro-oesophageal reflux disease
+2586,4957,I10,Essential hypertension
+2587,4959,I10,Essential hypertension
+2588,4961,M54.5,Low back pain
+2589,4963,E11,Type 2 diabetes mellitus
+2590,4965,M17.9,Osteoarthritis of knee
+2591,4966,I25.1,Atherosclerotic heart disease
+2592,4969,K21.9,Gastro-oesophageal reflux disease
+2593,4973,M17.9,Osteoarthritis of knee
+2594,4978,I10,Essential hypertension
+2595,4979,M54.5,Low back pain
+2596,4982,F32.9,"Major depressive disorder, unspecified"
+2597,4983,M54.5,Low back pain
+2598,4985,J45.9,"Asthma, unspecified  "
+2599,4986,J45.9,"Asthma, unspecified"
+2600,4988,K21.9,Gastro-oesophageal reflux disease  
+2601,4989,E78.5,"Hyperlipidaemia, unspecified"
+2602,4991,J06.9,Acute upper respiratory infection
+2603,4993,R51,Headache
+2604,4996,I10,Essential hypertension
+2605,4997,C50.9,Malignant neoplasm of breast
+2606,5001,K21.9,Gastro-oesophageal reflux disease
+2607,5004,E78.5,"Hyperlipidaemia, unspecified"
+2608,5006,E11,Type 2 diabetes mellitus
+2609,5007,C50.9,Malignant neoplasm of breast
+2610,5009,M54.5,Low back pain
+2611,5010,E78.5,"Hyperlipidaemia, unspecified"
+2612,5014,J45.9,"Asthma, unspecified"
+2613,5015,I25.1,Atherosclerotic heart disease  
+2614,5016,r51,Headache
+2615,5017,M54.5,Low back pain
+2616,5019,F32.9,"Major depressive disorder, unspecified"
+2617,5021,E78.5,"Hyperlipidaemia, unspecified  "
+2618,5022,F32.9,"Major depressive disorder, unspecified"
+2619,5023,J06.9,Acute upper respiratory infection
+2620,5024,K21.9,Gastro-oesophageal reflux disease
+2621,5028,F32.9,"Major depressive disorder, unspecified"
+2622,5029,F32.9,"Major depressive disorder, unspecified"
+2623,5030,L20.9,Atopic dermatitis
+2624,5031,C50.9,Malignant neoplasm of breast
+2625,5033,L20.9,Atopic dermatitis
+2626,5034,L20.9,Atopic dermatitis
+2627,5036,I10,Essential hypertension
+2628,5037,F32.9,"Major depressive disorder, unspecified"
+2629,5041,N39.0,Urinary tract infection
+2630,5042,L20.9,Atopic dermatitis
+2631,5044,J45.9,"Asthma, unspecified"
+2632,5045,R51,Headache
+2633,5047,C50.9,Malignant neoplasm of breast
+2634,5048,E11,Type 2 diabetes mellitus
+2635,5053,J06.9,Acute upper respiratory infection
+2636,5054,N39.0,Urinary tract infection
+2637,5055,E78.5,"Hyperlipidaemia, unspecified"
+2638,5058,I25.1,Atherosclerotic heart disease
+2639,5061,G43.9,"Migraine, unspecified"
+2640,5062,E78.5,"Hyperlipidaemia, unspecified"
+2641,5063,I25.1,Atherosclerotic heart disease
+2642,5064,M54.5,Low back pain
+2643,5065,K21.9,Gastro-oesophageal reflux disease
+2644,5066,J06.9,Acute upper respiratory infection
+2645,5069,J45.9,"Asthma, unspecified"
+2646,5071,G43.9,"Migraine, unspecified"
+2647,5072,R51,Headache
+2648,5073,E78.5,"Hyperlipidaemia, unspecified"
+2649,5074,E78.5,"Hyperlipidaemia, unspecified"
+2650,5075,M54.5,LOW BACK PAIN
+2651,5076,J06.9,Acute upper respiratory infection
+2652,5078,J45.9,"Asthma, unspecified"
+2653,5080,I10,Essential hypertension
+2654,5083,J45.9,"Asthma, unspecified"
+2655,5086,I10,Essential hypertension
+2656,5087,K21.9,Gastro-oesophageal reflux disease
+2657,5092,M17.9,Osteoarthritis of knee
+2658,5096,I10,Essential hypertension
+2659,5097,C50.9,Malignant neoplasm of breast
+2660,5098,G43.9,"Migraine, unspecified"
+2661,5100,K21.9,Gastro-oesophageal reflux disease
+2662,5101,G43.9,"Migraine, unspecified"
+2663,5103,J45.9,"Asthma, unspecified  "
+2664,5104,L20.9,Atopic dermatitis
+2665,5105,N39.0,Urinary tract infection
+2666,5109,K21.9,Gastro-oesophageal reflux disease
+2667,5110,E78.5,"Hyperlipidaemia, unspecified"
+2668,5111,I25.1,Atherosclerotic heart disease
+2669,5112,M54.5,Low back pain
+2670,5116,I10,Essential hypertension
+2671,5117,C50.9,Malignant neoplasm of breast
+2672,5119,J45.9,"Asthma, unspecified  "
+2673,5120,C50.9,Malignant neoplasm of breast
+2674,5122,I10,Essential hypertension
+2675,5123,M17.9,Osteoarthritis of knee
+2676,5125,M17.9,Osteoarthritis of knee
+2677,5126,I10,Essential hypertension
+2678,5129,E11,Type 2 diabetes mellitus
+2679,5130,I10,Essential hypertension
+2680,5131,K21.9,Gastro-oesophageal reflux disease
+2681,5132,E78.5,"Hyperlipidaemia, unspecified"
+2682,5133,E11,Type 2 diabetes mellitus
+2683,5134,I25.1,Atherosclerotic heart disease
+2684,5135,R51,Headache
+2685,5136,J45.9,"Asthma, unspecified"
+2686,5140,J06.9,Acute upper respiratory infection
+2687,5142,K21.9,Gastro-oesophageal reflux disease
+2688,5145,N39.0,Urinary tract infection
+2689,5146,I10,Essential hypertension
+2690,5149,F32.9,"Major depressive disorder, unspecified"
+2691,5151,R51,Headache
+2692,5152,M54.5,LOW BACK PAIN
+2693,5155,F32.9,"MAJOR DEPRESSIVE DISORDER, UNSPECIFIED"
+2694,5156,J06.9,Acute upper respiratory infection
+2695,5159,I25.1,Atherosclerotic heart disease
+2696,5160,K21.9,Gastro-oesophageal reflux disease
+2697,5164,R51,Headache
+2698,5165,E11,Type 2 diabetes mellitus
+2699,5167,J45.9,"Asthma, unspecified"
+2700,5169,J45.9,"Asthma, unspecified"
+2701,5172,M17.9,Osteoarthritis of knee
+2702,5173,K21.9,Gastro-oesophageal reflux disease
+2703,5177,R51,Headache  
+2704,5187,E78.5,"Hyperlipidaemia, unspecified"
+2705,5188,G43.9,"Migraine, unspecified  "
+2706,5189,R51,Headache
+2707,5190,C50.9,Malignant neoplasm of breast
+2708,5192,E78.5,"Hyperlipidaemia, unspecified  "
+2709,5195,E78.5,"HYPERLIPIDAEMIA, UNSPECIFIED"
+2710,5196,F32.9,"Major depressive disorder, unspecified"
+2711,5198,C50.9,Malignant neoplasm of breast
+2712,5199,J06.9,ACUTE UPPER RESPIRATORY INFECTION
+2713,5201,e785,"Hyperlipidaemia, unspecified  "
+2714,5206,J06.9,Acute upper respiratory infection
+2715,5209,E78.5,"Hyperlipidaemia, unspecified"
+2716,5212,R51,Headache
+2717,5213,E78.5,"Hyperlipidaemia, unspecified"
+2718,5214,E11,Type 2 diabetes mellitus
+2719,5215,E11,Type 2 diabetes mellitus
+2720,5216,R51,Headache
+2721,5217,G43.9,"Migraine, unspecified"
+2722,5221,L20.9,Atopic dermatitis
+2723,5222,M17.9,Osteoarthritis of knee
+2724,5224,F32.9,"Major depressive disorder, unspecified"
+2725,5225,F32.9,"Major depressive disorder, unspecified"
+2726,5227,L20.9,Atopic dermatitis
+2727,5229,M17.9,Osteoarthritis of knee
+2728,5231,G43.9,"MIGRAINE, UNSPECIFIED"
+2729,5232,I10,ESSENTIAL HYPERTENSION
+2730,5238,L20.9,Atopic dermatitis
+2731,5239,I10,ESSENTIAL HYPERTENSION
+2732,5241,L20.9,Atopic dermatitis
+2733,5242,M17.9,Osteoarthritis of knee
+2734,5243,E11,Type 2 diabetes mellitus  
+2735,5245,C50.9,Malignant neoplasm of breast
+2736,5247,L20.9,Atopic dermatitis
+2737,5248,G43.9,"Migraine, unspecified"
+2738,5249,J06.9,Acute upper respiratory infection
+2739,5250,L20.9,Atopic dermatitis
+2740,5251,G43.9,"Migraine, unspecified"
+2741,5253,I10,Essential hypertension
+2742,5254,K21.9,Gastro-oesophageal reflux disease
+2743,5256,R51,Headache
+2744,5259,I10,Essential hypertension  
+2745,5265,I10,ESSENTIAL HYPERTENSION  
+2746,5268,K21.9,Gastro-oesophageal reflux disease
+2747,5269,E78.5,"Hyperlipidaemia, unspecified"
+2748,5271,E78.5,"Hyperlipidaemia, unspecified"
+2749,5272,L20.9,Atopic dermatitis
+2750,5273,E11,Type 2 diabetes mellitus
+2751,5275,J06.9,Acute upper respiratory infection
+2752,5276,E78.5,"Hyperlipidaemia, unspecified"
+2753,5278,E11,Type 2 diabetes mellitus
+2754,5280,E78.5,"Hyperlipidaemia, unspecified"
+2755,5281,F32.9,"Major depressive disorder, unspecified"
+2756,5284,C50.9,Malignant neoplasm of breast
+2757,5286,E78.5,"HYPERLIPIDAEMIA, UNSPECIFIED"
+2758,5287,M54.5,Low back pain
+2759,5290,N39.0,Urinary tract infection
+2760,5291,I25.1,Atherosclerotic heart disease
+2761,5295,K21.9,Gastro-oesophageal reflux disease
+2762,5296,I25.1,Atherosclerotic heart disease
+2763,5298,C50.9,Malignant neoplasm of breast
+2764,5301,J06.9,Acute upper respiratory infection
+2765,5302,J06.9,Acute upper respiratory infection
+2766,5303,L20.9,Atopic dermatitis
+2767,5304,F32.9,"Major depressive disorder, unspecified"
+2768,5306,K21.9,GASTRO-OESOPHAGEAL REFLUX DISEASE  
+2769,5307,M54.5,Low back pain
+2770,5308,J45.9,"Asthma, unspecified"
+2771,5311,I10,Essential hypertension
+2772,5313,I10,Essential hypertension
+2773,5314,M54.5,Low back pain
+2774,5315,J45.9,"Asthma, unspecified"
+2775,5320,C50.9,Malignant neoplasm of breast  
+2776,5324,M54.5,Low back pain
+2777,5325,L20.9,Atopic dermatitis
+2778,5326,C50.9,Malignant neoplasm of breast
+2779,5327,E78.5,"HYPERLIPIDAEMIA, UNSPECIFIED"
+2780,5328,J45.9,"ASTHMA, UNSPECIFIED"
+2781,5330,G43.9,"Migraine, unspecified"
+2782,5334,L20.9,Atopic dermatitis
+2783,5337,K21.9,Gastro-oesophageal reflux disease
+2784,5338,G43.9,"MIGRAINE, UNSPECIFIED"
+2785,5339,R51,Headache
+2786,5342,J45.9,"Asthma, unspecified"
+2787,5344,E78.5,"Hyperlipidaemia, unspecified"
+2788,5347,K21.9,Gastro-oesophageal reflux disease
+2789,5350,I10,Essential hypertension
+2790,5353,J06.9,Acute upper respiratory infection
+2791,5355,I10,Essential hypertension
+2792,5358,M54.5,Low back pain
+2793,5362,I10,Essential hypertension
+2794,5365,M54.5,Low back pain
+2795,5369,M54.5,Low back pain
+2796,5371,M54.5,Low back pain
+2797,5372,G43.9,"Migraine, unspecified  "
+2798,5374,J06.9,ACUTE UPPER RESPIRATORY INFECTION
+2799,5376,F32.9,"Major depressive disorder, unspecified"
+2800,5379,F32.9,"Major depressive disorder, unspecified"
+2801,5380,C50.9,Malignant neoplasm of breast
+2802,5381,M54.5,Low back pain
+2803,5382,I25.1,Atherosclerotic heart disease
+2804,5384,N39.0,URINARY TRACT INFECTION
+2805,5385,M17.9,Osteoarthritis of knee
+2806,5388,M17.9,Osteoarthritis of knee
+2807,5390,J06.9,Acute upper respiratory infection
+2808,5391,M17.9,Osteoarthritis of knee  
+2809,5395,I25.1,ATHEROSCLEROTIC HEART DISEASE
+2810,5402,I10,Essential hypertension
+2811,5406,M54.5,Low back pain
+2812,5407,R51,HEADACHE
+2813,5409,E78.5,"Hyperlipidaemia, unspecified"
+2814,5410,M54.5,Low back pain
+2815,5412,J06.9,Acute upper respiratory infection
+2816,5413,G43.9,"Migraine, unspecified"
+2817,5414,C50.9,Malignant neoplasm of breast
+2818,5415,K21.9,GASTRO-OESOPHAGEAL REFLUX DISEASE  
+2819,5416,R51,Headache
+2820,5418,M54.5,Low back pain
+2821,5420,E78.5,"Hyperlipidaemia, unspecified"
+2822,5423,C50.9,Malignant neoplasm of breast  
+2823,5426,M54.5,Low back pain
+2824,5427,C50.9,Malignant neoplasm of breast
+2825,5428,J06.9,Acute upper respiratory infection
+2826,5432,F32.9,"Major depressive disorder, unspecified"
+2827,5433,N39.0,Urinary tract infection
+2828,5436,L20.9,Atopic dermatitis
+2829,5437,N39.0,Urinary tract infection
+2830,5440,I25.1,Atherosclerotic heart disease
+2831,5441,F32.9,"Major depressive disorder, unspecified"
+2832,5442,I25.1,Atherosclerotic heart disease
+2833,5446,R51,Headache
+2834,5448,N39.0,Urinary tract infection
+2835,5450,M54.5,Low back pain
+2836,5451,J06.9,Acute upper respiratory infection
+2837,5452,F32.9,"Major depressive disorder, unspecified  "
+2838,5454,R51,Headache  
+2839,5457,G43.9,"Migraine, unspecified"
+2840,5458,M17.9,Osteoarthritis of knee
+2841,5460,F32.9,"Major depressive disorder, unspecified"
+2842,5461,I10,Essential hypertension
+2843,5462,J45.9,"Asthma, unspecified"
+2844,5464,I25.1,Atherosclerotic heart disease
+2845,5465,E78.5,"Hyperlipidaemia, unspecified"
+2846,5466,C50.9,Malignant neoplasm of breast
+2847,5469,L20.9,Atopic dermatitis
+2848,5470,M17.9,Osteoarthritis of knee
+2849,5471,R51,HEADACHE
+2850,5474,J06.9,Acute upper respiratory infection
+2851,5475,I10,Essential hypertension
+2852,5477,J45.9,"Asthma, unspecified"
+2853,5479,R51,Headache
+2854,5480,I25.1,Atherosclerotic heart disease
+2855,5481,K21.9,Gastro-oesophageal reflux disease
+2856,5487,G43.9,"Migraine, unspecified  "
+2857,5490,J45.9,"Asthma, unspecified"
+2858,5493,R51,Headache
+2859,5494,G43.9,"Migraine, unspecified"
+2860,5495,C50.9,Malignant neoplasm of breast
+2861,5497,F32.9,"Major depressive disorder, unspecified"
+2862,5499,C50.9,Malignant neoplasm of breast
+2863,5501,I10,Essential hypertension
+2864,5505,N39.0,Urinary tract infection
+2865,5506,E11,Type 2 diabetes mellitus
+2866,5507,M54.5,LOW BACK PAIN
+2867,5510,J45.9,"Asthma, unspecified"
+2868,5511,G43.9,"Migraine, unspecified"
+2869,5512,N39.0,Urinary tract infection
+2870,5518,G43.9,"Migraine, unspecified"
+2871,5519,E78.5,"Hyperlipidaemia, unspecified"
+2872,5520,K21.9,Gastro-oesophageal reflux disease
+2873,5522,E11,Type 2 diabetes mellitus
+2874,5524,R51,Headache
+2875,5526,M54.5,Low back pain  
+2876,5527,K21.9,Gastro-oesophageal reflux disease
+2877,5529,R51,Headache
+2878,5531,K21.9,GASTRO-OESOPHAGEAL REFLUX DISEASE
+2879,5532,E11,Type 2 diabetes mellitus
+2880,5535,R51,HEADACHE
+2881,5536,I10,Essential hypertension
+2882,5537,I25.1,Atherosclerotic heart disease
+2883,5538,E11,Type 2 diabetes mellitus  
+2884,5539,N39.0,Urinary tract infection  
+2885,5544,M54.5,Low back pain
+2886,5547,N39.0,Urinary tract infection
+2887,5548,E11,Type 2 diabetes mellitus
+2888,5550,J06.9,ACUTE UPPER RESPIRATORY INFECTION
+2889,5551,M54.5,Low back pain
+2890,5554,I10,Essential hypertension
+2891,5556,G43.9,"Migraine, unspecified"
+2892,5557,G43.9,"Migraine, unspecified"
+2893,5558,G43.9,"MIGRAINE, UNSPECIFIED"
+2894,5560,G43.9,"Migraine, unspecified"
+2895,5562,C50.9,Malignant neoplasm of breast
+2896,5564,K21.9,Gastro-oesophageal reflux disease  
+2897,5566,K21.9,Gastro-oesophageal reflux disease
+2898,5568,K21.9,Gastro-oesophageal reflux disease
+2899,5573,L20.9,ATOPIC DERMATITIS
+2900,5574,R51,Headache
+2901,5578,I10,Essential hypertension
+2902,5580,J45.9,"Asthma, unspecified"
+2903,5581,N39.0,Urinary tract infection  
+2904,5585,I10,Essential hypertension
+2905,5586,E78.5,"Hyperlipidaemia, unspecified"
+2906,5587,J45.9,"Asthma, unspecified"
+2907,5588,M54.5,Low back pain
+2908,5590,J45.9,"Asthma, unspecified"
+2909,5596,F32.9,"Major depressive disorder, unspecified"
+2910,5599,R51,Headache
+2911,5601,N39.0,Urinary tract infection
+2912,5605,I25.1,Atherosclerotic heart disease
+2913,5608,E78.5,"Hyperlipidaemia, unspecified"
+2914,5610,G43.9,"Migraine, unspecified"
+2915,5611,E78.5,"Hyperlipidaemia, unspecified"
+2916,5614,J45.9,"Asthma, unspecified  "
+2917,5616,E11,Type 2 diabetes mellitus
+2918,5617,R51,Headache
+2919,5618,M17.9,OSTEOARTHRITIS OF KNEE
+2920,5621,N39.0,Urinary tract infection
+2921,5622,I10,ESSENTIAL HYPERTENSION
+2922,5623,N39.0,Urinary tract infection
+2923,5624,J45.9,"Asthma, unspecified"
+2924,5627,I10,Essential hypertension
+2925,5628,N39.0,Urinary tract infection  
+2926,5629,E11,Type 2 diabetes mellitus
+2927,5637,G43.9,"Migraine, unspecified"
+2928,5638,E78.5,"HYPERLIPIDAEMIA, UNSPECIFIED"
+2929,5640,N39.0,Urinary tract infection
+2930,5641,L20.9,Atopic dermatitis
+2931,5643,J06.9,Acute upper respiratory infection
+2932,5646,L20.9,Atopic dermatitis  
+2933,5648,J45.9,"Asthma, unspecified"
+2934,5651,J06.9,Acute upper respiratory infection
+2935,5656,R51,Headache
+2936,5657,J06.9,Acute upper respiratory infection
+2937,5658,G43.9,"Migraine, unspecified"
+2938,5660,M54.5,Low back pain
+2939,5661,J45.9,"Asthma, unspecified"
+2940,5662,E11,Type 2 diabetes mellitus
+2941,5665,I25.1,Atherosclerotic heart disease
+2942,5666,C50.9,Malignant neoplasm of breast
+2943,5667,M17.9,Osteoarthritis of knee
+2944,5668,E11,Type 2 diabetes mellitus
+2945,5669,E11,Type 2 diabetes mellitus
+2946,5671,J45.9,"Asthma, unspecified"
+2947,5673,J06.9,Acute upper respiratory infection
+2948,5674,L20.9,Atopic dermatitis
+2949,5679,C50.9,Malignant neoplasm of breast
+2950,5680,E78.5,"Hyperlipidaemia, unspecified"
+2951,5681,N39.0,Urinary tract infection
+2952,5684,E11,Type 2 diabetes mellitus
+2953,5689,K21.9,Gastro-oesophageal reflux disease
+2954,5692,J06.9,Acute upper respiratory infection
+2955,5693,E78.5,"HYPERLIPIDAEMIA, UNSPECIFIED"
+2956,5694,M17.9,Osteoarthritis of knee
+2957,5697,N39.0,Urinary tract infection
+2958,5699,M17.9,Osteoarthritis of knee
+2959,5702,I10,Essential hypertension
+2960,5703,L20.9,ATOPIC DERMATITIS
+2961,5704,R51,Headache
+2962,5705,L20.9,Atopic dermatitis
+2963,5708,F32.9,"Major depressive disorder, unspecified"
+2964,5709,F32.9,"MAJOR DEPRESSIVE DISORDER, UNSPECIFIED"
+2965,5711,N39.0,Urinary tract infection
+2966,5712,M54.5,LOW BACK PAIN
+2967,5713,G43.9,"Migraine, unspecified"
+2968,5717,R51,Headache
+2969,5718,R51,Headache
+2970,5719,C50.9,MALIGNANT NEOPLASM OF BREAST
+2971,5721,E78.5,"Hyperlipidaemia, unspecified"
+2972,5722,M17.9,Osteoarthritis of knee
+2973,5724,N39.0,Urinary tract infection
+2974,5727,R51,Headache
+2975,5734,K21.9,Gastro-oesophageal reflux disease
+2976,5736,F32.9,"Major depressive disorder, unspecified"
+2977,5739,E11,TYPE 2 DIABETES MELLITUS
+2978,5740,M17.9,Osteoarthritis of knee
+2979,5741,I25.1,ATHEROSCLEROTIC HEART DISEASE
+2980,5743,C50.9,Malignant neoplasm of breast
+2981,5750,M17.9,Osteoarthritis of knee  
+2982,5752,E78.5,"Hyperlipidaemia, unspecified"
+2983,5753,C50.9,MALIGNANT NEOPLASM OF BREAST  
+2984,5758,M54.5,Low back pain
+2985,5760,L20.9,Atopic dermatitis
+2986,5762,E78.5,"HYPERLIPIDAEMIA, UNSPECIFIED"
+2987,5766,I10,Essential hypertension
+2988,5767,L20.9,Atopic dermatitis
+2989,5768,M17.9,Osteoarthritis of knee
+2990,5769,L20.9,Atopic dermatitis
+2991,5770,C50.9,Malignant neoplasm of breast
+2992,5771,I10,ESSENTIAL HYPERTENSION  
+2993,5772,N39.0,Urinary tract infection
+2994,5773,L20.9,Atopic dermatitis  
+2995,5775,M54.5,Low back pain
+2996,5776,J45.9,"Asthma, unspecified"
+2997,5779,N39.0,URINARY TRACT INFECTION  
+2998,5782,M54.5,Low back pain
+2999,5784,I10,Essential hypertension  
+3000,5786,E78.5,"Hyperlipidaemia, unspecified"
+3001,5789,J06.9,Acute upper respiratory infection
+3002,5792,N39.0,Urinary tract infection
+3003,5793,M54.5,Low back pain
+3004,5794,K21.9,GASTRO-OESOPHAGEAL REFLUX DISEASE
+3005,5797,R51,Headache
+3006,5798,R51,Headache
+3007,5801,L20.9,Atopic dermatitis
+3008,5803,I25.1,Atherosclerotic heart disease
+3009,5804,J06.9,Acute upper respiratory infection
+3010,5806,M54.5,Low back pain
+3011,5807,I10,Essential hypertension
+3012,5808,I25.1,Atherosclerotic heart disease
+3013,5810,F32.9,"Major depressive disorder, unspecified"
+3014,5811,J06.9,Acute upper respiratory infection
+3015,5813,J06.9,Acute upper respiratory infection
+3016,5815,I10,Essential hypertension
+3017,5820,I10,Essential hypertension
+3018,5823,C50.9,Malignant neoplasm of breast
+3019,5824,N39.0,Urinary tract infection
+3020,5825,M54.5,Low back pain
+3021,5826,L20.9,Atopic dermatitis  
+3022,5829,J45.9,"Asthma, unspecified"
+3023,5831,I10,ESSENTIAL HYPERTENSION
+3024,5832,I25.1,Atherosclerotic heart disease
+3025,5833,N39.0,Urinary tract infection
+3026,5837,N39.0,Urinary tract infection
+3027,5838,I25.1,ATHEROSCLEROTIC HEART DISEASE
+3028,5839,G43.9,"Migraine, unspecified"
+3029,5840,E78.5,"Hyperlipidaemia, unspecified"
+3030,5843,N39.0,Urinary tract infection
+3031,5844,F32.9,"Major depressive disorder, unspecified"
+3032,5846,C50.9,Malignant neoplasm of breast
+3033,5847,C50.9,Malignant neoplasm of breast
+3034,5852,E78.5,"Hyperlipidaemia, unspecified"
+3035,5853,M17.9,Osteoarthritis of knee  
+3036,5854,K21.9,Gastro-oesophageal reflux disease
+3037,5858,N39.0,Urinary tract infection
+3038,5859,L20.9,Atopic dermatitis
+3039,5861,E11,Type 2 diabetes mellitus
+3040,5862,C50.9,Malignant neoplasm of breast
+3041,5863,C50.9,Malignant neoplasm of breast
+3042,5864,I25.1,Atherosclerotic heart disease
+3043,5865,M17.9,Osteoarthritis of knee
+3044,5866,E78.5,"Hyperlipidaemia, unspecified"
+3045,5867,I10,Essential hypertension
+3046,5868,M17.9,Osteoarthritis of knee
+3047,5871,M54.5,Low back pain
+3048,5872,J45.9,"Asthma, unspecified"
+3049,5873,I25.1,Atherosclerotic heart disease
+3050,5875,K21.9,Gastro-oesophageal reflux disease
+3051,5876,E11,Type 2 diabetes mellitus  
+3052,5880,I10,Essential hypertension
+3053,5882,M17.9,Osteoarthritis of knee
+3054,5883,L20.9,Atopic dermatitis
+3055,5889,J06.9,Acute upper respiratory infection
+3056,5894,J45.9,"Asthma, unspecified"
+3057,5895,I25.1,Atherosclerotic heart disease
+3058,5896,N39.0,Urinary tract infection
+3059,5897,M54.5,Low back pain
+3060,5898,M17.9,Osteoarthritis of knee
+3061,5900,K21.9,Gastro-oesophageal reflux disease  
+3062,5903,J45.9,"Asthma, unspecified"
+3063,5905,G43.9,"Migraine, unspecified"
+3064,5906,E11,Type 2 diabetes mellitus
+3065,5910,J45.9,"Asthma, unspecified"
+3066,5911,R51,Headache
+3067,5912,F32.9,"Major depressive disorder, unspecified"
+3068,5913,L20.9,Atopic dermatitis  
+3069,5919,E78.5,"Hyperlipidaemia, unspecified"
+3070,5929,M17.9,Osteoarthritis of knee
+3071,5930,J06.9,Acute upper respiratory infection
+3072,5931,I10,Essential hypertension  
+3073,5932,M17.9,Osteoarthritis of knee
+3074,5933,M54.5,Low back pain
+3075,5934,R51,Headache
+3076,5937,R51,Headache
+3077,5941,L20.9,ATOPIC DERMATITIS
+3078,5943,R51,Headache
+3079,5944,I10,Essential hypertension
+3080,5948,I10,Essential hypertension  
+3081,5951,N39.0,Urinary tract infection
+3082,5955,F32.9,"Major depressive disorder, unspecified"
+3083,5957,K21.9,Gastro-oesophageal reflux disease
+3084,5958,F32.9,"Major depressive disorder, unspecified"
+3085,5959,M17.9,Osteoarthritis of knee
+3086,5960,M17.9,Osteoarthritis of knee
+3087,5963,F32.9,"Major depressive disorder, unspecified"
+3088,5966,N39.0,Urinary tract infection
+3089,5967,C50.9,Malignant neoplasm of breast
+3090,5969,J06.9,Acute upper respiratory infection
+3091,5972,J45.9,"Asthma, unspecified"
+3092,5973,E78.5,"Hyperlipidaemia, unspecified"
+3093,5976,E11,Type 2 diabetes mellitus
+3094,5977,J45.9,"Asthma, unspecified"
+3095,5981,I25.1,Atherosclerotic heart disease
+3096,5982,M54.5,Low back pain
+3097,5984,F32.9,"Major depressive disorder, unspecified"
+3098,5985,E11,Type 2 diabetes mellitus
+3099,5986,I10,Essential hypertension
+3100,5987,I25.1,Atherosclerotic heart disease
+3101,5988,J45.9,"Asthma, unspecified"
+3102,5989,I25.1,Atherosclerotic heart disease
+3103,5991,R51,Headache
+3104,5993,C50.9,Malignant neoplasm of breast
+3105,5994,L20.9,ATOPIC DERMATITIS
+3106,5996,M17.9,Osteoarthritis of knee
+3107,5998,C50.9,Malignant neoplasm of breast
+3108,5999,E11,Type 2 diabetes mellitus
+3109,6004,C50.9,MALIGNANT NEOPLASM OF BREAST
+3110,6006,F32.9,"MAJOR DEPRESSIVE DISORDER, UNSPECIFIED"
+3111,6008,N39.0,Urinary tract infection
+3112,6011,E78.5,"Hyperlipidaemia, unspecified"
+3113,6012,M54.5,Low back pain
+3114,6014,L20.9,Atopic dermatitis
+3115,6015,R51,Headache
+3116,6016,F32.9,"Major depressive disorder, unspecified"
+3117,6017,E11,Type 2 diabetes mellitus
+3118,6018,F32.9,"Major depressive disorder, unspecified"
+3119,6019,M17.9,Osteoarthritis of knee
+3120,6021,G43.9,"Migraine, unspecified"
+3121,6023,F32.9,"Major depressive disorder, unspecified"
+3122,6024,N39.0,Urinary tract infection
+3123,6025,M54.5,Low back pain
+3124,6027,I25.1,Atherosclerotic heart disease
+3125,6029,L20.9,Atopic dermatitis
+3126,6030,J45.9,"Asthma, unspecified"
+3127,6032,R51,Headache
+3128,6033,J06.9,ACUTE UPPER RESPIRATORY INFECTION
+3129,6034,J45.9,"Asthma, unspecified"
+3130,6035,E11,Type 2 diabetes mellitus  
+3131,6039,J06.9,Acute upper respiratory infection
+3132,6042,L20.9,Atopic dermatitis
+3133,6044,K21.9,Gastro-oesophageal reflux disease  
+3134,6045,F32.9,"Major depressive disorder, unspecified"
+3135,6046,M17.9,Osteoarthritis of knee
+3136,6052,L20.9,Atopic dermatitis
+3137,6053,C50.9,Malignant neoplasm of breast
+3138,6054,I10,Essential hypertension
+3139,6056,J45.9,"Asthma, unspecified"
+3140,6057,G43.9,"Migraine, unspecified"
+3141,6058,K21.9,Gastro-oesophageal reflux disease
+3142,6059,F32.9,"Major depressive disorder, unspecified"
+3143,6063,F32.9,"Major depressive disorder, unspecified"
+3144,6065,I25.1,Atherosclerotic heart disease  
+3145,6066,J06.9,Acute upper respiratory infection
+3146,6067,G43.9,"Migraine, unspecified"
+3147,6069,C50.9,Malignant neoplasm of breast
+3148,6071,I10,Essential hypertension
+3149,6073,J06.9,Acute upper respiratory infection
+3150,6074,F32.9,"Major depressive disorder, unspecified"
+3151,6079,E78.5,"Hyperlipidaemia, unspecified"
+3152,6082,R51,Headache
+3153,6083,J06.9,Acute upper respiratory infection
+3154,6084,I10,Essential hypertension
+3155,6085,N39.0,Urinary tract infection
+3156,6086,N39.0,Urinary tract infection
+3157,6087,I25.1,Atherosclerotic heart disease
+3158,6088,I10,Essential hypertension
+3159,6090,N39.0,Urinary tract infection
+3160,6093,M54.5,Low back pain
+3161,6094,E11,TYPE 2 DIABETES MELLITUS
+3162,6096,C50.9,Malignant neoplasm of breast
+3163,6099,J06.9,Acute upper respiratory infection
+3164,6103,N39.0,URINARY TRACT INFECTION
+3165,6104,L20.9,Atopic dermatitis
+3166,6109,N39.0,Urinary tract infection
+3167,6111,K21.9,Gastro-oesophageal reflux disease
+3168,6113,C50.9,Malignant neoplasm of breast
+3169,6117,C50.9,Malignant neoplasm of breast
+3170,6118,I10,Essential hypertension
+3171,6119,J06.9,Acute upper respiratory infection
+3172,6123,G43.9,"MIGRAINE, UNSPECIFIED"
+3173,6124,M17.9,Osteoarthritis of knee
+3174,6125,M17.9,Osteoarthritis of knee
+3175,6126,E78.5,"Hyperlipidaemia, unspecified"
+3176,6128,N39.0,Urinary tract infection
+3177,6129,M17.9,Osteoarthritis of knee
+3178,6131,G43.9,"MIGRAINE, UNSPECIFIED"
+3179,6132,M17.9,Osteoarthritis of knee
+3180,6133,J45.9,"Asthma, unspecified"
+3181,6137,I25.1,Atherosclerotic heart disease
+3182,6138,E78.5,"Hyperlipidaemia, unspecified"
+3183,6139,R51,Headache
+3184,6140,E11,Type 2 diabetes mellitus
+3185,6142,N39.0,URINARY TRACT INFECTION
+3186,6144,I25.1,Atherosclerotic heart disease
+3187,6145,F32.9,"Major depressive disorder, unspecified"
+3188,6148,I25.1,Atherosclerotic heart disease
+3189,6152,L20.9,Atopic dermatitis
+3190,6153,J45.9,"Asthma, unspecified  "
+3191,6154,F32.9,"Major depressive disorder, unspecified"
+3192,6156,E11,Type 2 diabetes mellitus
+3193,6157,L20.9,Atopic dermatitis
+3194,6158,R51,Headache
+3195,6163,N39.0,Urinary tract infection
+3196,6166,J06.9,Acute upper respiratory infection  
+3197,6167,J45.9,"Asthma, unspecified"
+3198,6168,G43.9,"Migraine, unspecified  "
+3199,6169,R51,Headache
+3200,6171,F32.9,"Major depressive disorder, unspecified"
+3201,6173,J06.9,Acute upper respiratory infection
+3202,6175,E78.5,"Hyperlipidaemia, unspecified"
+3203,6179,E11,Type 2 diabetes mellitus
+3204,6180,N39.0,Urinary tract infection
+3205,6182,R51,Headache
+3206,6185,M17.9,Osteoarthritis of knee
+3207,6186,I10,ESSENTIAL HYPERTENSION
+3208,6188,G43.9,"Migraine, unspecified"
+3209,6189,E78.5,"Hyperlipidaemia, unspecified"
+3210,6191,M54.5,Low back pain
+3211,6192,C50.9,Malignant neoplasm of breast
+3212,6194,C50.9,Malignant neoplasm of breast
+3213,6195,C50.9,Malignant neoplasm of breast
+3214,6196,E78.5,"Hyperlipidaemia, unspecified"
+3215,6199,J45.9,"Asthma, unspecified"
+3216,6200,F32.9,"MAJOR DEPRESSIVE DISORDER, UNSPECIFIED"
+3217,6202,G43.9,"Migraine, unspecified"
+3218,6203,I10,Essential hypertension
+3219,6206,I25.1,Atherosclerotic heart disease
+3220,6207,L20.9,Atopic dermatitis
+3221,6208,J45.9,"Asthma, unspecified"
+3222,6211,G43.9,"Migraine, unspecified"
+3223,6212,K21.9,Gastro-oesophageal reflux disease
+3224,6214,M54.5,Low back pain
+3225,6216,I10,ESSENTIAL HYPERTENSION
+3226,6217,R51,Headache
+3227,6218,J06.9,Acute upper respiratory infection
+3228,6219,J06.9,Acute upper respiratory infection
+3229,6220,C50.9,Malignant neoplasm of breast
+3230,6222,L20.9,Atopic dermatitis
+3231,6224,R51,Headache  
+3232,6226,M54.5,Low back pain
+3233,6227,R51,Headache
+3234,6229,E11,Type 2 diabetes mellitus
+3235,6231,J45.9,"Asthma, unspecified"
+3236,6233,N39.0,Urinary tract infection
+3237,6235,L20.9,Atopic dermatitis
+3238,6236,N39.0,Urinary tract infection
+3239,6237,K21.9,Gastro-oesophageal reflux disease
+3240,6239,M17.9,Osteoarthritis of knee
+3241,6240,J45.9,"Asthma, unspecified"
+3242,6243,E78.5,"Hyperlipidaemia, unspecified"
+3243,6244,C50.9,Malignant neoplasm of breast
+3244,6246,K21.9,Gastro-oesophageal reflux disease
+3245,6247,I25.1,Atherosclerotic heart disease
+3246,6256,E11,Type 2 diabetes mellitus
+3247,6258,J06.9,Acute upper respiratory infection
+3248,6260,K21.9,GASTRO-OESOPHAGEAL REFLUX DISEASE
+3249,6262,L20.9,Atopic dermatitis
+3250,6265,C50.9,Malignant neoplasm of breast
+3251,6270,J45.9,"Asthma, unspecified"
+3252,6272,I10,Essential hypertension
+3253,6274,I10,Essential hypertension
+3254,6275,I25.1,Atherosclerotic heart disease
+3255,6279,M17.9,Osteoarthritis of knee  
+3256,6284,K21.9,Gastro-oesophageal reflux disease  
+3257,6285,M54.5,Low back pain
+3258,6286,G43.9,"Migraine, unspecified"
+3259,6287,I25.1,Atherosclerotic heart disease
+3260,6288,K21.9,Gastro-oesophageal reflux disease
+3261,6289,I25.1,Atherosclerotic heart disease
+3262,6290,I25.1,ATHEROSCLEROTIC HEART DISEASE  
+3263,6291,M17.9,Osteoarthritis of knee
+3264,6292,M17.9,Osteoarthritis of knee
+3265,6293,E11,Type 2 diabetes mellitus  
+3266,6295,C50.9,Malignant neoplasm of breast
+3267,6296,N39.0,URINARY TRACT INFECTION
+3268,6297,J45.9,"Asthma, unspecified"
+3269,6298,K21.9,GASTRO-OESOPHAGEAL REFLUX DISEASE
+3270,6301,E11,Type 2 diabetes mellitus
+3271,6303,C50.9,Malignant neoplasm of breast
+3272,6304,L20.9,Atopic dermatitis
+3273,6306,L20.9,Atopic dermatitis
+3274,6308,R51,HEADACHE
+3275,6309,G43.9,"Migraine, unspecified"
+3276,6313,N39.0,Urinary tract infection
+3277,6316,E11,Type 2 diabetes mellitus
+3278,6318,I10,Essential hypertension
+3279,6320,F32.9,"Major depressive disorder, unspecified"
+3280,6321,M17.9,Osteoarthritis of knee
+3281,6322,K21.9,Gastro-oesophageal reflux disease
+3282,6323,I10,Essential hypertension
+3283,6326,E78.5,"Hyperlipidaemia, unspecified"
+3284,6329,M54.5,Low back pain
+3285,6330,E78.5,"Hyperlipidaemia, unspecified"
+3286,6331,I25.1,Atherosclerotic heart disease
+3287,6332,L20.9,Atopic dermatitis  
+3288,6333,N39.0,URINARY TRACT INFECTION
+3289,6335,E78.5,"Hyperlipidaemia, unspecified"
+3290,6336,J45.9,"Asthma, unspecified"
+3291,6338,M54.5,Low back pain
+3292,6340,C50.9,Malignant neoplasm of breast
+3293,6342,M54.5,Low back pain
+3294,6343,J06.9,Acute upper respiratory infection
+3295,6344,N39.0,Urinary tract infection
+3296,6345,F32.9,"Major depressive disorder, unspecified"
+3297,6347,M54.5,Low back pain
+3298,6348,K21.9,Gastro-oesophageal reflux disease
+3299,6349,E11,Type 2 diabetes mellitus
+3300,6350,M17.9,Osteoarthritis of knee
+3301,6351,N39.0,Urinary tract infection
+3302,6359,E78.5,"Hyperlipidaemia, unspecified"
+3303,6360,M54.5,Low back pain  
+3304,6361,I10,ESSENTIAL HYPERTENSION
+3305,6365,M54.5,LOW BACK PAIN
+3306,6367,F32.9,"Major depressive disorder, unspecified"
+3307,6368,I10,Essential hypertension
+3308,6369,E11,Type 2 diabetes mellitus  
+3309,6370,F32.9,"Major depressive disorder, unspecified  "
+3310,6371,L20.9,Atopic dermatitis
+3311,6372,F32.9,"Major depressive disorder, unspecified"
+3312,6373,E78.5,"Hyperlipidaemia, unspecified"
+3313,6374,K21.9,Gastro-oesophageal reflux disease
+3314,6378,G43.9,"Migraine, unspecified"
+3315,6380,M54.5,Low back pain
+3316,6381,F32.9,"Major depressive disorder, unspecified"
+3317,6383,M17.9,Osteoarthritis of knee
+3318,6385,M54.5,Low back pain
+3319,6386,R51,Headache
+3320,6389,N39.0,Urinary tract infection
+3321,6391,R51,HEADACHE
+3322,6392,J45.9,"Asthma, unspecified"
+3323,6393,J45.9,"Asthma, unspecified"
+3324,6395,I10,ESSENTIAL HYPERTENSION
+3325,6396,E11,Type 2 diabetes mellitus
+3326,6397,E78.5,"Hyperlipidaemia, unspecified"
+3327,6398,M17.9,Osteoarthritis of knee
+3328,6399,M17.9,Osteoarthritis of knee
+3329,6400,M17.9,Osteoarthritis of knee
+3330,6401,L20.9,Atopic dermatitis
+3331,6404,L20.9,Atopic dermatitis
+3332,6405,K21.9,Gastro-oesophageal reflux disease
+3333,6406,E11,Type 2 diabetes mellitus
+3334,6408,E11,Type 2 diabetes mellitus
+3335,6410,J45.9,"Asthma, unspecified"
+3336,6412,C50.9,Malignant neoplasm of breast
+3337,6414,G43.9,"Migraine, unspecified"
+3338,6418,N39.0,URINARY TRACT INFECTION
+3339,6419,M17.9,OSTEOARTHRITIS OF KNEE
+3340,6420,R51,Headache
+3341,6421,J45.9,"Asthma, unspecified"
+3342,6423,J06.9,Acute upper respiratory infection
+3343,6424,F32.9,"Major depressive disorder, unspecified"
+3344,6425,R51,Headache
+3345,6426,M17.9,Osteoarthritis of knee
+3346,6427,J45.9,"Asthma, unspecified"
+3347,6429,I25.1,Atherosclerotic heart disease
+3348,6432,K21.9,Gastro-oesophageal reflux disease
+3349,6433,N39.0,Urinary tract infection
+3350,6434,F32.9,"Major depressive disorder, unspecified"
+3351,6436,K21.9,Gastro-oesophageal reflux disease
+3352,6438,F32.9,"Major depressive disorder, unspecified"
+3353,6439,G43.9,"Migraine, unspecified"
+3354,6442,R51,Headache
+3355,6443,J45.9,"Asthma, unspecified"
+3356,6446,G43.9,"MIGRAINE, UNSPECIFIED"
+3357,6447,I10,Essential hypertension
+3358,6448,M17.9,Osteoarthritis of knee
+3359,6449,I25.1,Atherosclerotic heart disease
+3360,6452,I10,Essential hypertension
+3361,6453,K21.9,Gastro-oesophageal reflux disease
+3362,6455,J06.9,Acute upper respiratory infection
+3363,6458,J06.9,Acute upper respiratory infection
+3364,6459,I25.1,Atherosclerotic heart disease
+3365,6460,J06.9,Acute upper respiratory infection
+3366,6461,F32.9,"Major depressive disorder, unspecified"
+3367,6465,C50.9,Malignant neoplasm of breast
+3368,6467,I10,Essential hypertension
+3369,6470,E78.5,"Hyperlipidaemia, unspecified"
+3370,6473,C50.9,Malignant neoplasm of breast
+3371,6474,K21.9,Gastro-oesophageal reflux disease
+3372,6475,M54.5,Low back pain
+3373,6481,I10,Essential hypertension
+3374,6486,L20.9,Atopic dermatitis  
+3375,6487,N39.0,Urinary tract infection  
+3376,6488,C50.9,Malignant neoplasm of breast
+3377,6489,M17.9,Osteoarthritis of knee
+3378,6490,M54.5,Low back pain
+3379,6491,C50.9,Malignant neoplasm of breast
+3380,6494,E11,Type 2 diabetes mellitus
+3381,6495,C50.9,Malignant neoplasm of breast
+3382,6498,R51,Headache
+3383,6500,I10,Essential hypertension
+3384,6502,E78.5,"Hyperlipidaemia, unspecified"
+3385,6503,E78.5,"Hyperlipidaemia, unspecified"
+3386,6512,F32.9,"Major depressive disorder, unspecified"
+3387,6513,J06.9,ACUTE UPPER RESPIRATORY INFECTION
+3388,6520,K21.9,Gastro-oesophageal reflux disease
+3389,6521,M17.9,Osteoarthritis of knee
+3390,6523,J06.9,ACUTE UPPER RESPIRATORY INFECTION
+3391,6524,C50.9,Malignant neoplasm of breast  
+3392,6525,E11,Type 2 diabetes mellitus
+3393,6526,G43.9,"Migraine, unspecified"
+3394,6530,K21.9,Gastro-oesophageal reflux disease
+3395,6531,G43.9,"Migraine, unspecified"
+3396,6533,K21.9,Gastro-oesophageal reflux disease
+3397,6535,C50.9,Malignant neoplasm of breast
+3398,6536,G43.9,"Migraine, unspecified"
+3399,6537,E11,Type 2 diabetes mellitus  
+3400,6542,R51,Headache
+3401,6547,L20.9,Atopic dermatitis
+3402,6549,I10,Essential hypertension
+3403,6551,m179,Osteoarthritis of knee
+3404,6552,I25.1,Atherosclerotic heart disease  
+3405,6555,M17.9,Osteoarthritis of knee
+3406,6558,M17.9,Osteoarthritis of knee
+3407,6561,M54.5,Low back pain
+3408,6562,R51,HEADACHE
+3409,6563,E78.5,"Hyperlipidaemia, unspecified"
+3410,6565,E11,Type 2 diabetes mellitus
+3411,6569,E11,Type 2 diabetes mellitus
+3412,6571,I25.1,ATHEROSCLEROTIC HEART DISEASE  
+3413,6573,C50.9,Malignant neoplasm of breast
+3414,6576,M54.5,Low back pain  
+3415,6577,R51,Headache
+3416,6578,M17.9,Osteoarthritis of knee
+3417,6579,C50.9,Malignant neoplasm of breast
+3418,6580,R51,HEADACHE
+3419,6581,N39.0,URINARY TRACT INFECTION
+3420,6582,L20.9,Atopic dermatitis
+3421,6584,J06.9,Acute upper respiratory infection
+3422,6585,I10,Essential hypertension
+3423,6591,L20.9,Atopic dermatitis
+3424,6592,M17.9,Osteoarthritis of knee
+3425,6594,L20.9,Atopic dermatitis
+3426,6595,I10,Essential hypertension
+3427,6596,N39.0,Urinary tract infection
+3428,6598,M17.9,Osteoarthritis of knee
+3429,6600,J45.9,"Asthma, unspecified"
+3430,6601,R51,Headache
+3431,6602,I10,Essential hypertension
+3432,6603,M17.9,Osteoarthritis of knee
+3433,6604,J06.9,Acute upper respiratory infection
+3434,6606,M54.5,Low back pain
+3435,6609,E11,Type 2 diabetes mellitus
+3436,6610,J45.9,"Asthma, unspecified"
+3437,6612,E78.5,"Hyperlipidaemia, unspecified"
+3438,6613,E78.5,"Hyperlipidaemia, unspecified"
+3439,6614,N39.0,Urinary tract infection
+3440,6616,E11,Type 2 diabetes mellitus
+3441,6618,M17.9,Osteoarthritis of knee
+3442,6622,F32.9,"Major depressive disorder, unspecified"
+3443,6623,F32.9,"Major depressive disorder, unspecified"
+3444,6624,E78.5,"Hyperlipidaemia, unspecified"
+3445,6626,K21.9,Gastro-oesophageal reflux disease
+3446,6627,M54.5,Low back pain
+3447,6628,R51,Headache
+3448,6630,C50.9,MALIGNANT NEOPLASM OF BREAST
+3449,6632,I25.1,Atherosclerotic heart disease
+3450,6633,I10,Essential hypertension
+3451,6635,M54.5,Low back pain
+3452,6639,M54.5,Low back pain
+3453,6640,E11,Type 2 diabetes mellitus
+3454,6641,M54.5,Low back pain
+3455,6644,R51,Headache
+3456,6645,C50.9,Malignant neoplasm of breast
+3457,6647,J45.9,"Asthma, unspecified"
+3458,6648,M54.5,Low back pain
+3459,6651,F32.9,"Major depressive disorder, unspecified"
+3460,6652,L20.9,Atopic dermatitis
+3461,6655,E11,Type 2 diabetes mellitus
+3462,6656,J06.9,Acute upper respiratory infection  
+3463,6658,J45.9,"ASTHMA, UNSPECIFIED"
+3464,6663,J06.9,Acute upper respiratory infection
+3465,6665,E11,Type 2 diabetes mellitus
+3466,6666,I25.1,Atherosclerotic heart disease
+3467,6670,F32.9,"Major depressive disorder, unspecified"
+3468,6671,F32.9,"Major depressive disorder, unspecified"
+3469,6672,M17.9,Osteoarthritis of knee
+3470,6673,G43.9,"Migraine, unspecified"
+3471,6674,R51,Headache
+3472,6677,J06.9,Acute upper respiratory infection
+3473,6678,C50.9,Malignant neoplasm of breast
+3474,6682,N39.0,Urinary tract infection
+3475,6684,C50.9,Malignant neoplasm of breast
+3476,6686,I10,Essential hypertension
+3477,6687,L20.9,Atopic dermatitis
+3478,6688,E78.5,"Hyperlipidaemia, unspecified"
+3479,6691,K21.9,Gastro-oesophageal reflux disease
+3480,6692,J06.9,Acute upper respiratory infection
+3481,6693,I10,Essential hypertension
+3482,6696,M17.9,Osteoarthritis of knee
+3483,6697,K21.9,Gastro-oesophageal reflux disease
+3484,6698,J06.9,Acute upper respiratory infection
+3485,6700,E78.5,"Hyperlipidaemia, unspecified"
+3486,6701,J45.9,"Asthma, unspecified"
+3487,6703,N39.0,Urinary tract infection
+3488,6705,I25.1,Atherosclerotic heart disease
+3489,6706,M17.9,Osteoarthritis of knee
+3490,6708,M54.5,LOW BACK PAIN
+3491,6711,E11,TYPE 2 DIABETES MELLITUS
+3492,6715,M54.5,Low back pain
+3493,6718,I10,Essential hypertension
+3494,6720,G43.9,"Migraine, unspecified"
+3495,6721,E78.5,"HYPERLIPIDAEMIA, UNSPECIFIED  "
+3496,6724,C50.9,Malignant neoplasm of breast
+3497,6725,E11,Type 2 diabetes mellitus
+3498,6728,J45.9,"Asthma, unspecified"
+3499,6730,L20.9,ATOPIC DERMATITIS
+3500,6732,N39.0,Urinary tract infection
+3501,6733,L20.9,Atopic dermatitis  
+3502,6734,J06.9,Acute upper respiratory infection
+3503,6739,I25.1,Atherosclerotic heart disease
+3504,6742,R51,Headache
+3505,6744,C50.9,Malignant neoplasm of breast
+3506,6745,F32.9,"Major depressive disorder, unspecified"
+3507,6748,I10,Essential hypertension
+3508,6750,J45.9,"Asthma, unspecified"
+3509,6755,R51,Headache
+3510,6757,C50.9,Malignant neoplasm of breast
+3511,6758,E11,Type 2 diabetes mellitus
+3512,6759,L20.9,Atopic dermatitis
+3513,6760,G43.9,"Migraine, unspecified"
+3514,6761,C50.9,Malignant neoplasm of breast
+3515,6762,M54.5,Low back pain
+3516,6764,N39.0,Urinary tract infection
+3517,6766,M17.9,OSTEOARTHRITIS OF KNEE
+3518,6767,R51,HEADACHE
+3519,6770,C50.9,Malignant neoplasm of breast
+3520,6772,L20.9,Atopic dermatitis
+3521,6773,G43.9,"Migraine, unspecified"
+3522,6778,J06.9,Acute upper respiratory infection  
+3523,6779,R51,Headache  
+3524,6782,K21.9,Gastro-oesophageal reflux disease
+3525,6783,E11,TYPE 2 DIABETES MELLITUS
+3526,6784,L20.9,Atopic dermatitis
+3527,6785,F32.9,"Major depressive disorder, unspecified"
+3528,6786,F32.9,"Major depressive disorder, unspecified"
+3529,6788,J06.9,Acute upper respiratory infection
+3530,6790,J45.9,"ASTHMA, UNSPECIFIED"
+3531,6791,L20.9,Atopic dermatitis
+3532,6794,I10,Essential hypertension
+3533,6795,L20.9,Atopic dermatitis
+3534,6796,R51,Headache
+3535,6797,M17.9,Osteoarthritis of knee
+3536,6799,G43.9,"Migraine, unspecified  "
+3537,6800,I10,Essential hypertension
+3538,6804,G43.9,"Migraine, unspecified"
+3539,6806,L20.9,Atopic dermatitis
+3540,6808,E11,Type 2 diabetes mellitus
+3541,6809,R51,Headache
+3542,6810,E78.5,"Hyperlipidaemia, unspecified"
+3543,6811,K21.9,Gastro-oesophageal reflux disease
+3544,6812,G43.9,"Migraine, unspecified"
+3545,6815,E11,Type 2 diabetes mellitus
+3546,6816,M17.9,Osteoarthritis of knee
+3547,6820,L20.9,Atopic dermatitis
+3548,6822,M54.5,Low back pain
+3549,6823,N39.0,URINARY TRACT INFECTION
+3550,6825,F32.9,"Major depressive disorder, unspecified"
+3551,6826,I10,Essential hypertension
+3552,6827,R51,Headache
+3553,6829,E11,Type 2 diabetes mellitus
+3554,6830,G43.9,"MIGRAINE, UNSPECIFIED"
+3555,6832,E78.5,"Hyperlipidaemia, unspecified"
+3556,6833,F32.9,"Major depressive disorder, unspecified"
+3557,6835,I10,Essential hypertension
+3558,6837,F32.9,"Major depressive disorder, unspecified"
+3559,6838,J45.9,"Asthma, unspecified"
+3560,6839,R51,HEADACHE
+3561,6840,E11,TYPE 2 DIABETES MELLITUS
+3562,6842,J06.9,Acute upper respiratory infection
+3563,6844,J06.9,Acute upper respiratory infection
+3564,6846,J06.9,Acute upper respiratory infection
+3565,6847,N39.0,Urinary tract infection
+3566,6849,I25.1,Atherosclerotic heart disease
+3567,6853,C50.9,Malignant neoplasm of breast
+3568,6854,E11,Type 2 diabetes mellitus
+3569,6856,J45.9,"Asthma, unspecified"
+3570,6857,N39.0,Urinary tract infection
+3571,6859,N39.0,Urinary tract infection
+3572,6860,E11,Type 2 diabetes mellitus
+3573,6862,M17.9,Osteoarthritis of knee
+3574,6863,R51,HEADACHE
+3575,6864,M54.5,Low back pain
+3576,6868,M17.9,OSTEOARTHRITIS OF KNEE
+3577,6869,E78.5,"Hyperlipidaemia, unspecified"
+3578,6870,E11,Type 2 diabetes mellitus
+3579,6872,J45.9,"Asthma, unspecified  "
+3580,6876,G43.9,"Migraine, unspecified"
+3581,6877,E78.5,"Hyperlipidaemia, unspecified"
+3582,6878,M17.9,Osteoarthritis of knee
+3583,6879,F32.9,"Major depressive disorder, unspecified  "
+3584,6880,M17.9,Osteoarthritis of knee
+3585,6881,I25.1,Atherosclerotic heart disease  
+3586,6882,I10,Essential hypertension
+3587,6883,N39.0,Urinary tract infection
+3588,6884,M54.5,Low back pain
+3589,6889,L20.9,Atopic dermatitis
+3590,6893,I10,Essential hypertension
+3591,6896,J06.9,Acute upper respiratory infection
+3592,6897,F32.9,"Major depressive disorder, unspecified"
+3593,6898,I25.1,Atherosclerotic heart disease
+3594,6899,R51,Headache
+3595,6900,M54.5,Low back pain
+3596,6902,F32.9,"Major depressive disorder, unspecified  "
+3597,6903,J45.9,"Asthma, unspecified"
+3598,6908,L20.9,ATOPIC DERMATITIS
+3599,6909,E78.5,"Hyperlipidaemia, unspecified"
+3600,6910,J45.9,"Asthma, unspecified  "
+3601,6912,C50.9,Malignant neoplasm of breast
+3602,6917,J45.9,"Asthma, unspecified"
+3603,6918,I10,Essential hypertension
+3604,6919,E78.5,"Hyperlipidaemia, unspecified"
+3605,6920,J45.9,"Asthma, unspecified"
+3606,6921,E78.5,"Hyperlipidaemia, unspecified"
+3607,6922,C50.9,Malignant neoplasm of breast
+3608,6923,M54.5,Low back pain
+3609,6926,J06.9,Acute upper respiratory infection
+3610,6928,L20.9,Atopic dermatitis
+3611,6929,I10,Essential hypertension
+3612,6933,M54.5,Low back pain
+3613,6934,F32.9,"Major depressive disorder, unspecified"
+3614,6935,M17.9,Osteoarthritis of knee
+3615,6937,J06.9,Acute upper respiratory infection
+3616,6938,C50.9,Malignant neoplasm of breast
+3617,6940,G43.9,"Migraine, unspecified"
+3618,6943,E11,Type 2 diabetes mellitus
+3619,6946,I10,Essential hypertension
+3620,6949,F32.9,"Major depressive disorder, unspecified"
+3621,6951,M54.5,Low back pain
+3622,6952,C50.9,MALIGNANT NEOPLASM OF BREAST
+3623,6953,J45.9,"Asthma, unspecified"
+3624,6954,F32.9,"Major depressive disorder, unspecified"
+3625,6955,E11,TYPE 2 DIABETES MELLITUS
+3626,6957,E11,Type 2 diabetes mellitus
+3627,6958,M17.9,Osteoarthritis of knee
+3628,6960,N39.0,Urinary tract infection
+3629,6964,M17.9,Osteoarthritis of knee
+3630,6968,F32.9,"Major depressive disorder, unspecified"
+3631,6970,M17.9,Osteoarthritis of knee
+3632,6973,I10,Essential hypertension
+3633,6974,L20.9,Atopic dermatitis
+3634,6975,K21.9,Gastro-oesophageal reflux disease
+3635,6976,G43.9,"Migraine, unspecified"
+3636,6977,G43.9,"Migraine, unspecified"
+3637,6978,C50.9,Malignant neoplasm of breast
+3638,6980,J06.9,Acute upper respiratory infection
+3639,6981,I10,Essential hypertension
+3640,6982,K21.9,Gastro-oesophageal reflux disease
+3641,6985,I10,Essential hypertension
+3642,6986,E11,Type 2 diabetes mellitus  
+3643,6987,J45.9,"ASTHMA, UNSPECIFIED"
+3644,6988,R51,Headache
+3645,6989,R51,Headache  
+3646,6990,L20.9,Atopic dermatitis
+3647,6995,I25.1,Atherosclerotic heart disease
+3648,6998,I10,Essential hypertension
+3649,6999,N39.0,Urinary tract infection  
+3650,7000,M54.5,Low back pain
+3651,7001,L20.9,Atopic dermatitis
+3652,7006,K21.9,Gastro-oesophageal reflux disease
+3653,7009,R51,Headache
+3654,7011,R51,Headache
+3655,7012,M54.5,Low back pain
+3656,7014,C50.9,Malignant neoplasm of breast
+3657,7015,J06.9,Acute upper respiratory infection
+3658,7020,F32.9,"Major depressive disorder, unspecified  "
+3659,7021,E11,Type 2 diabetes mellitus
+3660,7022,L20.9,ATOPIC DERMATITIS
+3661,7024,I25.1,Atherosclerotic heart disease
+3662,7025,C50.9,Malignant neoplasm of breast
+3663,7026,E78.5,"Hyperlipidaemia, unspecified"
+3664,7027,G43.9,"Migraine, unspecified"
+3665,7029,M54.5,Low back pain
+3666,7030,R51,Headache
+3667,7031,E11,Type 2 diabetes mellitus
+3668,7032,K21.9,Gastro-oesophageal reflux disease
+3669,7037,F32.9,"Major depressive disorder, unspecified"
+3670,7038,I25.1,Atherosclerotic heart disease
+3671,7039,J06.9,Acute upper respiratory infection
+3672,7040,M54.5,Low back pain
+3673,7045,E78.5,"Hyperlipidaemia, unspecified"
+3674,7046,M54.5,Low back pain
+3675,7049,M54.5,Low back pain
+3676,7057,R51,Headache
+3677,7061,I10,Essential hypertension
+3678,7066,J45.9,"Asthma, unspecified"
+3679,7067,M17.9,Osteoarthritis of knee
+3680,7070,I10,ESSENTIAL HYPERTENSION
+3681,7072,E11,Type 2 diabetes mellitus
+3682,7074,R51,Headache
+3683,7076,J06.9,Acute upper respiratory infection
+3684,7077,E11,Type 2 diabetes mellitus
+3685,7078,E78.5,"Hyperlipidaemia, unspecified"
+3686,7079,K21.9,Gastro-oesophageal reflux disease
+3687,7080,I25.1,Atherosclerotic heart disease
+3688,7081,M17.9,Osteoarthritis of knee
+3689,7082,I25.1,Atherosclerotic heart disease
+3690,7084,J06.9,Acute upper respiratory infection
+3691,7088,I25.1,Atherosclerotic heart disease
+3692,7093,I25.1,Atherosclerotic heart disease
+3693,7096,J06.9,Acute upper respiratory infection
+3694,7097,M17.9,Osteoarthritis of knee
+3695,7099,L20.9,Atopic dermatitis
+3696,7100,G43.9,"MIGRAINE, UNSPECIFIED"
+3697,7102,J06.9,Acute upper respiratory infection
+3698,7103,E78.5,"Hyperlipidaemia, unspecified  "
+3699,7105,K21.9,Gastro-oesophageal reflux disease
+3700,7107,I10,Essential hypertension
+3701,7108,G43.9,"Migraine, unspecified"
+3702,7110,E78.5,"Hyperlipidaemia, unspecified"
+3703,7111,C50.9,Malignant neoplasm of breast
+3704,7113,E11,Type 2 diabetes mellitus  
+3705,7115,J06.9,Acute upper respiratory infection
+3706,7116,M17.9,Osteoarthritis of knee
+3707,7117,N39.0,Urinary tract infection
+3708,7123,J45.9,"Asthma, unspecified"
+3709,7125,I10,Essential hypertension
+3710,7126,E78.5,"Hyperlipidaemia, unspecified"
+3711,7128,J06.9,Acute upper respiratory infection
+3712,7131,I25.1,Atherosclerotic heart disease
+3713,7133,M54.5,Low back pain
+3714,7137,J45.9,"Asthma, unspecified"
+3715,7138,E11,Type 2 diabetes mellitus
+3716,7140,G43.9,"Migraine, unspecified"
+3717,7144,E11,Type 2 diabetes mellitus
+3718,7146,C50.9,Malignant neoplasm of breast
+3719,7148,I25.1,Atherosclerotic heart disease
+3720,7150,G43.9,"Migraine, unspecified"
+3721,7151,C50.9,Malignant neoplasm of breast
+3722,7152,J06.9,Acute upper respiratory infection
+3723,7155,N39.0,Urinary tract infection
+3724,7156,J06.9,Acute upper respiratory infection
+3725,7158,N39.0,Urinary tract infection
+3726,7159,F32.9,"Major depressive disorder, unspecified"
+3727,7160,I10,Essential hypertension
+3728,7162,F32.9,"Major depressive disorder, unspecified"
+3729,7163,K21.9,GASTRO-OESOPHAGEAL REFLUX DISEASE
+3730,7166,L20.9,Atopic dermatitis
+3731,7168,R51,Headache
+3732,7169,J06.9,Acute upper respiratory infection
+3733,7170,J45.9,"Asthma, unspecified"
+3734,7171,I25.1,Atherosclerotic heart disease
+3735,7174,M17.9,Osteoarthritis of knee  
+3736,7177,J06.9,Acute upper respiratory infection
+3737,7183,E78.5,"Hyperlipidaemia, unspecified"
+3738,7184,C50.9,Malignant neoplasm of breast
+3739,7186,F32.9,"Major depressive disorder, unspecified"
+3740,7187,G43.9,"Migraine, unspecified"
+3741,7188,E78.5,"Hyperlipidaemia, unspecified"
+3742,7191,K21.9,Gastro-oesophageal reflux disease
+3743,7192,I10,Essential hypertension
+3744,7194,F32.9,"Major depressive disorder, unspecified"
+3745,7195,C50.9,Malignant neoplasm of breast
+3746,7196,L20.9,Atopic dermatitis
+3747,7198,F32.9,"Major depressive disorder, unspecified"
+3748,7199,J06.9,Acute upper respiratory infection
+3749,7202,M17.9,Osteoarthritis of knee
+3750,7203,E78.5,"Hyperlipidaemia, unspecified"
+3751,7208,N39.0,Urinary tract infection
+3752,7210,K21.9,Gastro-oesophageal reflux disease
+3753,7212,I25.1,Atherosclerotic heart disease
+3754,7213,M17.9,Osteoarthritis of knee
+3755,7215,G43.9,"Migraine, unspecified"
+3756,7218,R51,Headache
+3757,7222,I10,Essential hypertension
+3758,7223,N39.0,Urinary tract infection
+3759,7227,M54.5,Low back pain
+3760,7229,F32.9,"Major depressive disorder, unspecified"
+3761,7233,E11,Type 2 diabetes mellitus
+3762,7234,J06.9,Acute upper respiratory infection
+3763,7236,E11,Type 2 diabetes mellitus  
+3764,7237,E11,Type 2 diabetes mellitus
+3765,7241,E11,Type 2 diabetes mellitus
+3766,7244,M54.5,Low back pain
+3767,7246,I25.1,Atherosclerotic heart disease
+3768,7248,J06.9,Acute upper respiratory infection
+3769,7250,I25.1,Atherosclerotic heart disease
+3770,7252,K21.9,Gastro-oesophageal reflux disease
+3771,7256,N39.0,Urinary tract infection
+3772,7258,J45.9,"ASTHMA, UNSPECIFIED"
+3773,7259,K21.9,Gastro-oesophageal reflux disease
+3774,7261,F32.9,"Major depressive disorder, unspecified"
+3775,7262,I10,Essential hypertension
+3776,7263,G43.9,"Migraine, unspecified"
+3777,7264,E11,TYPE 2 DIABETES MELLITUS
+3778,7265,J45.9,"ASTHMA, UNSPECIFIED"
+3779,7266,J45.9,"Asthma, unspecified"
+3780,7267,M17.9,Osteoarthritis of knee
+3781,7271,M54.5,Low back pain
+3782,7272,K21.9,Gastro-oesophageal reflux disease
+3783,7274,N39.0,Urinary tract infection
+3784,7275,M54.5,Low back pain
+3785,7277,M54.5,LOW BACK PAIN
+3786,7278,K21.9,GASTRO-OESOPHAGEAL REFLUX DISEASE
+3787,7279,C50.9,Malignant neoplasm of breast
+3788,7280,J45.9,"Asthma, unspecified"
+3789,7281,M54.5,Low back pain
+3790,7286,I10,Essential hypertension
+3791,7287,E11,Type 2 diabetes mellitus
+3792,7288,M17.9,Osteoarthritis of knee
+3793,7289,J45.9,"Asthma, unspecified"
+3794,7290,C50.9,Malignant neoplasm of breast
+3795,7291,J45.9,"Asthma, unspecified"
+3796,7292,N39.0,Urinary tract infection
+3797,7293,K21.9,Gastro-oesophageal reflux disease
+3798,7294,K21.9,Gastro-oesophageal reflux disease
+3799,7295,E11,Type 2 diabetes mellitus
+3800,7297,I10,Essential hypertension
+3801,7301,J45.9,"Asthma, unspecified"
+3802,7302,N39.0,Urinary tract infection
+3803,7304,F32.9,"Major depressive disorder, unspecified"
+3804,7305,F32.9,"Major depressive disorder, unspecified"
+3805,7307,N39.0,Urinary tract infection
+3806,7308,C50.9,Malignant neoplasm of breast
+3807,7310,E11,Type 2 diabetes mellitus
+3808,7311,I25.1,ATHEROSCLEROTIC HEART DISEASE
+3809,7312,L20.9,ATOPIC DERMATITIS  
+3810,7313,M17.9,Osteoarthritis of knee
+3811,7314,E78.5,"HYPERLIPIDAEMIA, UNSPECIFIED  "
+3812,7316,J06.9,Acute upper respiratory infection
+3813,7318,R51,HEADACHE
+3814,7322,G43.9,"Migraine, unspecified"
+3815,7323,G43.9,"Migraine, unspecified  "
+3816,7324,N39.0,Urinary tract infection
+3817,7325,G43.9,"Migraine, unspecified"
+3818,7326,R51,HEADACHE
+3819,7328,I10,Essential hypertension
+3820,7329,K21.9,Gastro-oesophageal reflux disease
+3821,7331,J06.9,Acute upper respiratory infection  
+3822,7332,E78.5,"Hyperlipidaemia, unspecified"
+3823,7333,K21.9,Gastro-oesophageal reflux disease
+3824,7338,R51,Headache
+3825,7340,M54.5,Low back pain
+3826,7341,C50.9,Malignant neoplasm of breast  
+3827,7343,M54.5,Low back pain
+3828,7346,C50.9,Malignant neoplasm of breast
+3829,7349,I10,Essential hypertension
+3830,7350,E11,Type 2 diabetes mellitus
+3831,7351,L20.9,Atopic dermatitis  
+3832,7355,N39.0,Urinary tract infection
+3833,7358,I25.1,Atherosclerotic heart disease  
+3834,7361,J45.9,"Asthma, unspecified"
+3835,7363,M54.5,Low back pain
+3836,7364,C50.9,Malignant neoplasm of breast
+3837,7365,C50.9,Malignant neoplasm of breast
+3838,7370,R51,Headache
+3839,7371,E78.5,"Hyperlipidaemia, unspecified"
+3840,7373,M17.9,Osteoarthritis of knee
+3841,7376,N39.0,Urinary tract infection
+3842,7377,E78.5,"Hyperlipidaemia, unspecified"
+3843,7378,J45.9,"Asthma, unspecified"
+3844,7379,J06.9,Acute upper respiratory infection
+3845,7381,J06.9,Acute upper respiratory infection
+3846,7383,L20.9,Atopic dermatitis
+3847,7385,F32.9,"Major depressive disorder, unspecified"
+3848,7387,F32.9,"Major depressive disorder, unspecified"
+3849,7391,M17.9,Osteoarthritis of knee
+3850,7399,E11,TYPE 2 DIABETES MELLITUS
+3851,7407,I25.1,Atherosclerotic heart disease
+3852,7409,R51,Headache  
+3853,7412,C50.9,Malignant neoplasm of breast
+3854,7413,K21.9,Gastro-oesophageal reflux disease
+3855,7414,C50.9,Malignant neoplasm of breast  
+3856,7416,R51,HEADACHE  
+3857,7419,N39.0,Urinary tract infection
+3858,7426,M17.9,Osteoarthritis of knee
+3859,7431,J06.9,Acute upper respiratory infection
+3860,7434,J06.9,Acute upper respiratory infection
+3861,7436,I25.1,Atherosclerotic heart disease
+3862,7438,I10,Essential hypertension
+3863,7439,E11,TYPE 2 DIABETES MELLITUS  
+3864,7442,R51,Headache
+3865,7444,J45.9,"Asthma, unspecified"
+3866,7445,I25.1,Atherosclerotic heart disease
+3867,7451,J45.9,"ASTHMA, UNSPECIFIED"
+3868,7454,N39.0,Urinary tract infection
+3869,7456,G43.9,"Migraine, unspecified"
+3870,7458,K21.9,Gastro-oesophageal reflux disease
+3871,7459,I10,Essential hypertension
+3872,7460,N39.0,Urinary tract infection  
+3873,7462,J06.9,Acute upper respiratory infection
+3874,7468,E11,Type 2 diabetes mellitus
+3875,7469,R51,Headache
+3876,7474,N39.0,Urinary tract infection
+3877,7478,J45.9,"Asthma, unspecified"
+3878,7479,M17.9,Osteoarthritis of knee
+3879,7480,E78.5,"Hyperlipidaemia, unspecified"
+3880,7482,E78.5,"Hyperlipidaemia, unspecified"
+3881,7486,C50.9,Malignant neoplasm of breast  
+3882,7488,M17.9,Osteoarthritis of knee
+3883,7491,M54.5,Low back pain
+3884,7492,I10,Essential hypertension
+3885,7494,G43.9,"Migraine, unspecified"
+3886,7495,C50.9,Malignant neoplasm of breast  
+3887,7496,J06.9,Acute upper respiratory infection
+3888,7501,J45.9,"Asthma, unspecified  "
+3889,7504,J06.9,Acute upper respiratory infection
+3890,7506,E78.5,"Hyperlipidaemia, unspecified"
+3891,7508,N39.0,Urinary tract infection
+3892,7512,C50.9,Malignant neoplasm of breast
+3893,7513,J45.9,"Asthma, unspecified"
+3894,7514,M17.9,Osteoarthritis of knee
+3895,7515,J06.9,Acute upper respiratory infection
+3896,7517,M17.9,Osteoarthritis of knee
+3897,7518,C50.9,Malignant neoplasm of breast  
+3898,7521,M54.5,Low back pain
+3899,7524,E11,Type 2 diabetes mellitus
+3900,7525,F32.9,"Major depressive disorder, unspecified"
+3901,7526,I25.1,ATHEROSCLEROTIC HEART DISEASE
+3902,7528,E78.5,"Hyperlipidaemia, unspecified"
+3903,7529,C50.9,MALIGNANT NEOPLASM OF BREAST
+3904,7531,I25.1,Atherosclerotic heart disease
+3905,7532,L20.9,Atopic dermatitis
+3906,7535,E11,Type 2 diabetes mellitus
+3907,7536,I10,ESSENTIAL HYPERTENSION
+3908,7539,R51,Headache
+3909,7545,E11,Type 2 diabetes mellitus
+3910,7546,G43.9,"Migraine, unspecified"
+3911,7548,I25.1,Atherosclerotic heart disease
+3912,7549,G43.9,"MIGRAINE, UNSPECIFIED"
+3913,7550,M17.9,Osteoarthritis of knee
+3914,7551,J06.9,Acute upper respiratory infection
+3915,7553,C50.9,Malignant neoplasm of breast
+3916,7555,R51,Headache
+3917,7557,L20.9,Atopic dermatitis
+3918,7558,F32.9,"Major depressive disorder, unspecified"
+3919,7561,C50.9,Malignant neoplasm of breast
+3920,7562,K21.9,GASTRO-OESOPHAGEAL REFLUX DISEASE
+3921,7564,N39.0,Urinary tract infection
+3922,7565,F32.9,"Major depressive disorder, unspecified  "
+3923,7566,F32.9,"Major depressive disorder, unspecified"
+3924,7568,R51,Headache
+3925,7569,E78.5,"Hyperlipidaemia, unspecified"
+3926,7570,R51,Headache
+3927,7571,C50.9,Malignant neoplasm of breast
+3928,7572,G43.9,"Migraine, unspecified"
+3929,7573,I10,Essential hypertension
+3930,7575,I10,ESSENTIAL HYPERTENSION
+3931,7576,J45.9,"Asthma, unspecified"
+3932,7577,M54.5,Low back pain
+3933,7579,J06.9,ACUTE UPPER RESPIRATORY INFECTION  
+3934,7581,M54.5,Low back pain
+3935,7585,E78.5,"Hyperlipidaemia, unspecified"
+3936,7586,R51,Headache
+3937,7588,I10,Essential hypertension
+3938,7594,R51,Headache
+3939,7595,I25.1,Atherosclerotic heart disease  
+3940,7596,K21.9,Gastro-oesophageal reflux disease
+3941,7602,E11,Type 2 diabetes mellitus
+3942,7607,J06.9,ACUTE UPPER RESPIRATORY INFECTION
+3943,7608,G43.9,"Migraine, unspecified"
+3944,7609,E78.5,"Hyperlipidaemia, unspecified"
+3945,7613,I25.1,Atherosclerotic heart disease
+3946,7614,K21.9,Gastro-oesophageal reflux disease
+3947,7615,R51,Headache
+3948,7617,C50.9,Malignant neoplasm of breast
+3949,7618,I10,Essential hypertension
+3950,7619,K21.9,Gastro-oesophageal reflux disease
+3951,7620,E11,Type 2 diabetes mellitus
+3952,7621,E78.5,"Hyperlipidaemia, unspecified"
+3953,7623,E78.5,"Hyperlipidaemia, unspecified"
+3954,7624,C50.9,Malignant neoplasm of breast
+3955,7625,L20.9,Atopic dermatitis
+3956,7626,M54.5,Low back pain
+3957,7628,C50.9,Malignant neoplasm of breast
+3958,7630,E78.5,"Hyperlipidaemia, unspecified"
+3959,7631,C50.9,Malignant neoplasm of breast
+3960,7632,E11,Type 2 diabetes mellitus  
+3961,7633,L20.9,Atopic dermatitis
+3962,7634,C50.9,Malignant neoplasm of breast
+3963,7635,L20.9,Atopic dermatitis
+3964,7636,N39.0,Urinary tract infection
+3965,7637,G43.9,"Migraine, unspecified"
+3966,7640,M54.5,LOW BACK PAIN
+3967,7641,M54.5,Low back pain
+3968,7642,N39.0,Urinary tract infection
+3969,7644,C50.9,Malignant neoplasm of breast
+3970,7645,K21.9,Gastro-oesophageal reflux disease
+3971,7646,L20.9,Atopic dermatitis
+3972,7647,K21.9,Gastro-oesophageal reflux disease
+3973,7650,K21.9,Gastro-oesophageal reflux disease  
+3974,7651,L20.9,Atopic dermatitis
+3975,7653,L20.9,Atopic dermatitis
+3976,7658,M17.9,OSTEOARTHRITIS OF KNEE
+3977,7660,E78.5,"Hyperlipidaemia, unspecified"
+3978,7662,E78.5,"Hyperlipidaemia, unspecified"
+3979,7663,M54.5,Low back pain  
+3980,7665,J06.9,Acute upper respiratory infection
+3981,7666,J06.9,Acute upper respiratory infection
+3982,7667,L20.9,Atopic dermatitis
+3983,7672,F32.9,"Major depressive disorder, unspecified"
+3984,7673,E11,Type 2 diabetes mellitus
+3985,7674,N39.0,Urinary tract infection  
+3986,7675,F32.9,"MAJOR DEPRESSIVE DISORDER, UNSPECIFIED  "
+3987,7679,I25.1,Atherosclerotic heart disease
+3988,7680,N39.0,Urinary tract infection
+3989,7681,J45.9,"Asthma, unspecified"
+3990,7683,C50.9,MALIGNANT NEOPLASM OF BREAST
+3991,7688,I10,Essential hypertension
+3992,7689,F32.9,"Major depressive disorder, unspecified"
+3993,7690,E78.5,"Hyperlipidaemia, unspecified"
+3994,7692,I10,Essential hypertension  
+3995,7695,J06.9,Acute upper respiratory infection
+3996,7698,I25.1,Atherosclerotic heart disease
+3997,7703,R51,Headache
+3998,7706,E11,Type 2 diabetes mellitus
+3999,7707,L20.9,Atopic dermatitis
+4000,7708,K21.9,Gastro-oesophageal reflux disease
+4001,7710,E78.5,"Hyperlipidaemia, unspecified"
+4002,7712,J45.9,"Asthma, unspecified"
+4003,7713,J06.9,Acute upper respiratory infection
+4004,7714,N39.0,Urinary tract infection
+4005,7716,K21.9,Gastro-oesophageal reflux disease
+4006,7717,I25.1,ATHEROSCLEROTIC HEART DISEASE  
+4007,7720,G43.9,"Migraine, unspecified"
+4008,7721,J45.9,"Asthma, unspecified"
+4009,7722,E11,Type 2 diabetes mellitus
+4010,7724,C50.9,Malignant neoplasm of breast
+4011,7726,J45.9,"Asthma, unspecified"
+4012,7728,F32.9,"Major depressive disorder, unspecified"
+4013,7729,L20.9,Atopic dermatitis
+4014,7731,K21.9,Gastro-oesophageal reflux disease
+4015,7732,E78.5,"Hyperlipidaemia, unspecified"
+4016,7734,J45.9,"Asthma, unspecified  "
+4017,7738,J45.9,"Asthma, unspecified"
+4018,7739,G43.9,"Migraine, unspecified"
+4019,7744,L20.9,Atopic dermatitis
+4020,7747,F32.9,"MAJOR DEPRESSIVE DISORDER, UNSPECIFIED  "
+4021,7749,M17.9,Osteoarthritis of knee
+4022,7751,M17.9,OSTEOARTHRITIS OF KNEE
+4023,7752,L20.9,Atopic dermatitis
+4024,7754,E11,Type 2 diabetes mellitus
+4025,7757,K21.9,Gastro-oesophageal reflux disease
+4026,7761,J06.9,Acute upper respiratory infection  
+4027,7763,M54.5,Low back pain
+4028,7765,F32.9,"Major depressive disorder, unspecified"
+4029,7767,C50.9,Malignant neoplasm of breast
+4030,7769,E78.5,"Hyperlipidaemia, unspecified"
+4031,7772,E11,Type 2 diabetes mellitus
+4032,7773,L20.9,Atopic dermatitis
+4033,7775,J06.9,Acute upper respiratory infection  
+4034,7780,K21.9,Gastro-oesophageal reflux disease
+4035,7782,G43.9,"Migraine, unspecified"
+4036,7783,K21.9,GASTRO-OESOPHAGEAL REFLUX DISEASE
+4037,7784,G43.9,"MIGRAINE, UNSPECIFIED"
+4038,7785,E78.5,"Hyperlipidaemia, unspecified"
+4039,7790,E11,TYPE 2 DIABETES MELLITUS
+4040,7792,R51,Headache
+4041,7795,L20.9,Atopic dermatitis
+4042,7796,F32.9,"Major depressive disorder, unspecified"
+4043,7797,I10,Essential hypertension
+4044,7798,G43.9,"Migraine, unspecified"
+4045,7799,N39.0,Urinary tract infection
+4046,7800,L20.9,Atopic dermatitis
+4047,7801,I25.1,Atherosclerotic heart disease
+4048,7802,E11,Type 2 diabetes mellitus
+4049,7803,E78.5,"Hyperlipidaemia, unspecified"
+4050,7805,L20.9,ATOPIC DERMATITIS
+4051,7809,M54.5,Low back pain
+4052,7810,K21.9,Gastro-oesophageal reflux disease
+4053,7812,M17.9,Osteoarthritis of knee
+4054,7814,F32.9,"MAJOR DEPRESSIVE DISORDER, UNSPECIFIED"
+4055,7816,I10,ESSENTIAL HYPERTENSION
+4056,7817,I25.1,Atherosclerotic heart disease
+4057,7819,M17.9,Osteoarthritis of knee
+4058,7821,M54.5,Low back pain
+4059,7822,I10,Essential hypertension
+4060,7827,N39.0,URINARY TRACT INFECTION
+4061,7832,F32.9,"Major depressive disorder, unspecified"
+4062,7835,C50.9,Malignant neoplasm of breast
+4063,7837,L20.9,Atopic dermatitis
+4064,7838,K21.9,Gastro-oesophageal reflux disease
+4065,7844,I10,Essential hypertension
+4066,7845,E78.5,"Hyperlipidaemia, unspecified"
+4067,7846,E11,Type 2 diabetes mellitus  
+4068,7847,I25.1,Atherosclerotic heart disease
+4069,7848,K21.9,Gastro-oesophageal reflux disease
+4070,7849,J45.9,"Asthma, unspecified"
+4071,7852,G43.9,"Migraine, unspecified"
+4072,7854,I10,ESSENTIAL HYPERTENSION
+4073,7855,L20.9,Atopic dermatitis
+4074,7856,L20.9,Atopic dermatitis
+4075,7864,K21.9,Gastro-oesophageal reflux disease
+4076,7865,I25.1,Atherosclerotic heart disease  
+4077,7867,J45.9,"Asthma, unspecified"
+4078,7868,M54.5,Low back pain
+4079,7869,M17.9,Osteoarthritis of knee
+4080,7870,I25.1,Atherosclerotic heart disease
+4081,7871,G43.9,"Migraine, unspecified"
+4082,7872,F32.9,"Major depressive disorder, unspecified"
+4083,7874,K21.9,Gastro-oesophageal reflux disease
+4084,7876,J45.9,"Asthma, unspecified"
+4085,7878,M54.5,Low back pain  
+4086,7879,I10,Essential hypertension
+4087,7885,L20.9,Atopic dermatitis
+4088,7886,J06.9,Acute upper respiratory infection
+4089,7890,N39.0,URINARY TRACT INFECTION
+4090,7891,I10,Essential hypertension
+4091,7893,L20.9,Atopic dermatitis
+4092,7895,J45.9,"Asthma, unspecified"
+4093,7897,I10,Essential hypertension
+4094,7900,C50.9,Malignant neoplasm of breast
+4095,7910,F32.9,"Major depressive disorder, unspecified"
+4096,7914,J45.9,"Asthma, unspecified"
+4097,7917,J06.9,Acute upper respiratory infection
+4098,7918,J06.9,Acute upper respiratory infection
+4099,7920,N39.0,Urinary tract infection
+4100,7921,M54.5,Low back pain
+4101,7922,C50.9,Malignant neoplasm of breast
+4102,7925,J06.9,Acute upper respiratory infection
+4103,7926,M54.5,Low back pain
+4104,7929,G43.9,"Migraine, unspecified"
+4105,7931,J45.9,"Asthma, unspecified"
+4106,7934,E11,Type 2 diabetes mellitus
+4107,7936,M17.9,Osteoarthritis of knee
+4108,7937,C50.9,Malignant neoplasm of breast
+4109,7941,N39.0,Urinary tract infection
+4110,7942,J45.9,"Asthma, unspecified"
+4111,7943,L20.9,Atopic dermatitis
+4112,7944,G43.9,"Migraine, unspecified"
+4113,7946,M17.9,Osteoarthritis of knee
+4114,7948,J06.9,Acute upper respiratory infection
+4115,7949,C50.9,Malignant neoplasm of breast
+4116,7951,J45.9,"Asthma, unspecified"
+4117,7953,N39.0,URINARY TRACT INFECTION  
+4118,7956,E78.5,"Hyperlipidaemia, unspecified"
+4119,7957,J45.9,"Asthma, unspecified"
+4120,7959,E11,Type 2 diabetes mellitus
+4121,7961,M17.9,Osteoarthritis of knee
+4122,7962,C50.9,MALIGNANT NEOPLASM OF BREAST
+4123,7968,M17.9,Osteoarthritis of knee
+4124,7969,N39.0,URINARY TRACT INFECTION
+4125,7970,K21.9,Gastro-oesophageal reflux disease
+4126,7971,M54.5,Low back pain
+4127,7973,I25.1,Atherosclerotic heart disease
+4128,7976,C50.9,Malignant neoplasm of breast
+4129,7977,f329,"Major depressive disorder, unspecified"
+4130,7978,C50.9,Malignant neoplasm of breast
+4131,7979,K21.9,Gastro-oesophageal reflux disease
+4132,7980,E78.5,"Hyperlipidaemia, unspecified"
+4133,7981,J06.9,Acute upper respiratory infection
+4134,7982,I25.1,Atherosclerotic heart disease
+4135,7983,C50.9,Malignant neoplasm of breast
+4136,7984,E11,Type 2 diabetes mellitus
+4137,7985,G43.9,"MIGRAINE, UNSPECIFIED"
+4138,7990,J06.9,Acute upper respiratory infection
+4139,7994,J45.9,"Asthma, unspecified"
+4140,7995,R51,Headache  
+4141,7996,M17.9,Osteoarthritis of knee
+4142,8002,R51,Headache
+4143,8003,J06.9,Acute upper respiratory infection  
+4144,8004,C50.9,Malignant neoplasm of breast
+4145,8008,I10,Essential hypertension
+4146,8009,J06.9,Acute upper respiratory infection
+4147,8012,E11,Type 2 diabetes mellitus
+4148,8013,J06.9,Acute upper respiratory infection
+4149,8015,N39.0,Urinary tract infection
+4150,8018,R51,Headache
+4151,8019,L20.9,Atopic dermatitis
+4152,8021,G43.9,"Migraine, unspecified"
+4153,8024,E11,Type 2 diabetes mellitus
+4154,8025,I25.1,Atherosclerotic heart disease
+4155,8027,R51,Headache
+4156,8028,J06.9,Acute upper respiratory infection
+4157,8029,I10,Essential hypertension
+4158,8031,E11,Type 2 diabetes mellitus
+4159,8033,M17.9,Osteoarthritis of knee
+4160,8035,K21.9,GASTRO-OESOPHAGEAL REFLUX DISEASE
+4161,8038,C50.9,Malignant neoplasm of breast
+4162,8039,C50.9,Malignant neoplasm of breast
+4163,8040,E11,Type 2 diabetes mellitus
+4164,8046,N39.0,Urinary tract infection
+4165,8047,M17.9,Osteoarthritis of knee
+4166,8048,M17.9,Osteoarthritis of knee
+4167,8050,J45.9,"ASTHMA, UNSPECIFIED"
+4168,8051,I25.1,Atherosclerotic heart disease
+4169,8055,K21.9,Gastro-oesophageal reflux disease
+4170,8058,I25.1,Atherosclerotic heart disease
+4171,8062,K21.9,Gastro-oesophageal reflux disease
+4172,8063,M54.5,Low back pain
+4173,8065,C50.9,Malignant neoplasm of breast
+4174,8069,F32.9,"Major depressive disorder, unspecified"
+4175,8071,M17.9,Osteoarthritis of knee
+4176,8072,C50.9,Malignant neoplasm of breast
+4177,8074,I25.1,Atherosclerotic heart disease
+4178,8075,C50.9,Malignant neoplasm of breast
+4179,8076,M54.5,Low back pain
+4180,8077,N39.0,Urinary tract infection
+4181,8079,M54.5,Low back pain
+4182,8082,N39.0,Urinary tract infection  
+4183,8084,I10,Essential hypertension
+4184,8086,R51,Headache
+4185,8087,E11,Type 2 diabetes mellitus
+4186,8088,I25.1,Atherosclerotic heart disease
+4187,8090,E78.5,"HYPERLIPIDAEMIA, UNSPECIFIED"
+4188,8091,J06.9,Acute upper respiratory infection
+4189,8092,L20.9,ATOPIC DERMATITIS
+4190,8093,M17.9,Osteoarthritis of knee
+4191,8094,E78.5,"Hyperlipidaemia, unspecified"
+4192,8095,I25.1,Atherosclerotic heart disease
+4193,8096,N39.0,Urinary tract infection
+4194,8097,C50.9,Malignant neoplasm of breast
+4195,8098,J06.9,Acute upper respiratory infection
+4196,8099,K21.9,Gastro-oesophageal reflux disease
+4197,8100,L20.9,Atopic dermatitis
+4198,8101,J45.9,"Asthma, unspecified"
+4199,8102,I10,Essential hypertension  
+4200,8103,I10,Essential hypertension
+4201,8107,K21.9,GASTRO-OESOPHAGEAL REFLUX DISEASE
+4202,8109,E78.5,"Hyperlipidaemia, unspecified"
+4203,8110,J06.9,Acute upper respiratory infection
+4204,8112,G43.9,"Migraine, unspecified"
+4205,8113,R51,Headache
+4206,8115,I10,Essential hypertension
+4207,8116,J45.9,"Asthma, unspecified"
+4208,8117,R51,Headache  
+4209,8118,I10,Essential hypertension
+4210,8119,J06.9,ACUTE UPPER RESPIRATORY INFECTION
+4211,8121,E78.5,"Hyperlipidaemia, unspecified  "
+4212,8122,K21.9,Gastro-oesophageal reflux disease
+4213,8124,I25.1,Atherosclerotic heart disease
+4214,8125,I10,Essential hypertension
+4215,8126,I10,Essential hypertension
+4216,8128,M54.5,Low back pain  
+4217,8129,L20.9,Atopic dermatitis
+4218,8131,G43.9,"Migraine, unspecified"
+4219,8133,M54.5,Low back pain
+4220,8134,E11,Type 2 diabetes mellitus
+4221,8138,G43.9,"MIGRAINE, UNSPECIFIED  "
+4222,8139,L20.9,Atopic dermatitis
+4223,8142,C50.9,Malignant neoplasm of breast
+4224,8144,I25.1,Atherosclerotic heart disease  
+4225,8147,G43.9,"Migraine, unspecified"
+4226,8151,J06.9,Acute upper respiratory infection  
+4227,8152,I10,ESSENTIAL HYPERTENSION
+4228,8154,I10,ESSENTIAL HYPERTENSION
+4229,8155,G43.9,"Migraine, unspecified"
+4230,8157,I25.1,Atherosclerotic heart disease
+4231,8158,I25.1,Atherosclerotic heart disease
+4232,8163,M54.5,Low back pain
+4233,8165,R51,Headache
+4234,8166,R51,Headache
+4235,8168,K21.9,Gastro-oesophageal reflux disease
+4236,8173,N39.0,Urinary tract infection
+4237,8174,K21.9,GASTRO-OESOPHAGEAL REFLUX DISEASE
+4238,8175,N39.0,Urinary tract infection
+4239,8177,J06.9,Acute upper respiratory infection  
+4240,8179,E11,Type 2 diabetes mellitus
+4241,8180,R51,Headache
+4242,8181,N39.0,Urinary tract infection
+4243,8187,N39.0,Urinary tract infection
+4244,8189,C50.9,Malignant neoplasm of breast
+4245,8190,C50.9,Malignant neoplasm of breast
+4246,8191,G43.9,"Migraine, unspecified"
+4247,8192,M17.9,Osteoarthritis of knee
+4248,8193,J45.9,"Asthma, unspecified"
+4249,8194,M54.5,Low back pain
+4250,8196,I10,Essential hypertension
+4251,8200,F32.9,"Major depressive disorder, unspecified"
+4252,8201,C50.9,Malignant neoplasm of breast
+4253,8205,E11,TYPE 2 DIABETES MELLITUS
+4254,8207,J06.9,Acute upper respiratory infection
+4255,8208,R51,HEADACHE
+4256,8211,C50.9,Malignant neoplasm of breast
+4257,8212,E78.5,"Hyperlipidaemia, unspecified"
+4258,8214,L20.9,Atopic dermatitis
+4259,8215,L20.9,Atopic dermatitis  
+4260,8216,F32.9,"Major depressive disorder, unspecified"
+4261,8217,M54.5,Low back pain
+4262,8218,R51,Headache
+4263,8219,E78.5,"Hyperlipidaemia, unspecified"
+4264,8220,F32.9,"Major depressive disorder, unspecified"
+4265,8222,I25.1,Atherosclerotic heart disease
+4266,8223,G43.9,"Migraine, unspecified"
+4267,8227,G43.9,"Migraine, unspecified"
+4268,8231,I25.1,Atherosclerotic heart disease
+4269,8232,F32.9,"Major depressive disorder, unspecified"
+4270,8233,M54.5,Low back pain
+4271,8235,J45.9,"Asthma, unspecified"
+4272,8242,E78.5,"Hyperlipidaemia, unspecified  "
+4273,8243,K21.9,Gastro-oesophageal reflux disease
+4274,8244,M54.5,LOW BACK PAIN
+4275,8245,G43.9,"Migraine, unspecified"
+4276,8247,C50.9,Malignant neoplasm of breast
+4277,8248,N39.0,Urinary tract infection  
+4278,8249,J45.9,"Asthma, unspecified"
+4279,8250,N39.0,Urinary tract infection
+4280,8251,F32.9,"Major depressive disorder, unspecified"
+4281,8252,L20.9,Atopic dermatitis
+4282,8253,R51,HEADACHE
+4283,8254,I10,Essential hypertension
+4284,8257,M54.5,Low back pain
+4285,8261,F32.9,"Major depressive disorder, unspecified"
+4286,8262,L20.9,ATOPIC DERMATITIS
+4287,8263,G43.9,"Migraine, unspecified"
+4288,8264,E78.5,"Hyperlipidaemia, unspecified"
+4289,8266,E78.5,"Hyperlipidaemia, unspecified"
+4290,8270,M54.5,Low back pain
+4291,8271,I25.1,Atherosclerotic heart disease  
+4292,8274,F32.9,"Major depressive disorder, unspecified"
+4293,8278,M54.5,Low back pain
+4294,8279,M54.5,Low back pain
+4295,8281,M54.5,Low back pain
+4296,8283,E78.5,"Hyperlipidaemia, unspecified"
+4297,8284,G43.9,"Migraine, unspecified"
+4298,8285,I25.1,Atherosclerotic heart disease  
+4299,8288,I10,Essential hypertension
+4300,8289,F32.9,"Major depressive disorder, unspecified"
+4301,8291,E11,Type 2 diabetes mellitus
+4302,8292,F32.9,"Major depressive disorder, unspecified"
+4303,8293,J06.9,Acute upper respiratory infection
+4304,8295,I25.1,Atherosclerotic heart disease
+4305,8296,N39.0,Urinary tract infection
+4306,8297,N39.0,Urinary tract infection
+4307,8299,E11,Type 2 diabetes mellitus
+4308,8300,I10,Essential hypertension  
+4309,8303,F32.9,"Major depressive disorder, unspecified"
+4310,8306,E11,Type 2 diabetes mellitus
+4311,8310,E11,Type 2 diabetes mellitus
+4312,8311,M54.5,Low back pain
+4313,8315,I25.1,ATHEROSCLEROTIC HEART DISEASE
+4314,8323,K21.9,Gastro-oesophageal reflux disease
+4315,8324,G43.9,"Migraine, unspecified"
+4316,8325,L20.9,Atopic dermatitis
+4317,8327,F32.9,"MAJOR DEPRESSIVE DISORDER, UNSPECIFIED"
+4318,8328,M17.9,Osteoarthritis of knee
+4319,8329,G43.9,"Migraine, unspecified"
+4320,8332,E11,Type 2 diabetes mellitus
+4321,8334,J45.9,"Asthma, unspecified"
+4322,8338,M54.5,LOW BACK PAIN
+4323,8339,R51,Headache
+4324,8341,J45.9,"Asthma, unspecified  "
+4325,8343,E78.5,"Hyperlipidaemia, unspecified"
+4326,8346,E78.5,"Hyperlipidaemia, unspecified"
+4327,8347,K21.9,Gastro-oesophageal reflux disease
+4328,8348,I10,Essential hypertension
+4329,8349,L20.9,Atopic dermatitis
+4330,8351,R51,Headache
+4331,8352,L20.9,Atopic dermatitis
+4332,8360,R51,Headache  
+4333,8364,J45.9,"Asthma, unspecified"
+4334,8367,F32.9,"Major depressive disorder, unspecified"
+4335,8370,N39.0,Urinary tract infection
+4336,8371,K21.9,GASTRO-OESOPHAGEAL REFLUX DISEASE
+4337,8373,R51,Headache
+4338,8374,M54.5,LOW BACK PAIN
+4339,8375,L20.9,Atopic dermatitis
+4340,8376,R51,Headache
+4341,8377,J45.9,"Asthma, unspecified  "
+4342,8378,E78.5,"Hyperlipidaemia, unspecified"
+4343,8379,K21.9,Gastro-oesophageal reflux disease
+4344,8380,K21.9,Gastro-oesophageal reflux disease
+4345,8383,E11,Type 2 diabetes mellitus
+4346,8384,R51,Headache  
+4347,8388,I10,Essential hypertension
+4348,8390,I25.1,Atherosclerotic heart disease
+4349,8391,L20.9,ATOPIC DERMATITIS  
+4350,8392,L20.9,Atopic dermatitis
+4351,8393,J45.9,"Asthma, unspecified"
+4352,8396,N39.0,Urinary tract infection
+4353,8397,I25.1,Atherosclerotic heart disease
+4354,8400,J45.9,"Asthma, unspecified"
+4355,8401,i10,Essential hypertension
+4356,8402,C50.9,Malignant neoplasm of breast
+4357,8403,L20.9,Atopic dermatitis
+4358,8404,I25.1,Atherosclerotic heart disease
+4359,8405,F32.9,"Major depressive disorder, unspecified"
+4360,8406,M17.9,Osteoarthritis of knee
+4361,8412,N39.0,URINARY TRACT INFECTION
+4362,8414,G43.9,"Migraine, unspecified"
+4363,8415,K21.9,Gastro-oesophageal reflux disease  
+4364,8417,I10,Essential hypertension  
+4365,8418,E78.5,"Hyperlipidaemia, unspecified"
+4366,8419,R51,Headache
+4367,8427,J45.9,"Asthma, unspecified"
+4368,8430,M54.5,LOW BACK PAIN
+4369,8431,E11,Type 2 diabetes mellitus
+4370,8432,G43.9,"Migraine, unspecified"
+4371,8437,M17.9,Osteoarthritis of knee
+4372,8438,G43.9,"Migraine, unspecified"
+4373,8439,M54.5,Low back pain
+4374,8440,E78.5,"Hyperlipidaemia, unspecified"
+4375,8441,M54.5,Low back pain
+4376,8442,F32.9,"Major depressive disorder, unspecified"
+4377,8444,J45.9,"Asthma, unspecified"
+4378,8445,M54.5,Low back pain
+4379,8446,K21.9,Gastro-oesophageal reflux disease
+4380,8448,I25.1,Atherosclerotic heart disease
+4381,8450,E78.5,"Hyperlipidaemia, unspecified"
+4382,8454,G43.9,"Migraine, unspecified"
+4383,8455,J06.9,Acute upper respiratory infection
+4384,8456,E11,Type 2 diabetes mellitus
+4385,8457,L20.9,Atopic dermatitis
+4386,8459,G43.9,"MIGRAINE, UNSPECIFIED"
+4387,8460,K21.9,GASTRO-OESOPHAGEAL REFLUX DISEASE
+4388,8463,E11,Type 2 diabetes mellitus
+4389,8464,E11,Type 2 diabetes mellitus
+4390,8465,N39.0,Urinary tract infection
+4391,8467,C50.9,Malignant neoplasm of breast
+4392,8469,R51,Headache
+4393,8471,M17.9,Osteoarthritis of knee
+4394,8472,R51,Headache
+4395,8475,L20.9,Atopic dermatitis
+4396,8476,L20.9,Atopic dermatitis
+4397,8477,M17.9,Osteoarthritis of knee
+4398,8478,K21.9,Gastro-oesophageal reflux disease
+4399,8481,M17.9,Osteoarthritis of knee
+4400,8482,L20.9,Atopic dermatitis
+4401,8483,M54.5,Low back pain  
+4402,8484,C50.9,Malignant neoplasm of breast  
+4403,8485,M54.5,Low back pain
+4404,8486,F32.9,"Major depressive disorder, unspecified  "
+4405,8489,E11,Type 2 diabetes mellitus
+4406,8490,L20.9,ATOPIC DERMATITIS
+4407,8491,C50.9,Malignant neoplasm of breast
+4408,8492,G43.9,"Migraine, unspecified"
+4409,8493,K21.9,Gastro-oesophageal reflux disease
+4410,8495,I10,Essential hypertension  
+4411,8502,C50.9,Malignant neoplasm of breast
+4412,8503,R51,HEADACHE
+4413,8504,I25.1,Atherosclerotic heart disease  
+4414,8505,R51,Headache
+4415,8506,M54.5,Low back pain
+4416,8507,M54.5,LOW BACK PAIN
+4417,8509,C50.9,Malignant neoplasm of breast  
+4418,8511,C50.9,Malignant neoplasm of breast
+4419,8513,L20.9,Atopic dermatitis
+4420,8522,J06.9,Acute upper respiratory infection
+4421,8523,E11,Type 2 diabetes mellitus
+4422,8525,K21.9,Gastro-oesophageal reflux disease
+4423,8526,M54.5,Low back pain
+4424,8529,C50.9,MALIGNANT NEOPLASM OF BREAST
+4425,8531,C50.9,Malignant neoplasm of breast
+4426,8532,M54.5,Low back pain
+4427,8534,R51,Headache
+4428,8537,R51,Headache
+4429,8538,J45.9,"Asthma, unspecified"
+4430,8541,R51,Headache
+4431,8542,E78.5,"HYPERLIPIDAEMIA, UNSPECIFIED"
+4432,8545,C50.9,Malignant neoplasm of breast
+4433,8546,J06.9,ACUTE UPPER RESPIRATORY INFECTION
+4434,8547,R51,Headache
+4435,8549,I10,Essential hypertension
+4436,8550,L20.9,Atopic dermatitis
+4437,8551,L20.9,Atopic dermatitis
+4438,8552,L20.9,Atopic dermatitis
+4439,8553,M17.9,Osteoarthritis of knee
+4440,8554,E11,Type 2 diabetes mellitus
+4441,8556,R51,Headache
+4442,8557,E11,Type 2 diabetes mellitus
+4443,8561,E78.5,"HYPERLIPIDAEMIA, UNSPECIFIED"
+4444,8567,J06.9,Acute upper respiratory infection
+4445,8568,I10,Essential hypertension
+4446,8570,G43.9,"Migraine, unspecified"
+4447,8571,I25.1,Atherosclerotic heart disease
+4448,8572,J45.9,"Asthma, unspecified  "
+4449,8573,R51,Headache
+4450,8576,E78.5,"Hyperlipidaemia, unspecified"
+4451,8578,E11,Type 2 diabetes mellitus
+4452,8579,E78.5,"Hyperlipidaemia, unspecified"
+4453,8580,E11,Type 2 diabetes mellitus  
+4454,8581,E11,Type 2 diabetes mellitus
+4455,8582,K21.9,Gastro-oesophageal reflux disease
+4456,8583,C50.9,Malignant neoplasm of breast
+4457,8585,J45.9,"Asthma, unspecified"
+4458,8586,N39.0,Urinary tract infection
+4459,8587,F32.9,"MAJOR DEPRESSIVE DISORDER, UNSPECIFIED"
+4460,8588,E11,Type 2 diabetes mellitus
+4461,8589,E11,Type 2 diabetes mellitus
+4462,8590,R51,Headache
+4463,8593,K21.9,Gastro-oesophageal reflux disease
+4464,8595,M54.5,Low back pain
+4465,8596,E78.5,"Hyperlipidaemia, unspecified"
+4466,8598,R51,Headache
+4467,8599,K21.9,Gastro-oesophageal reflux disease
+4468,8600,J06.9,Acute upper respiratory infection
+4469,8601,E78.5,"Hyperlipidaemia, unspecified"
+4470,8603,E11,Type 2 diabetes mellitus
+4471,8604,J06.9,Acute upper respiratory infection  
+4472,8605,I25.1,Atherosclerotic heart disease
+4473,8606,E78.5,"Hyperlipidaemia, unspecified"
+4474,8607,R51,Headache  
+4475,8608,J45.9,"Asthma, unspecified"
+4476,8610,J06.9,Acute upper respiratory infection
+4477,8613,I10,Essential hypertension
+4478,8614,M17.9,Osteoarthritis of knee  
+4479,8615,M54.5,Low back pain
+4480,8617,J45.9,"Asthma, unspecified"
+4481,8620,G43.9,"Migraine, unspecified"
+4482,8621,K21.9,Gastro-oesophageal reflux disease
+4483,8622,G43.9,"Migraine, unspecified"
+4484,8624,K21.9,Gastro-oesophageal reflux disease
+4485,8625,G43.9,"Migraine, unspecified"
+4486,8626,I25.1,ATHEROSCLEROTIC HEART DISEASE
+4487,8627,M54.5,Low back pain
+4488,8629,J45.9,"Asthma, unspecified"
+4489,8630,J45.9,"Asthma, unspecified"
+4490,8635,R51,Headache
+4491,8637,I25.1,Atherosclerotic heart disease
+4492,8638,G43.9,"Migraine, unspecified"
+4493,8639,L20.9,Atopic dermatitis
+4494,8640,L20.9,Atopic dermatitis
+4495,8643,M17.9,Osteoarthritis of knee
+4496,8645,I25.1,Atherosclerotic heart disease
+4497,8646,I10,Essential hypertension
+4498,8649,M17.9,Osteoarthritis of knee
+4499,8650,F32.9,"Major depressive disorder, unspecified"
+4500,8652,J45.9,"Asthma, unspecified"
+4501,8653,G43.9,"Migraine, unspecified"
+4502,8656,E11,Type 2 diabetes mellitus
+4503,8658,J45.9,"Asthma, unspecified"
+4504,8659,G43.9,"Migraine, unspecified  "
+4505,8662,J06.9,Acute upper respiratory infection
+4506,8664,M17.9,Osteoarthritis of knee
+4507,8665,K21.9,Gastro-oesophageal reflux disease
+4508,8666,J45.9,"Asthma, unspecified"
+4509,8667,N39.0,Urinary tract infection
+4510,8668,K21.9,Gastro-oesophageal reflux disease
+4511,8670,E11,Type 2 diabetes mellitus
+4512,8671,E11,Type 2 diabetes mellitus
+4513,8672,L20.9,Atopic dermatitis
+4514,8674,C50.9,Malignant neoplasm of breast
+4515,8678,L20.9,Atopic dermatitis
+4516,8679,J06.9,ACUTE UPPER RESPIRATORY INFECTION
+4517,8681,I10,Essential hypertension
+4518,8684,I25.1,Atherosclerotic heart disease
+4519,8687,M54.5,Low back pain
+4520,8688,L20.9,Atopic dermatitis
+4521,8691,G43.9,"Migraine, unspecified"
+4522,8692,J06.9,Acute upper respiratory infection
+4523,8694,K21.9,Gastro-oesophageal reflux disease
+4524,8696,E78.5,"Hyperlipidaemia, unspecified"
+4525,8701,M17.9,Osteoarthritis of knee  
+4526,8704,N39.0,Urinary tract infection
+4527,8709,N39.0,Urinary tract infection
+4528,8710,M54.5,Low back pain
+4529,8711,M54.5,Low back pain
+4530,8712,I25.1,Atherosclerotic heart disease
+4531,8714,I25.1,Atherosclerotic heart disease
+4532,8715,G43.9,"Migraine, unspecified"
+4533,8716,M17.9,Osteoarthritis of knee
+4534,8717,J45.9,"ASTHMA, UNSPECIFIED"
+4535,8718,R51,Headache
+4536,8719,N39.0,Urinary tract infection
+4537,8721,E11,Type 2 diabetes mellitus
+4538,8722,K21.9,Gastro-oesophageal reflux disease
+4539,8723,L20.9,ATOPIC DERMATITIS
+4540,8727,C50.9,Malignant neoplasm of breast
+4541,8729,E78.5,"Hyperlipidaemia, unspecified"
+4542,8731,G43.9,"Migraine, unspecified"
+4543,8736,N39.0,URINARY TRACT INFECTION  
+4544,8739,N39.0,Urinary tract infection
+4545,8740,L20.9,ATOPIC DERMATITIS
+4546,8741,J45.9,"Asthma, unspecified"
+4547,8742,R51,Headache
+4548,8744,E78.5,"HYPERLIPIDAEMIA, UNSPECIFIED"
+4549,8747,R51,Headache
+4550,8751,L20.9,ATOPIC DERMATITIS
+4551,8753,J06.9,Acute upper respiratory infection
+4552,8754,G43.9,"Migraine, unspecified"
+4553,8758,E78.5,"Hyperlipidaemia, unspecified"
+4554,8760,L20.9,Atopic dermatitis
+4555,8761,N39.0,Urinary tract infection  
+4556,8763,R51,Headache
+4557,8766,K21.9,Gastro-oesophageal reflux disease
+4558,8768,N39.0,Urinary tract infection
+4559,8769,N39.0,Urinary tract infection  
+4560,8770,I10,ESSENTIAL HYPERTENSION  
+4561,8771,K21.9,Gastro-oesophageal reflux disease
+4562,8772,J45.9,"Asthma, unspecified"
+4563,8774,I25.1,Atherosclerotic heart disease  
+4564,8775,M17.9,Osteoarthritis of knee
+4565,8776,K21.9,Gastro-oesophageal reflux disease
+4566,8779,I25.1,Atherosclerotic heart disease
+4567,8782,I10,Essential hypertension
+4568,8783,I25.1,Atherosclerotic heart disease
+4569,8784,F32.9,"Major depressive disorder, unspecified"
+4570,8785,I25.1,Atherosclerotic heart disease
+4571,8786,C50.9,Malignant neoplasm of breast
+4572,8788,M17.9,Osteoarthritis of knee
+4573,8791,G43.9,"Migraine, unspecified"
+4574,8793,M17.9,Osteoarthritis of knee
+4575,8797,I10,Essential hypertension
+4576,8798,G43.9,"Migraine, unspecified"
+4577,8799,M17.9,Osteoarthritis of knee
+4578,8800,N39.0,Urinary tract infection
+4579,8801,M54.5,Low back pain
+4580,8802,J06.9,Acute upper respiratory infection  
+4581,8803,G43.9,"Migraine, unspecified"
+4582,8804,I25.1,ATHEROSCLEROTIC HEART DISEASE
+4583,8805,L20.9,Atopic dermatitis
+4584,8807,M54.5,Low back pain
+4585,8808,I25.1,Atherosclerotic heart disease
+4586,8809,J45.9,"Asthma, unspecified"
+4587,8810,I10,Essential hypertension
+4588,8812,N39.0,Urinary tract infection
+4589,8813,L20.9,Atopic dermatitis
+4590,8814,K21.9,Gastro-oesophageal reflux disease
+4591,8816,J06.9,Acute upper respiratory infection
+4592,8820,F32.9,"Major depressive disorder, unspecified"
+4593,8821,G43.9,"Migraine, unspecified"
+4594,8826,F32.9,"Major depressive disorder, unspecified"
+4595,8829,C50.9,Malignant neoplasm of breast
+4596,8831,N39.0,Urinary tract infection
+4597,8832,C50.9,Malignant neoplasm of breast  
+4598,8833,J06.9,ACUTE UPPER RESPIRATORY INFECTION
+4599,8834,K21.9,Gastro-oesophageal reflux disease
+4600,8836,C50.9,Malignant neoplasm of breast
+4601,8837,E11,Type 2 diabetes mellitus
+4602,8840,C50.9,Malignant neoplasm of breast
+4603,8842,E11,Type 2 diabetes mellitus
+4604,8843,C50.9,MALIGNANT NEOPLASM OF BREAST
+4605,8846,I10,Essential hypertension
+4606,8849,F32.9,"Major depressive disorder, unspecified"
+4607,8850,I10,Essential hypertension
+4608,8852,E78.5,"Hyperlipidaemia, unspecified"
+4609,8853,L20.9,Atopic dermatitis
+4610,8854,J45.9,"Asthma, unspecified"
+4611,8855,I10,Essential hypertension
+4612,8856,R51,Headache
+4613,8857,F32.9,"Major depressive disorder, unspecified"
+4614,8860,M17.9,Osteoarthritis of knee
+4615,8865,I25.1,Atherosclerotic heart disease
+4616,8867,F32.9,"Major depressive disorder, unspecified"
+4617,8868,R51,Headache
+4618,8869,J45.9,"Asthma, unspecified  "
+4619,8870,L20.9,Atopic dermatitis
+4620,8871,K21.9,Gastro-oesophageal reflux disease
+4621,8872,E78.5,"HYPERLIPIDAEMIA, UNSPECIFIED"
+4622,8874,F32.9,"Major depressive disorder, unspecified"
+4623,8876,J45.9,"Asthma, unspecified"
+4624,8877,I25.1,Atherosclerotic heart disease
+4625,8878,I10,Essential hypertension
+4626,8879,N39.0,Urinary tract infection
+4627,8880,E78.5,"Hyperlipidaemia, unspecified"
+4628,8881,E11,Type 2 diabetes mellitus
+4629,8882,I10,Essential hypertension
+4630,8883,N39.0,Urinary tract infection
+4631,8886,J45.9,"Asthma, unspecified"
+4632,8889,I25.1,Atherosclerotic heart disease
+4633,8890,R51,Headache
+4634,8892,E78.5,"Hyperlipidaemia, unspecified"
+4635,8893,E11,Type 2 diabetes mellitus
+4636,8899,I25.1,Atherosclerotic heart disease
+4637,8902,I10,Essential hypertension
+4638,8903,C50.9,Malignant neoplasm of breast
+4639,8905,I25.1,ATHEROSCLEROTIC HEART DISEASE
+4640,8907,N39.0,Urinary tract infection
+4641,8908,J06.9,Acute upper respiratory infection
+4642,8909,M17.9,Osteoarthritis of knee
+4643,8911,E11,TYPE 2 DIABETES MELLITUS
+4644,8913,R51,Headache
+4645,8914,J06.9,Acute upper respiratory infection
+4646,8915,K21.9,Gastro-oesophageal reflux disease  
+4647,8916,K21.9,Gastro-oesophageal reflux disease
+4648,8917,F32.9,"MAJOR DEPRESSIVE DISORDER, UNSPECIFIED"
+4649,8920,R51,HEADACHE
+4650,8923,G43.9,"Migraine, unspecified"
+4651,8924,L20.9,Atopic dermatitis
+4652,8929,G43.9,"Migraine, unspecified"
+4653,8931,G43.9,"Migraine, unspecified"
+4654,8933,M17.9,Osteoarthritis of knee  
+4655,8935,I10,Essential hypertension
+4656,8939,C50.9,Malignant neoplasm of breast
+4657,8941,N39.0,Urinary tract infection
+4658,8945,J45.9,"Asthma, unspecified"
+4659,8946,K21.9,Gastro-oesophageal reflux disease
+4660,8948,J45.9,"Asthma, unspecified"
+4661,8951,K21.9,Gastro-oesophageal reflux disease
+4662,8955,E78.5,"Hyperlipidaemia, unspecified"
+4663,8956,E11,Type 2 diabetes mellitus
+4664,8958,N39.0,Urinary tract infection
+4665,8959,N39.0,Urinary tract infection
+4666,8960,M17.9,OSTEOARTHRITIS OF KNEE
+4667,8961,E11,Type 2 diabetes mellitus
+4668,8962,M17.9,Osteoarthritis of knee
+4669,8963,F32.9,"Major depressive disorder, unspecified"
+4670,8964,N39.0,Urinary tract infection
+4671,8965,K21.9,Gastro-oesophageal reflux disease
+4672,8967,F32.9,"Major depressive disorder, unspecified"
+4673,8969,N39.0,Urinary tract infection
+4674,8971,J06.9,Acute upper respiratory infection
+4675,8974,K21.9,Gastro-oesophageal reflux disease
+4676,8975,N39.0,Urinary tract infection
+4677,8976,E78.5,"Hyperlipidaemia, unspecified"
+4678,8977,K21.9,Gastro-oesophageal reflux disease
+4679,8978,G43.9,"Migraine, unspecified"
+4680,8979,E11,Type 2 diabetes mellitus
+4681,8980,I25.1,Atherosclerotic heart disease
+4682,8982,E78.5,"Hyperlipidaemia, unspecified"
+4683,8983,J06.9,Acute upper respiratory infection
+4684,8986,N39.0,Urinary tract infection
+4685,8989,E78.5,"Hyperlipidaemia, unspecified"
+4686,8992,C50.9,Malignant neoplasm of breast
+4687,8994,J06.9,ACUTE UPPER RESPIRATORY INFECTION
+4688,8996,L20.9,Atopic dermatitis
+4689,8999,M54.5,Low back pain

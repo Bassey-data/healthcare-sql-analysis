@@ -1,0 +1,71 @@
+doctor_id,first_name,last_name,department_id,specialisation,hire_date,email
+1,Ruth,Griffiths,,Dermatologist,2022-02-02,ruth.griffiths@nhstrust.example
+2,Duncan,Wilson,9,Psychiatrist,2022-01-07,duncan.wilson@NHSTrust.example
+3,Sian,Cox,9,Psychiatrist,2019-05-06,sian.cox@nhstrust.example
+4,Marie,Oliver,1,Cardiologist,2012-02-16,marie.oliver@nhstrust.example
+5,Charlie,Barnes,3,Paediatrician,2020-02-20,charlie.barnes@nhstrust.example
+6,Chelsea,Ryan,2,Sports Medicine,2020-10-21,cryan@nhstrust.example
+7,Janice,Burton,10,Radiologist,2017-12-30,janice.burton@NHSTrust.example
+8,Ricky,Barker,9,Psychiatrist,2011-10-20,ricky.barker@nhstrust.example
+9,Sam,Harrison,9,Psychiatrist,2016-06-21,sam.harrison@nhstrust.example
+10,Dean,Stevens,6,Oncologist,2022-05-25,dean.stevens@nhstrust.example
+11,Timothy,Green,4,Neurosurgeon,2013-01-23,tgreen@nhstrust.example
+12,Leigh,Butler,2,Sports Medicine,2023-01-03,leigh.butler@nhstrust.example
+13,Kelly,Wilkinson,6,Oncologist,2025-05-01,kelly.wilkinson@nhstrust.example
+14,Gemma,Ferguson,5,General Surgeon,2015-10-25,gemma.ferguson@nhstrust.example
+15,Teresa,Hurst,4,Neurologist,2023-10-09,teresa.hurst@nhstrust.example
+16,Melissa,Lucas,9,Psychiatrist,2012-09-06,mlucas@nhstrust.example
+17,Irene,Wilson,1,Cardiologist,2015-10-05,iwilson@nhstrust.example
+18,Jason,Davis,7,Dermatologist,2023-11-03,jdavis@nhstrust.example
+19,Jessica,White,10,Radiologist,2020-08-10,jessica.white@nhstrust.example
+20,Julie,Marsden,8,Emergency Physician,2016-09-06,julie.marsden@nhstrust.example
+21,Vanessa,Phillips,9,Psychiatrist,2024-10-27,vanessa.phillips@nhstrust.example
+22,Eileen,Hammond,10,Radiologist,2020-08-06,
+23,Eleanor,Briggs,3,Neonatologist,2013-12-30,eleanor.briggs@nhstrust.example
+24,Jessica,Dixon,2,Orthopaedic Surgeon,2024-08-30,jessica.dixon@NHSTrust.example
+25,Charlene,Randall,7,Dermatologist,2021-04-17,charlene.randall@nhstrust.example
+26,William,Wilson,8,Emergency Physician,2012-02-28,wwilson@nhstrust.example
+27,Guy,Alexander,1,Cardiologist,2012-08-20,guy.alexander@nhstrust.example
+28,Kirsty,Hawkins,5,Trauma Surgeon,2016-02-11,kirsty.hawkins@nhstrust.example
+29,Abbie,Morley,8,Emergency Physician,2024-02-04,amorley@nhstrust.example
+30,Carly,Hale,5,General Surgeon,2015-06-02,carly.hale@nhstrust.example
+31,Louis,Morris,5,General Surgeon,2019-04-03,louis.morris@NHSTrust.example
+32,Fiona,Rowe,9,Psychiatrist,2019-11-17,fiona.rowe@nhstrust.example
+33,Linda,Lloyd,2,Sports Medicine,2025-09-03,llloyd@nhstrust.example
+34,Natasha,Hughes,5,General Surgeon,2022-04-16,nhughes@nhstrust.example
+35,Jamie,Gould,2,Orthopaedic Surgeon,2013-12-12,jgould@nhstrust.example
+36,Gail,Oliver,9,Psychiatrist,2012-08-06,gail.oliver@nhstrust.example
+37,Margaret,Wright,9,Psychiatrist,2018-04-06,mwright@nhstrust.example
+38,Tony,Coates,7,Dermatologist,2023-10-05,tony.coates@NHSTrust.example
+39,Mark,Davies,4,Neurosurgeon,2013-04-24,mark.davies@nhstrust.example
+40,Paula,Myers,6,Radiation Oncologist,2022-06-20,paula.myers@nhstrust.example
+41,Maurice,Griffiths,4,Neurologist,2017-10-17,maurice.griffiths@nhstrust.example
+42,Sandra,Harper,9,Psychiatrist,2021-10-26,sandra.harper@nhstrust.example
+43,Marcus,Page,1,Cardiologist,2022-05-17,marcus.page@nhstrust.example
+44,Kathleen,Walker,6,Oncologist,2023-11-23,kathleen.walker@nhstrust.example
+45,Joel,Gray,8,Emergency Physician,2018-10-25,joel.gray@NHSTrust.example
+46,Joe,Gould,10,Radiologist,2022-05-20,joe.gould@nhstrust.example
+47,Sheila,Watson,7,Dermatologist,2024-08-15,sheila.watson@nhstrust.example
+48,David,Anderson,6,Radiation Oncologist,2018-07-20,danderson@nhstrust.example
+49,Nathan,Murray,1,Cardiologist,2024-01-04,nathan.murray@NHSTrust.example
+50,Mohammad,Smith,2,Orthopaedic Surgeon,2015-01-30,mohammad.smith@nhstrust.example
+51,Kirsty,May,3,Neonatologist,2012-11-27,kirsty.may@nhstrust.example
+52,Danielle,Sharp,2,Sports Medicine,2025-05-26,dsharp@nhstrust.example
+53,Stacey,Miller,2,Orthopaedic Surgeon,2013-07-04,stacey.miller@nhstrust.example
+54,Alice,May,1,Cardiologist,2014-01-08,amay@nhstrust.example
+55,Debra,Carr,3,Neonatologist,2017-08-19,debra.carr@nhstrust.example
+56,Phillip,Murray,7,Dermatologist,2022-04-13,phillip.murray@nhstrust.example
+57,Hollie,Lawson,7,Dermatologist,2016-01-27,hollie.lawson@NHSTrust.example
+58,Vanessa,Brooks,5,Trauma Surgeon,2017-11-04,vanessa.brooks@NHSTrust.example
+59,Georgia,Price,9,Psychiatrist,2015-03-07,georgia.price@nhstrust.example
+60,Philip,Haynes,1,Cardiologist,2019-12-12,philip.haynes@nhstrust.example
+61,Bernard,Fox,10,Radiologist,2011-10-23,bfox@nhstrust.example
+62,Lindsey,Yates,3,Paediatrician,2014-11-30,lindsey.yates@nhstrust.example
+63,Ryan,Taylor,3,Paediatrician,2012-09-13,ryan.taylor@nhstrust.example
+64,Frank,White,4,Neurosurgeon,2018-07-03,fwhite@nhstrust.example
+65,Sheila,Daniels,4,Neurologist,2024-10-21,sheila.daniels@nhstrust.example
+66,Alexandra,Allen,10,Radiologist,2015-02-10,alexandra.allen@nhstrust.example
+67,Elaine,Mann,6,Oncologist,2014-05-17,elaine.mann@nhstrust.example
+68,Lewis,Slater,5,Trauma Surgeon,2016-09-01,lewis.slater@NHSTrust.example
+69,Victoria,Jones,2,Orthopaedic Surgeon,2021-11-30,
+70,Ellie,Lambert,2,Orthopaedic Surgeon,2020-10-02,ellie.lambert@nhstrust.example
