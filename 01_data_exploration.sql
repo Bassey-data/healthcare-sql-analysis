@@ -25,7 +25,7 @@ SELECT status, COUNT(*) AS n FROM appointments GROUP BY status ORDER BY n DESC;
 SELECT payment_status, COUNT(*) AS n FROM billing GROUP BY payment_status ORDER BY n DESC;
 SELECT gender, COUNT(*) AS n FROM patients GROUP BY gender ORDER BY n DESC;
 SELECT insurance_provider, COUNT(*) AS n FROM patients GROUP BY insurance_provider ORDER BY n DESC;
--- default collation is case-insensitive, so 'Completed' and 'completed' already
+-- default collation is case-insensitive, so 'Completed' and 'completed' merges
 -- 'No-show' vs 'No Show' and 'M' vs 'Male' do not.
 
 
@@ -37,7 +37,7 @@ SELECT COUNT(*) AS prescription_rows, COUNT(DISTINCT appointment_id) AS distinct
 
 
 
--- Suspicious values (investigated further in 02_data_cleaning.sql)
+-- Suspicious values investigated further in 02_data_cleaning.sql
 SELECT MIN(date_of_birth) AS oldest_dob, MAX(date_of_birth) AS newest_dob FROM patients;
 SELECT MIN(CAST(REPLACE(amount, '£', '') AS DECIMAL(10,2))) AS min_amount,
        MAX(CAST(REPLACE(amount, '£', '') AS DECIMAL(10,2))) AS max_amount
